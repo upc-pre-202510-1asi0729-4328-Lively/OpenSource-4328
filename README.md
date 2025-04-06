@@ -1,25 +1,27 @@
 # Lively  
-**Product: GrandPad**  
+**Producto: GrandPad**  
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**  
+
 <p align="center">
   <img src="./assets/upc-logo.png" alt="UPC Logo" width="200"/>
 </p>
-**Ingeniería de Software**  
-**5to ciclo**  
-**Desarrollo de Aplicaciones Open Source**  
+
+**Carrera: Ingeniería de Software**  
+**Ciclo: 5° ciclo**  
+**Curso: Desarrollo de Aplicaciones Open Source**  
 **Sección: 1ASI0729**  
 **Profesor: Juan Antonio Flores Moroco**  
 
 ## Informe de Trabajo Final  
 **"Lively"**  
-**"GrandPad"**
+**Producto: "GrandPad"**
 
 ### Integrantes:
-- Guzman Chavez Ramiro Alexander – u202217062  
-- Asmad Padilla Fatima Andrea - u20221B490  
-- Quijada Magro Jeremy Alexander - u202219657  
-- Franco Gabriel Huang Liu - u202310345  
-- Muñoz Vilcapoma Mauricio Rigoberto - u202217212  
+- Ramiro Alexander Guzmán Chávez – U202217062  
+- Fátima Andrea Asmad Padilla – U20221B490  
+- Jeremy Alexander Quijada Magro – U202219657  
+- Gabriel Huang Liu Franco – U202310345  
+- Mauricio Rigoberto Muñoz Vilcapoma – U202217212  
 
 **Abril, 2025**  
 **URL del proyecto:** [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
@@ -28,21 +30,21 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor | Descripción |
-|--------|------------|-------|-------------|
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
-| TB1    | XX/XX/XXXX |       |             |
+| Versión | Fecha       | Autor | Descripción |
+|---------|-------------|-------|-------------|
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | XX/XX/XXXX  |       |             |
 
 ---
 
@@ -50,16 +52,16 @@
 
 - **URL de la organización del proyecto:**  
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)  
-- **URL del repositorio del reporte:**  
+- **URL del repositorio del informe:**  
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
 
 ## Contenido  
-**Tabla de contenidos**
+**Tabla de Contenidos:**
 - **Student Outcome**
 - **Capítulo I: Introducción**
   - 1.1. Startup Profile  
-    - 1.1.1. Descripción de la Startup  
-    - 1.1.2. Perfiles de integrantes del equipo  
+    - 1.1.1. Descripción de la startup  
+    - 1.1.2. Perfiles de los integrantes del equipo  
   - 1.2. Solution Profile  
     - 1.2.1. Antecedentes y problemática  
     - 1.2.2. Lean UX Process  
@@ -67,7 +69,7 @@
       - 1.2.2.2. Lean UX Assumptions  
       - 1.2.2.3. Lean UX Hypothesis Statements  
       - 1.2.2.4. Lean UX Canvas  
-    - 1.3. Segmentos objetivo  
+  - 1.3. Segmentos objetivo  
 - **Capítulo II: Requirements Elicitation & Analysis**
   - 2.1. Competidores  
     - 2.1.1. Análisis competitivo  
@@ -118,8 +120,8 @@
   - 4.7. Software Object-Oriented Design  
     - 4.7.1. Class Diagrams  
   - 4.8. Database Design  
-    - 4.7.2. Database Dictionary  
-    - 4.8.1. Database Diagram  
+    - 4.8.1. Database Dictionary  
+    - 4.8.2. Database Diagram  
 - **Capítulo V: Product Implementation, Validation & Deployment**
   - 5.1. Software Configuration Management  
     - 5.1.1. Software Development Environment Configuration  
@@ -133,8 +135,9 @@
       - 5.2.1.3. Development Evidence for Sprint Review  
       - 5.2.1.4. Testing Suite Evidence for Sprint Review  
       - 5.2.1.5. Execution Evidence for Sprint Review  
-      - 5.2.1.7. Software Deployment Evidence for Sprint Review  
-      - 5.2.1.8. Team Collaboration Insights during Sprint  
+      - 5.2.1.6. Software Deployment Evidence for Sprint Review  
+      - 5.2.1.7. Team Collaboration Insights during Sprint  
+
 - **Conclusiones**  
 - **Bibliografía**  
 - **Anexos**  
@@ -145,9 +148,9 @@
 **ABET – EAC - Student Outcome 3**  
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.  
 
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
+En el siguiente cuadro se describen las acciones realizadas y conclusiones del equipo que sustentan el logro del ABET - EAC - Student Outcome 3:
 
-| Criterio específico | Acciones Realizadas | Conclusiones |
+| Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
 | 1. Comunica oralmente con efectividad a diferentes rangos de audiencia |                     |              |
 | 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
