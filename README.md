@@ -6,11 +6,11 @@
   <img src="./assets/upc-logo.png" alt="UPC Logo" width="200"/>
 </p>
 
-**Carrera: Ingeniería de Software**  
-**Ciclo: 5° ciclo**  
-**Curso: Desarrollo de Aplicaciones Open Source**  
-**Sección: 1ASI0729**  
-**Profesor: Juan Antonio Flores Moroco**  
+#### Carrera: Ingeniería de Software  
+#### Ciclo: 5° ciclo  
+#### Curso: Desarrollo de Aplicaciones Open Source  
+#### Sección: 1ASI0729  
+#### Profesor: Juan Antonio Flores Moroco 
 
 ## Informe de Trabajo Final  
 **"Lively"**  
