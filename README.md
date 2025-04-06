@@ -1,6 +1,6 @@
 # Lively  
 **Producto: GrandPad**  
-**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**  
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
   <img src="./assets/upc-logo.png" alt="UPC Logo" width="200"/>
