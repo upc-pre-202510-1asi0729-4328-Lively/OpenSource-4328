@@ -1,7 +1,9 @@
 # Lively  
 **Product: GrandPad**  
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**  
-
+<p align="center">
+  <img src="./assets/upc-logo.png" alt="UPC Logo" width="200"/>
+</p>
 **Ingeniería de Software**  
 **5to ciclo**  
 **Desarrollo de Aplicaciones Open Source**  
@@ -50,13 +52,6 @@
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)  
 - **URL del repositorio del reporte:**  
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
-
----
-
-## TP1  
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
----
 
 ## Contenido  
 **Tabla de contenidos**
