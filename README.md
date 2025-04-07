@@ -1,4 +1,4 @@
-#### 1.2.2.1. Lean UX Problem Statements
+### **1.2.2.1. Lean UX Problem Statements**
 
 **Problem Statment 1:**
 **Usuarios:** Familiares de adultos mayores que residen en asilos.
@@ -15,7 +15,7 @@
 **Necesdad:** Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
 **Solución:** Nuestra plataforma genera reportes detallados y visualizaciones del bienestar general de los residentes, permitiendo tomar decisiones informadas y demostrar compromiso con la calidad del servicio.
 
-#### 1.2.2.2. Lean UX Assumptions
+### **1.2.2.2. Lean UX Assumptions**
 
 **¿Quiénes son nuestros usuarios?**
 **R:** Familiares de adultos mayores que viven en asilos, personal de cuidado (enfermeros, cuidadores) y administradores de centros geriátricos. También incluye a profesionales de la salud interesados en mejorar la atención de los residentes a través del uso de tecnología.
@@ -45,7 +45,7 @@
 
 **R:** La plataforma debe tener un diseño cálido, humano y profesional, con una interfaz clara y amigable tanto para personal médico como para familiares no técnicos. Debe transmitir confianza, ser accesible y mostrar los datos de manera visual y comprensible. Su comportamiento debe ser fluido, confiable y siempre centrado en facilitar el bienestar del residente y la conexión emocional entre familias y cuidadores.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+### **1.2.2.3. Lean UX Hypothesis Statements**
 
 **Creemos que** al implementar una sección de reportes visuales sobre el estado físico y emocional del residente, los familiares se sentirán más tranquilos y confiados respecto al cuidado que recibe su ser querido.
 **Sabremos que** hemos tenido éxito cuando más del 70% de los familiares califiquen como útil o muy útil esta sección en las encuestas de satisfacción.
@@ -57,6 +57,6 @@
 **Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.
 **Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.
 
-**1.2.2.4. Lean UX Canva
+###**1.2.2.4. Lean UX Canva**
 
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
