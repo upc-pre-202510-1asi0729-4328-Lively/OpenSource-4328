@@ -1,6 +1,6 @@
 ### **1.2.2.1. Lean UX Problem Statements**
 
-**Problem Statment 1:**
+**Problem Statment 1:**<br>
 **Usuarios:** Familiares de adultos mayores que residen en asilos.
 **Necesdad:** Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
 **Solución:** Nuestra plataforma proporciona actualizaciones en tiempo real sobre el estado físico y emocional de los residentes, así como herramientas para una comunicación fluida con el personal del asilo.
