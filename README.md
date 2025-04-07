@@ -20,7 +20,7 @@
 **¿Quiénes son nuestros usuarios?**
 **R:** Familiares de adultos mayores que viven en asilos, personal de cuidado (enfermeros, cuidadores) y administradores de centros geriátricos. También incluye a profesionales de la salud interesados en mejorar la atención de los residentes a través del uso de tecnología.
 
-**¿Dónde encaja muestro producto en su trabajo o vida? 
+**¿Dónde encaja muestro producto en su trabajo o vida?** 
 
 **R:** AgeCareDB facilita el seguimiento del bienestar físico y emocional de los adultos mayores en asilos. Para los familiares, representa una fuente confiable de información y tranquilidad. Para el personal, mejora el registro y análisis de datos de salud. Y para los administradores, permite una supervisión más clara del servicio brindado y una mejor comunicación con los familiares.
 
