@@ -57,6 +57,6 @@
 **Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.
 **Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.
 
-###**1.2.2.4. Lean UX Canva**
+### **1.2.2.4. Lean UX Canva**
 
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
