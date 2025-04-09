@@ -60,3 +60,14 @@
 ### **1.2.2.4. Lean UX Canva**
 
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
+
+## **2.3. Needfinding**
+### **2.3.1 User Personas**
+
+**Profesionales de la salud y cuidadores en asilos**
+<p align="center">
+  <img src="./assets/Persona2" alt="Persona2" />
+  
+**Familiares preocupados por sus seres queridos**
+<p align="center">
+  <img src="./assets/Persona1.png" alt="Persona2" />
