@@ -125,3 +125,14 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 - Ambas comparten la tarea de **comunicar el estado de los residentes**. Aunque Laura es quien tiene la responsabilidad directa de gestionar la atención, Lucy necesita esta información para asegurarse de que su madre esté siendo bien cuidada.
 - La **respuesta a preguntas o inquietudes** es una tarea común en ambos casos, aunque la frecuencia e importancia varían según el rol.
+
+
+### **2.3.3 User Journey Mapping**
+
+**Profesionales de la salud y cuidadores en asilos**
+<p align="center">
+  <img src="./assets/Journey2.png" alt="Journey2" />
+  
+**Familiares preocupados por sus seres queridos**
+<p align="center">
+  <img src="./assets/Journey1.png" alt="Journey1" />
