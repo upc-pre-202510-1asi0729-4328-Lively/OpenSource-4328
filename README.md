@@ -136,3 +136,14 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/Journey1.png" alt="Journey1" />
+
+
+### **2.3.4 Empathy Mapping**
+
+**Profesionales de la salud y cuidadores en asilos**
+<p align="center">
+  <img src="./assets/empathy-map-fam.png" alt="empathy-map-fam" />
+  
+**Familiares preocupados por sus seres queridos**
+<p align="center">
+  <img src="./assets/empathy-map-pro.png" alt="empathy-map-pro" />
