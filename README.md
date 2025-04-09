@@ -65,8 +65,20 @@
 
 En esta sección se presenta un análisis detallado de la situación actual (AS-IS) para los diferentes usuarios involucrados en el cuidado de los residentes en asilos de ancianos. A través de este mapeo, identificamos los procesos, las interacciones y las emociones clave de los familiares, el personal del asilo y los administradores, proporcionando una visión clara de los puntos críticos y áreas de oportunidad en la gestión de la atención. 
 
-Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente [enlace](https://lucid.app/lucidspark/6a41f4d0-d91e-468b-b59d-43df6f388e11/edit?viewport_loc=3256%2C-2135%2C5072%2C2879%2C0_0&invitationId=inv_8453e7bd-4629-41c1-bcbe-ab31de734325)<br> 
 
+Figura # :<br>
+AS - IS de User Persona 1: Familiares de los residentes <br>
+
+![Image](https://github.com/user-attachments/assets/89d6d106-cedb-470f-866b-8ddbd4963543)<br>
+Nota: Este mapeo describe las experiencias actuales de los familiares de los residentes en asilos de ancianos.<br>
+
+
+Figura # :<br>
+User Persona 2: Personal del asilo (enfermeras y cuidadores)<br>
+
+![Image](https://github.com/user-attachments/assets/6fd45406-8f59-49ed-944e-8758c81d90ac)<br>
+Nota: Este mapeo describe las experiencias actuales del personal del asilo de ancianos.<br>
 ## 2.4. Ubiquitous Language 
 
 El Lenguaje Ubicuo de Tempo establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
