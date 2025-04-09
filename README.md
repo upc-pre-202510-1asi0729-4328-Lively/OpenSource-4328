@@ -60,3 +60,45 @@
 ### **1.2.2.4. Lean UX Canva**
 
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
+
+## 2.4. Ubiquitous Language 
+
+El Lenguaje Ubicuo de Tempo establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
+
+Tabla #: <br>
+Ubiquitous Lenguaje de Tempo <br>
+
+<table>
+  <tr>
+    <td>Term</td>
+    <td >Definition</td>
+  </tr>
+  <tr>
+    <td >Resident (Residente)</td>
+    <td >Persona adulta mayor que vive en un asilo y es usuaria directa del sistema de atención.</td> 
+  </tr>
+  <tr>
+    <td >Family Member(Familiar)</td>
+    <td >Pariente o tutor legal del residente que tiene acceso a la información sobre su bienestar a través de la plataforma.</td>
+    <tr>
+      <td >Caregiver(Cuidador)</td>
+      <td >Personal del asilo encargado del cuidado directo del residente, incluyendo tareas físicas, emocionales y sociales.</td>
+    </tr>
+    <tr>>
+    <td >Nurse (Enfermera)</td>
+    <td >Profesional de salud que realiza evaluaciones médicas y seguimiento clínico del residente.</td>
+    </tr>
+   <tr>
+     <td >Asylum (Asilo)</td>
+     <td >Institución donde residen y reciben atención adultos mayores; cliente directo de AgeCareDB.</td>
+   </tr>    
+    <tr>
+      <td >Medical Report (Informe Médico)</td>
+      <td >Documento digital generado por el personal de salud con el historial clínico y reportes actuales del residente.</td>
+    </tr>
+    <tr>
+      <td >Daily Activity Log (Registro de Actividades Diarias)</td>
+      <td >Bitácora de las actividades físicas, sociales y recreativas en las que participa un residente cada día.</td>
+    </tr>
+</table>
+
