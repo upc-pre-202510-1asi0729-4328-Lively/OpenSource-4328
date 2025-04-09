@@ -75,7 +75,7 @@ Nota: Este mapeo describe las experiencias actuales de los familiares de los res
 
 
 Figura # :<br>
-User Persona 2: Personal del asilo (enfermeras y cuidadores)<br>
+AS - IS de User Persona 2: Personal del asilo (enfermeras y cuidadores)<br>
 
 ![Image](https://github.com/user-attachments/assets/6fd45406-8f59-49ed-944e-8758c81d90ac)<br>
 Nota: Este mapeo describe las experiencias actuales del personal del asilo de ancianos.<br>
