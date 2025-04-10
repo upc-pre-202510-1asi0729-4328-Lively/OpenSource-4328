@@ -155,7 +155,18 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 |---------------------|---------------------|--------------|
 | 1. Comunica oralmente con efectividad a diferentes rangos de audiencia |                     |              |
 | 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
-=======
+
+# Capitulo I: Introducción
+## **1.1. Startup Profile**
+### **1.1.1. Descripción del Startup**
+**AgeCareDB** es una *startup* dedicada a mejorar la calidad de vida de los residentes de asilos de ancianos y brindar tranquilidad a sus familiares a través de soluciones tecnológicas innovadoras.
+
+Nuestra principal solución, **AgeCareDB**, es una plataforma digital diseñada para recopilar y proporcionar información detallada sobre el bienestar físico y mental de los residentes en tiempo real.
+
+
+
+
+
 ### **1.2.2.1. Lean UX Problem Statements**
 
 **Problem Statment 1:**<br>
