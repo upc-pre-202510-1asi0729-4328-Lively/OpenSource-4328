@@ -164,6 +164,30 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 Nuestra principal solución, **AgeCareDB**, es una plataforma digital diseñada para recopilar y proporcionar información detallada sobre el bienestar físico y mental de los residentes en tiempo real.
 
 
+### 1.2.1.Antecedentes y problemática
+
+**WHAT**<br>
+**AgeCareDB** es una plataforma que recopila datos sobre el bienestar de los residentes en asilos de ancianos en Lima, Perú.
+
+**WHY**<br>
+La plataforma mejora la transparencia y comunicación entre los asilos y los familiares de los residentes.
+
+**WHERE**<br>
+Se utiliza en asilos de ancianos en Lima, Perú, pero los familiares pueden acceder desde cualquier lugar.
+
+**WHO**<br>
+Los usuarios son las **enfermeras**, **cuidadores** y **familiares** de los residentes.  
+- Las enfermeras y cuidadores ingresan datos sobre el bienestar de los residentes.  
+- Los familiares acceden a la plataforma para obtener información en tiempo real.
+
+**WHEN**<br>
+La información se actualiza en **tiempo real**.
+
+**HOW**<br>
+La plataforma permite ingresar y consultar datos de salud física y mental, facilitando el monitoreo constante del estado de los residentes.
+
+**HOW MUCH**<br>
+AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando parte de los **3.9 millones de adultos mayores en situación de vulnerabilidad** en el país.
 
 
 
