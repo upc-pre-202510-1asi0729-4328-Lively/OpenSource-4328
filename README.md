@@ -254,6 +254,42 @@ AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando p
 
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
 
+### **1.3. Segmentos objetivos**
+**Segmentos Objetivos de AgeCareDB**
+
+**a) Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos**
+
+**Descripción del segmento:**  
+Este grupo incluye a hijos, nietos u otros parientes adultos que tienen familiares mayores residiendo en asilos de ancianos. Están motivados por el deseo de asegurar una buena calidad de vida y atención para sus seres queridos, especialmente en contextos donde no pueden estar presentes físicamente.
+
+**Características demográficas:**
+- Edad: Mayores de 18 años.
+- Ubicación: Principalmente en Lima Metropolitana, pero también en otras regiones del Perú e incluso en el extranjero.
+- Nivel educativo: Mayormente con educación secundaria completa o superior.
+- Uso de tecnología: Usuarios activos de smartphones y redes sociales; familiarizados con herramientas digitales.
+
+**Información estadística de sustento:**
+- Según el INEI (2022), el 69.7% de los hogares en Lima tienen acceso a Internet, lo que facilita el uso de plataformas como AgeCareDB para el monitoreo remoto.
+- En Perú, se estima que por cada adulto mayor hay al menos dos familiares directos responsables o interesados en su cuidado (fuente: MIMP).
+
+---
+
+**b) Profesionales de la salud y cuidadores en asilos de ancianos**
+
+**Descripción del segmento:**  
+Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores formales que trabajan directamente en el cuidado diario de adultos mayores en instituciones geriátricas. Son los principales encargados de registrar la información en la plataforma.
+
+**Características demográficas:**
+- Edad: Entre 25 y 60 años.
+- Nivel educativo: Formación técnica o universitaria en salud.
+- Ubicación: Laboran en asilos de Lima, tanto públicos como privados.
+- Uso de tecnología: Experiencia previa con sistemas electrónicos de registro o dispositivos móviles en el entorno laboral.
+
+**Información estadística de sustento:**
+- Según el Minsa, existen más de 1,300 instituciones de cuidado de adultos mayores en Lima.
+- El 81% del personal de salud en instituciones geriátricas reporta necesidad de herramientas digitales para mejorar la atención (fuente: Observatorio de Salud Pública del Perú).
+
+
 ## **2.3. Needfinding**
 ### **2.3.1 User Personas**
 
