@@ -289,6 +289,25 @@ Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores
 - Según el Minsa, existen más de 1,300 instituciones de cuidado de adultos mayores en Lima.
 - El 81% del personal de salud en instituciones geriátricas reporta necesidad de herramientas digitales para mejorar la atención (fuente: Observatorio de Salud Pública del Perú).
 
+# Capitulo II: Requirements Elicitiation & Analysis
+## 2.1 Competidores
+**CarePredict**
+
+Es una startup estadounidense que ha desarrollado un sistema de monitoreo basado en inteligencia artificial para el seguimiento del comportamiento y salud de adultos mayores. Su producto estrella, **Tempo**, es un wearable que detecta cambios en patrones de actividad que pueden indicar problemas de salud o bienestar.
+
+**Birdie**
+
+Empresa británica que ofrece una plataforma digital para el cuidado domiciliario de adultos mayores. Su software permite a cuidadores realizar seguimientos, reportar visitas, documentar medicación y generar reportes en tiempo real para familiares y proveedores de salud.
+
+**GrandPad**
+
+Es una compañía que ofrece tablets simplificadas y diseñadas especialmente para adultos mayores. Incluyen videollamadas, acceso fácil a fotos, música y correo electrónico, con una interfaz muy accesible. Están enfocadas en combatir la soledad y promover la conexión social.
+
+### 2.1.1 Análisis Competitivo
+
+### 2.1.2 Estrategias y Tacticas frente a los competidores
+
+
 ### **2.3.1 Diseño de Entrevistas**
 
 **Preguntas Generales**
