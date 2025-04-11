@@ -305,6 +305,7 @@ Es una startup estadounidense que ha desarrollado un sistema de monitoreo basado
 Empresa británica que ofrece una plataforma digital para el cuidado domiciliario de adultos mayores. Su software permite a cuidadores realizar seguimientos, reportar visitas, documentar medicación y generar reportes en tiempo real para familiares y proveedores de salud.
 
 **GrandPad**
+
 ![GrandPad](https://mma.prnewswire.com/media/694313/GrandPad_logo.jpg?p=publish&w=950https://mma.prnewswire.com/media/804881/CarePredict_Logo.jpg?p=facebook)
 
 Es una compañía que ofrece tablets simplificadas y diseñadas especialmente para adultos mayores. Incluyen videollamadas, acceso fácil a fotos, música y correo electrónico, con una interfaz muy accesible. Están enfocadas en combatir la soledad y promover la conexión social.
