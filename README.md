@@ -289,7 +289,105 @@ Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores
 - Según el Minsa, existen más de 1,300 instituciones de cuidado de adultos mayores en Lima.
 - El 81% del personal de salud en instituciones geriátricas reporta necesidad de herramientas digitales para mejorar la atención (fuente: Observatorio de Salud Pública del Perú).
 
-### **2.3.1 Diseño de Entrevistas**
+# Capitulo II: Requirements Elicitiation & Analysis
+## 2.1 Competidores
+
+**CarePredict**
+
+![CarePredict](https://mma.prnewswire.com/media/804881/CarePredict_Logo.jpg?p=facebook)
+
+Es una startup estadounidense que ha desarrollado un sistema de monitoreo basado en inteligencia artificial para el seguimiento del comportamiento y salud de adultos mayores. Su producto estrella, **Tempo**, es un wearable que detecta cambios en patrones de actividad que pueden indicar problemas de salud o bienestar.
+
+**Birdie**
+
+![Birdie](https://th.bing.com/th/id/OIP.yU2PtN55zvMrb2zlrHZNJwHaDV?rs=1&pid=ImgDetMain)
+
+Empresa británica que ofrece una plataforma digital para el cuidado domiciliario de adultos mayores. Su software permite a cuidadores realizar seguimientos, reportar visitas, documentar medicación y generar reportes en tiempo real para familiares y proveedores de salud.
+
+**GrandPad**
+![GrandPad](https://mma.prnewswire.com/media/694313/GrandPad_logo.jpg?p=publish&w=950https://mma.prnewswire.com/media/804881/CarePredict_Logo.jpg?p=facebook)
+
+Es una compañía que ofrece tablets simplificadas y diseñadas especialmente para adultos mayores. Incluyen videollamadas, acceso fácil a fotos, música y correo electrónico, con una interfaz muy accesible. Están enfocadas en combatir la soledad y promover la conexión social.
+
+## 2.1.1. Análisis Competitivo
+
+### **¿Por qué llevar a cabo este análisis?**
+
+Llevar a cabo este análisis permite identificar y comparar las fortalezas, debilidades y propuestas de valor de los principales competidores, con el fin de mejorar la estrategia de **AgeCare**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
+
+---
+
+### Perfil 
+| Perfil       | AgeCare                                                                 | CarePredict                                                                 | Birdie                                                                              | GrandPad                                                                 |
+|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Overview     | Plataforma digital para el monitoreo físico, emocional y social en geriátricos. | Sistema de monitoreo inteligente para la salud de adultos mayores basado en wearables y IA. | Plataforma digital para la gestión de cuidado domiciliario, enfocada en agencias y cuidadores. | Tablets simplificadas diseñadas para adultos mayores, centradas en la conexión social. |
+| Ventaja Competitiva      | Mejora del bienestar integral y prevención temprana en centros geriátricos. | Predicción temprana de problemas de salud, previniendo emergencias y optimizando la atención médica. | Mejora en la calidad del cuidado y comunicación en tiempo real entre cuidadores, pacientes y familiares. | Conexión social accesible y uso intuitivo para adultos mayores.        |
+
+
+### Perfil de Marketing
+| Perfil de Markteing     | AgeCare                                                     | CarePredict                                                 | Birdie                                                                 | GrandPad                                                   |
+|----------------------|-------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
+| Mercado Objetivo | Geriátricos e instituciones de cuidado de largo plazo.      | Centros geriátricos y residencias para adultos mayores.     | Centros de salud y hogares para adultos mayores que buscan monitoreo. | Agencias de cuidado a domicilio, familias y cuidadores.     |
+| Estrategias de Marketing    | Alianzas estratégicas, demostraciones de valor, participación en eventos del sector salud. | Participación en eventos de salud, conferencias geriátricas, marketing digital a instituciones. | Publicidad en publicaciones médicas, eventos de salud y asociaciones de cuidado.        | Estrategias en redes sociales, marketing de contenido y participación en ferias de salud.   |
+
+### Perfil de Producto 
+| Perfil de Producto | AgeCare                                                                 | CarePredict                                                            | Birdie                                                                 | GrandPad                                           |
+|-----------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------|
+| Productos & Servicios                | Plataforma web con dashboards, alertas, historial de bienestar, módulo social. | Wearable con sensores, app móvil, reportes automáticos.                | Software en la nube, app para cuidadores, alertas familiares.         | Tablet con apps preinstaladas, soporte técnico 24/7. |
+| Precios & Costos           | SaaS por suscripción mensual, escalable según número de residentes.         | Suscripción mensual (wearables incluidos), con costos iniciales altos. | Suscripción por cuidador o paquete según agencia, precio medio-alto. | Compra única del dispositivo + suscripción mensual (desde $49/mes).     |
+| Canales de Distribucion      | Web, móvil (Android/iOS) para profesionales de salud. | Web y App móvil, integración con sistemas médicos. | Web, App móvil para cuidadores y familiares.            | Venta directa en web, retail tech y asociaciones de retiro. |
+
+
+### Análisis SWTO 
+| Analisis SWTO | AgeCare                            | CarePredict                              | Birdie                                      | GrandPad                                             |
+|------------|------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------------------|
+|        Fortalezas    | Plataforma integral (social, emocional, física).<br>Interfaz amigable.<br>Orientación al bienestar. | Tecnología avanzada de IA.<br>Wearables precisos.<br>Detección temprana de emergencias. | Fuerte automatización de procesos.<br>Buen diseño UX.<br>Escalabilidad para agencias. | Hardware diseñado específicamente para mayores.<br>Alta adopción entre usuarios no tecnológicos. |
+|    Debilidades         | Requiere colaboración del personal geriátrico.<br>Aún en etapa de crecimiento. | Costo elevado de implementación.<br>Dependencia del wearable. | Limitado a cuidado domiciliario.<br>Poca personalización emocional. | Menor foco en salud o bienestar físico.<br>Limitada interoperabilidad. |
+|     Oportunidades          | Expansión a seguros y servicios médicos.<br>Integración con dispositivos IoT. | Asociaciones con hospitales y aseguradoras.<br>Expansión global. | Ingreso a nuevos mercados latinos o asiáticos.<br>Servicios premium. | Aumento de la población mayor digital.<br>Integración con salud pública. |
+|    Amenazas      | Competencia con grandes empresas tech.<br>Lenta adopción institucional. | Rápida evolución tecnológica.<br>Problemas de privacidad de datos. | Nuevas plataformas gratuitas o de bajo costo.<br>Regulación cambiante. | Reemplazo por dispositivos móviles más versátiles.<br>Competencia en hardware. |AgeCare**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
+
+### 2.1.2 Estrategias y Tacticas frente a los competidores
+
+**Diferenciación por enfoque institucional**
+
+- **Estrategia:** Enfocar AgeCare exclusivamente en instituciones geriátricas (asilos, residencias y centros de cuidado prolongado), en lugar de domicilios individuales.
+- **Táctica:** Desarrollar funcionalidades específicas como control de turnos, historial por residente, alertas múltiples y reportes agregados para administradores y personal de salud.
+
+> Esta estrategia **responde a las fortalezas** de Birdie y GrandPad en el cuidado domiciliario, pero se **especializa en un segmento institucional poco cubierto**, aprovechando su limitada personalización para contextos geriátricos.
+
+**Modelo SaaS accesible y escalable**
+
+- **Estrategia:** Ofrecer un modelo de suscripción mensual sin necesidad de inversión en hardware.
+- **Táctica:** Diseñar planes escalables según el número de residentes, con opciones básicas y premium.
+
+> Esta estrategia **aprovecha las debilidades** de CarePredict y GrandPad, cuyos modelos requieren hardware propietario y altos costos iniciales. También **mitiga amenazas económicas**, facilitando la adopción en mercados emergentes.
+
+
+**Valor diferencial: bienestar emocional y social**
+
+- **Estrategia:** Incorporar el monitoreo emocional y social como parte central de la plataforma.
+- **Táctica:** Ofrecer un módulo de actividades, interacción familiar, retroalimentación emocional y seguimiento de participación.
+
+> Esta propuesta **capitaliza las debilidades** de la competencia, que se enfocan mayormente en el aspecto físico, y **aprovecha la oportunidad** de una población mayor más conectada emocional y digitalmente.
+
+**Interoperabilidad como ventaja competitiva**
+
+- **Estrategia:** Diseñar AgeCare como un sistema abierto y adaptable a otros entornos digitales.
+- **Táctica:** Desarrollar una API que permita integrar la plataforma con historiales médicos, CRMs institucionales, herramientas de comunicación o dispositivos IoT.
+
+> Esta táctica **responde a la amenaza** de la rápida evolución tecnológica y **aprovecha la debilidad** de plataformas cerradas como Birdie y GrandPad que presentan baja interoperabilidad.
+
+
+**Enfoque en privacidad y cumplimiento normativo**
+
+- **Estrategia:** Incorporar políticas de privacidad desde el diseño (privacy by design).
+- **Táctica:** Alinear la plataforma con normativas internacionales como GDPR y HIPAA, y destacarlo como valor agregado para instituciones preocupadas por la seguridad de los datos.
+
+> Esta medida **mitiga amenazas legales y regulatorias**, fortaleciendo la confianza institucional y brindando un diferenciador competitivo en entornos altamente regulados.
+
+## 2.2. Entrevistas 
+
+### **2.2.1 Diseño de Entrevistas**
 
 **Preguntas Generales**
 
@@ -337,8 +435,10 @@ Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores
 12. ¿Qué importancia le das a la actualización y seguimiento de las políticas y normativas en el cuidado de los adultos mayores en el asilo?  
 
 
-### **2.3.2 Registro de Entrevistas**
-### **2.3.3 Analisis de Entrevistas**
+### **2.2.2 Registro de Entrevistas**
+
+
+### **2.2.3 Analisis de Entrevistas**
 
 ## **2.3. Needfinding**
 ### **2.3.1 User Personas**
