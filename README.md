@@ -57,6 +57,7 @@
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
 ---
 ## Contenido
+#### Tabla de contenidos
 
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -103,11 +104,7 @@
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-      - [Desktop Web Browser](#desktop-web-browser)
-      - [Mobile Web Browser](#mobile-web-browser)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-      - [Desktop Web Browser](#desktop-web-browser-1)
-      - [Mobile Web Browser](#mobile-web-browser-1)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -120,9 +117,9 @@
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Dictionary](#481-database-dictionary)
-    - [4.8.2. Database Diagram](#482-database-diagram)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -130,18 +127,25 @@
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Software Deployment Evidence for Sprint Review](#5216-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.7. Team Collaboration Insights during Sprint](#5217-team-collaboration-insights-during-sprint)
+    - [5.2.X. Sprint n](#52x-sprint-n)
+      - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
+      - [5.2.X.2. Aspect Leaders and Collaborators](#52x2-aspect-leaders-and-collaborators)
+      - [5.2.X.3. Sprint Backlog n](#52x3-sprint-backlog-n)
+      - [5.2.X.4. Development Evidence for Sprint Review](#52x4-development-evidence-for-sprint-review)
+      - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
+      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
+      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
+      - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-
 
 ---
 
@@ -247,15 +251,7 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 #### 4.3.1. Landing Page Wireframe
 
-##### Desktop Web Browser
-
-##### Mobile Web Browser
-
 #### 4.3.2. Landing Page Mock-up
-
-##### Desktop Web Browser
-
-##### Mobile Web Browser
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -281,43 +277,42 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 #### 4.7.1. Class Diagrams
 
-### 4.8. Database Design
+### 4.7.2 Class Dictionary
 
-#### 4.8.1. Database Dictionary
+#### 4.8 Database Design
 
-#### 4.8.2. Database Diagram
+#### 4.8.1. Database Diagram
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
-
 #### 5.1.1. Software Development Environment Configuration
-
 #### 5.1.2. Source Code Management
-
 #### 5.1.3. Source Code Style Guide & Conventions
-
 #### 5.1.4. Software Deployment Configuration
 
 ### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.X. Sprint n
+##### 5.2.X.1. Sprint Planning n
+##### 5.2.X.2. Aspect Leaders and Collaborators
+##### 5.2.X.3. Sprint Backlog n
+##### 5.2.X.4. Development Evidence for Sprint Review
+##### 5.2.X.5. Execution Evidence for Sprint Review
+##### 5.2.X.6. Services Documentation Evidence for Sprint Review
+##### 5.2.X.7. Software Deployment Evidence for Sprint Review
+##### 5.2.X.8. Team Collaboration Insights during Sprint
 
-#### 5.2.1. Sprint 1
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
 
-##### 5.2.1.1. Sprint Planning 1
-
-##### 5.2.1.2. Sprint Backlog 1
-
-##### 5.2.1.3. Development Evidence for Sprint Review
-
-##### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
-##### 5.2.1.5. Execution Evidence for Sprint Review
-
-##### 5.2.1.6. Software Deployment Evidence for Sprint Review
-
-##### 5.2.1.7. Team Collaboration Insights during Sprint
+### 5.4. Video About-the-Product
 
 ## Conclusiones
+### Conclusiones y recomendaciones
+
+## Video About-the-Team
 
 ## Bibliografía
 
