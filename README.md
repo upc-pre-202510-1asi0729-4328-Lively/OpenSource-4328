@@ -265,6 +265,8 @@ AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando p
 **Descripción del segmento:**  
 Este grupo incluye a hijos, nietos u otros parientes adultos que tienen familiares mayores residiendo en asilos de ancianos. Están motivados por el deseo de asegurar una buena calidad de vida y atención para sus seres queridos, especialmente en contextos donde no pueden estar presentes físicamente.
 
+
+
 **Características demográficas:**
 - Edad: Mayores de 18 años.
 - Ubicación: Principalmente en Lima Metropolitana, pero también en otras regiones del Perú e incluso en el extranjero.
@@ -291,7 +293,66 @@ Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores
 **Información estadística de sustento:**
 - Según el Minsa, existen más de 1,300 instituciones de cuidado de adultos mayores en Lima.
 - El 81% del personal de salud en instituciones geriátricas reporta necesidad de herramientas digitales para mejorar la atención (fuente: Observatorio de Salud Pública del Perú).
-- 
+
+### 2.3.5. As-is Scenario Mapping. 
+
+En esta sección se presenta un análisis detallado de la situación actual (AS-IS) para los diferentes usuarios involucrados en el cuidado de los residentes en asilos de ancianos. A través de este mapeo, identificamos los procesos, las interacciones y las emociones clave de los familiares, el personal del asilo y los administradores, proporcionando una visión clara de los puntos críticos y áreas de oportunidad en la gestión de la atención. 
+
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente [enlace](https://lucid.app/lucidspark/6a41f4d0-d91e-468b-b59d-43df6f388e11/edit?viewport_loc=3256%2C-2135%2C5072%2C2879%2C0_0&invitationId=inv_8453e7bd-4629-41c1-bcbe-ab31de734325)<br> 
+
+Figura # :<br>
+AS - IS de User Persona 1: Familiares de los residentes <br>
+
+![Image](https://github.com/user-attachments/assets/89d6d106-cedb-470f-866b-8ddbd4963543)<br>
+Nota: Este mapeo describe las experiencias actuales de los familiares de los residentes en asilos de ancianos.<br>
+
+
+Figura # :<br>
+AS - IS de User Persona 2: Personal del asilo (enfermeras y cuidadores)<br>
+
+![Image](https://github.com/user-attachments/assets/6fd45406-8f59-49ed-944e-8758c81d90ac)<br>
+Nota: Este mapeo describe las experiencias actuales del personal del asilo de ancianos.<br>
+## 2.4. Ubiquitous Language 
+
+El Lenguaje Ubicuo de Tempo establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
+
+Tabla #: <br>
+Ubiquitous Lenguaje de Tempo <br>
+
+<table>
+  <tr>
+    <td>Term</td>
+    <td >Definition</td>
+  </tr>
+  <tr>
+    <td >Resident (Residente)</td>
+    <td >Persona adulta mayor que vive en un asilo y es usuaria directa del sistema de atención.</td> 
+  </tr>
+  <tr>
+    <td >Family Member(Familiar)</td>
+    <td >Pariente o tutor legal del residente que tiene acceso a la información sobre su bienestar a través de la plataforma.</td>
+    <tr>
+      <td >Caregiver(Cuidador)</td>
+      <td >Personal del asilo encargado del cuidado directo del residente, incluyendo tareas físicas, emocionales y sociales.</td>
+    </tr>
+    <tr>>
+    <td >Nurse (Enfermera)</td>
+    <td >Profesional de salud que realiza evaluaciones médicas y seguimiento clínico del residente.</td>
+    </tr>
+   <tr>
+     <td >Asylum (Asilo)</td>
+     <td >Institución donde residen y reciben atención adultos mayores; cliente directo de AgeCareDB.</td>
+   </tr>    
+    <tr>
+      <td >Medical Report (Informe Médico)</td>
+      <td >Documento digital generado por el personal de salud con el historial clínico y reportes actuales del residente.</td>
+    </tr>
+    <tr>
+      <td >Daily Activity Log (Registro de Actividades Diarias)</td>
+      <td >Bitácora de las actividades físicas, sociales y recreativas en las que participa un residente cada día.</td>
+    </tr>
+</table>
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
@@ -620,3 +681,4 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 ## Bibliografía
 
 ## Anexos
+
