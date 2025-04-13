@@ -515,6 +515,7 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/empathy-map-pro.png" alt="empathy-map-pro" />
+  
 #### 2.3.5. As-is Scenario Mapping
 
 ### 2.4. Ubiquitous Language
