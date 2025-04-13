@@ -495,6 +495,19 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 12. ¿Qué importancia le das a la actualización y seguimiento de las políticas y normativas en el cuidado de los adultos mayores en el asilo?  
 #### 2.2.2. Registro de entrevistas
 
+#### Entrevista 1
+En esta sección se aborda la investigación, tomando como base la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Se consideraron dos grupos clave: familiares mayores de 18 años preocupados por el bienestar de sus seres queridos y profesionales de la salud y cuidadores en asilos de ancianos. La información obtenida tiene como propósito comprender las necesidades, preocupaciones y expectativas de ambos grupos para el desarrollo de AgeCareDB.
+
+| **Datos del entrevistado** |
+|------------------------|
+| **Nombre:** Carlos Angulo Solis |
+| **Edad:** 27 |
+| **Procedencia:** Lima |
+| **Segmento:** Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
+| **Resumen:** Expresa que su principal inquietud es no recibir información constante o detallada, y que le gustaría tener una comunicación más activa y directa con el personal. Valora mucho la posibilidad de contar con una plataforma para estar informado en tiempo real sobre la salud física y mental de su ser querido, especialmente si incluye alertas, reportes periódicos y un historial médico accesible. Además, sugiere que los asilos deberían ofrecer más actividades recreativas y servicios complementarios que estimulen el bienestar emocional de los residentes. Destaca la importancia de poder participar en las decisiones sobre el cuidado, y también insiste en que la seguridad y privacidad de la información deben ser una prioridad en cualquier sistema digital. |
+| **Enlace de video:** [https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing](https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing) |
+
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
