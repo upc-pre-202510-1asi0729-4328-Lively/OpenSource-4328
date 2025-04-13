@@ -55,97 +55,100 @@
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)  
 - **URL del repositorio del informe:**  
   [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
+---
+## Contenido
+#### Tabla de contenidos
 
-## Contenido  
-**Tabla de Contenidos:**
-- **Student Outcome**
-- **Capítulo I: Introducción**
-  - 1.1. Startup Profile  
-    - 1.1.1. Descripción de la startup  
-    - 1.1.2. Perfiles de los integrantes del equipo  
-  - 1.2. Solution Profile  
-    - 1.2.1. Antecedentes y problemática  
-    - 1.2.2. Lean UX Process  
-      - 1.2.2.1. Lean UX Problem Statements  
-      - 1.2.2.2. Lean UX Assumptions  
-      - 1.2.2.3. Lean UX Hypothesis Statements  
-      - 1.2.2.4. Lean UX Canvas  
-  - 1.3. Segmentos objetivo  
-- **Capítulo II: Requirements Elicitation & Analysis**
-  - 2.1. Competidores  
-    - 2.1.1. Análisis competitivo  
-    - 2.1.2. Estrategias y tácticas frente a competidores  
-  - 2.2. Entrevistas  
-    - 2.2.1. Diseño de entrevistas  
-    - 2.2.2. Registro de entrevistas  
-    - 2.2.3. Análisis de entrevistas  
-  - 2.3. Needfinding  
-    - 2.3.1. User Personas  
-    - 2.3.2. User Task Matrix  
-    - 2.3.3. User Journey Mapping  
-    - 2.3.4. Empathy Mapping  
-    - 2.3.5. As-is Scenario Mapping  
-  - 2.4. Ubiquitous Language  
-- **Capítulo III: Requirements Specification**
-  - 3.1. To-Be Scenario Mapping  
-  - 3.2. User Stories  
-  - 3.3. Impact Mapping  
-  - 3.4. Product Backlog  
-- **Capítulo IV: Product Design**
-  - 4.1. Style Guidelines  
-    - 4.1.1. General Style Guidelines  
-    - 4.1.2. Web Style Guidelines  
-  - 4.2. Information Architecture  
-    - 4.2.1. Organization Systems  
-    - 4.2.2. Labeling Systems  
-    - 4.2.3. SEO Tags and Meta Tags  
-    - 4.2.4. Searching Systems  
-    - 4.2.5. Navigation Systems  
-  - 4.3. Landing Page UI Design  
-    - 4.3.1. Landing Page Wireframe  
-      - Desktop Web Browser  
-      - Mobile Web Browser  
-    - 4.3.2. Landing Page Mock-up  
-      - Desktop Web Browser  
-      - Mobile Web Browser  
-  - 4.4. Web Applications UX/UI Design  
-    - 4.4.1. Web Applications Wireframes  
-    - 4.4.2. Web Applications Wireflow Diagrams  
-    - 4.4.3. Web Applications Mock-ups  
-    - 4.4.4. Web Applications User Flow Diagrams  
-  - 4.5. Web Applications Prototyping  
-  - 4.6. Domain-Driven Software Architecture  
-    - 4.6.1. Software Architecture Context Diagram  
-    - 4.6.2. Software Architecture Container Diagrams  
-    - 4.6.3. Software Architecture Components Diagrams  
-  - 4.7. Software Object-Oriented Design  
-    - 4.7.1. Class Diagrams  
-  - 4.8. Database Design  
-    - 4.8.1. Database Dictionary  
-    - 4.8.2. Database Diagram  
-- **Capítulo V: Product Implementation, Validation & Deployment**
-  - 5.1. Software Configuration Management  
-    - 5.1.1. Software Development Environment Configuration  
-    - 5.1.2. Source Code Management  
-    - 5.1.3. Source Code Style Guide & Conventions  
-    - 5.1.4. Software Deployment Configuration  
-  - 5.2. Landing Page, Services & Applications Implementation  
-    - 5.2.1. Sprint 1  
-      - 5.2.1.1. Sprint Planning 1  
-      - 5.2.1.2. Sprint Backlog 1  
-      - 5.2.1.3. Development Evidence for Sprint Review  
-      - 5.2.1.4. Testing Suite Evidence for Sprint Review  
-      - 5.2.1.5. Execution Evidence for Sprint Review  
-      - 5.2.1.6. Software Deployment Evidence for Sprint Review  
-      - 5.2.1.7. Team Collaboration Insights during Sprint  
-
-- **Conclusiones**  
-- **Bibliografía**  
-- **Anexos**  
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.X. Sprint n](#52x-sprint-n)
+      - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
+      - [5.2.X.2. Aspect Leaders and Collaborators](#52x2-aspect-leaders-and-collaborators)
+      - [5.2.X.3. Sprint Backlog n](#52x3-sprint-backlog-n)
+      - [5.2.X.4. Development Evidence for Sprint Review](#52x4-development-evidence-for-sprint-review)
+      - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
+      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
+      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
+      - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 ---
 
-## Student Outcome  
 **ABET – EAC - Student Outcome 3**  
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.  
 
@@ -156,77 +159,81 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 | 1. Comunica oralmente con efectividad a diferentes rangos de audiencia |                     |              |
 | 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
 
-# Capitulo I: Introducción
-## **1.1. Startup Profile**
-### **1.1.1. Descripción del Startup**
+---
+
+## Student Outcome
+
+## Capítulo I: Introducción
+
+### 1.1. Startup Profile
+
+#### 1.1.1. Descripción de la startup
 **AgeCareDB** es una *startup* dedicada a mejorar la calidad de vida de los residentes de asilos de ancianos y brindar tranquilidad a sus familiares a través de soluciones tecnológicas innovadoras.
 
 Nuestra principal solución, **AgeCareDB**, es una plataforma digital diseñada para recopilar y proporcionar información detallada sobre el bienestar físico y mental de los residentes en tiempo real.
 
+#### 1.1.2. Perfiles de los integrantes del equipo
 
-### 1.2.1.Antecedentes y problemática
+### 1.2. Solution Profile
 
-**WHAT**<br>
+#### 1.2.1. Antecedentes y problemática
+**WHAT**
 **AgeCareDB** es una plataforma que recopila datos sobre el bienestar de los residentes en asilos de ancianos en Lima, Perú.
 
-**WHY**<br>
+**WHY**
 La plataforma mejora la transparencia y comunicación entre los asilos y los familiares de los residentes.
 
-**WHERE**<br>
+**WHERE**
 Se utiliza en asilos de ancianos en Lima, Perú, pero los familiares pueden acceder desde cualquier lugar.
 
-**WHO**<br>
+**WHO**
 Los usuarios son las **enfermeras**, **cuidadores** y **familiares** de los residentes.  
 - Las enfermeras y cuidadores ingresan datos sobre el bienestar de los residentes.  
 - Los familiares acceden a la plataforma para obtener información en tiempo real.
 
-**WHEN**<br>
+**WHEN**
 La información se actualiza en **tiempo real**.
 
-**HOW**<br>
+**HOW**
 La plataforma permite ingresar y consultar datos de salud física y mental, facilitando el monitoreo constante del estado de los residentes.
 
-**HOW MUCH**<br>
+**HOW MUCH**
 AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando parte de los **3.9 millones de adultos mayores en situación de vulnerabilidad** en el país.
+#### 1.2.2. Lean UX Process
+##### 1.2.2.1. Lean UX Problem Statements
+**Problem Statment 1:**
+**Usuarios:** Familiares de adultos mayores que residen en asilos.
+**Necesdad:** Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
+**Solución:** Nuestra plataforma proporciona actualizaciones en tiempo real sobre el estado físico y emocional de los residentes, así como herramientas para una comunicación fluida con el personal del asilo.
 
+**Problem Statment 2:**
+**Usuarios:** Personal de cuidado en asilos de ancianos.
+**Necesdad:** Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.
+**Solución:** AgeCareDB ofrece una interfaz intuitiva para el registro de datos clínicos y emocionales, facilitando el seguimiento del estado de cada residente y mejorando la coordinación del equipo de atención.
 
+**Problem Statment 3:**
+**Usuarios:** Directores o administradores de asilos.
+**Necesdad:** Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
+**Solución:** Nuestra plataforma genera reportes detallados y visualizaciones del bienestar general de los residentes, permitiendo tomar decisiones informadas y demostrar compromiso con la calidad del servicio.
 
-### **1.2.2.1. Lean UX Problem Statements**
+##### 1.2.2.2. Lean UX Assumptions
+**¿Quiénes son nuestros usuarios?**
+**R:** Familiares de adultos mayores que viven en asilos, personal de cuidado (enfermeros, cuidadores) y administradores de centros geriátricos. También incluye a profesionales de la salud interesados en mejorar la atención de los residentes a través del uso de tecnología.
 
-**Problem Statment 1:**<br>
-**Usuarios:** Familiares de adultos mayores que residen en asilos.<br>
-**Necesdad:** Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.<br>
-**Solución:** Nuestra plataforma proporciona actualizaciones en tiempo real sobre el estado físico y emocional de los residentes, así como herramientas para una comunicación fluida con el personal del asilo.<br>
+**¿Dónde encaja muestro producto en su trabajo o vida?**
 
-**Problem Statment 2:**<br>
-**Usuarios:** Personal de cuidado en asilos de ancianos.<br>
-**Necesdad:** Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.<br>
-**Solución:** AgeCareDB ofrece una interfaz intuitiva para el registro de datos clínicos y emocionales, facilitando el seguimiento del estado de cada residente y mejorando la coordinación del equipo de atención.<br>
+**R:** AgeCareDB facilita el seguimiento del bienestar físico y emocional de los adultos mayores en asilos. Para los familiares, representa una fuente confiable de información y tranquilidad. Para el personal, mejora el registro y análisis de datos de salud. Y para los administradores, permite una supervisión más clara del servicio brindado y una mejor comunicación con los familiares.
 
-**Problem Statment 3:**<br>
-**Usuarios:** Directores o administradores de asilos.<br>
-**Necesdad:** Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.<br>
-**Solución:** Nuestra plataforma genera reportes detallados y visualizaciones del bienestar general de los residentes, permitiendo tomar decisiones informadas y demostrar compromiso con la calidad del servicio.<br>
+**¿Qué problema podría afrontar nuestro producto y cómo podemos resolverlo?**
 
-### **1.2.2.2. Lean UX Assumptions**
+**Problema:** Los familiares suelen sentirse desconectados o preocupados por la falta de información sobre el estado de salud de sus seres queridos en los asilos. Al mismo tiempo, el personal se ve sobrecargado con registros manuales y comunicación informal.
+**Solución:** AgeCareDB centraliza la información clínica y emocional de los residentes, proporciona actualizaciones en tiempo real a los familiares y optimiza el trabajo del personal con herramientas intuitivas de registro, alertas inteligentes y comunicación directa.
 
-**¿Quiénes son nuestros usuarios?**<br>
-**R:** Familiares de adultos mayores que viven en asilos, personal de cuidado (enfermeros, cuidadores) y administradores de centros geriátricos. También incluye a profesionales de la salud interesados en mejorar la atención de los residentes a través del uso de tecnología.<br>
+**¿Cuándo y cómo se utiliza?**
 
-**¿Dónde encaja muestro producto en su trabajo o vida?**<br> 
+**R:** AgeCareDB puede utilizarse en cualquier momento desde un dispositivo móvil o computadora. El personal del asilo lo emplea durante las rutinas de cuidado para registrar observaciones; los familiares acceden para revisar el estado de sus seres queridos y comunicarse con el equipo de atención; los administradores lo usan para generar reportes y evaluar la calidad del servicio.
 
-**R:** AgeCareDB facilita el seguimiento del bienestar físico y emocional de los adultos mayores en asilos. Para los familiares, representa una fuente confiable de información y tranquilidad. Para el personal, mejora el registro y análisis de datos de salud. Y para los administradores, permite una supervisión más clara del servicio brindado y una mejor comunicación con los familiares.<br>
-
-**¿Qué problema podría afrontar nuestro producto y cómo podemos resolverlo?**<br>
-
-**Problema:** Los familiares suelen sentirse desconectados o preocupados por la falta de información sobre el estado de salud de sus seres queridos en los asilos. Al mismo tiempo, el personal se ve sobrecargado con registros manuales y comunicación informal.<br>
-**Solución:** AgeCareDB centraliza la información clínica y emocional de los residentes, proporciona actualizaciones en tiempo real a los familiares y optimiza el trabajo del personal con herramientas intuitivas de registro, alertas inteligentes y comunicación directa.<br>
-
-**¿Cuándo y cómo se utiliza?**<br>
-
-**R:** AgeCareDB puede utilizarse en cualquier momento desde un dispositivo móvil o computadora. El personal del asilo lo emplea durante las rutinas de cuidado para registrar observaciones; los familiares acceden para revisar el estado de sus seres queridos y comunicarse con el equipo de atención; los administradores lo usan para generar reportes y evaluar la calidad del servicio.<br>
-
-**¿Qué características son importantes?**<br>
+**¿Qué características son importantes?**
 
 - Registro fácil y rápido del estado físico y emocional de los residentes.
 - Actualizaciones en tiempo real accesibles para los familiares.
@@ -234,27 +241,23 @@ AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando p
 - Panel de control para los administradores con reportes visuales.
 - Canal de comunicación directa entre familia y personal del asilo.
 
-**¿Cómo debe verse nuestro producto y cómo comportarse?**<br>
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
 
-**R:** La plataforma debe tener un diseño cálido, humano y profesional, con una interfaz clara y amigable tanto para personal médico como para familiares no técnicos. Debe transmitir confianza, ser accesible y mostrar los datos de manera visual y comprensible. Su comportamiento debe ser fluido, confiable y siempre centrado en facilitar el bienestar del residente y la conexión emocional entre familias y cuidadores.<br>
+**R:** La plataforma debe tener un diseño cálido, humano y profesional, con una interfaz clara y amigable tanto para personal médico como para familiares no técnicos. Debe transmitir confianza, ser accesible y mostrar los datos de manera visual y comprensible. Su comportamiento debe ser fluido, confiable y siempre centrado en facilitar el bienestar del residente y la conexión emocional entre familias y cuidadores.
 
-### **1.2.2.3. Lean UX Hypothesis Statements**
-
-**Creemos que** al implementar una sección de reportes visuales sobre el estado físico y emocional del residente, los familiares se sentirán más tranquilos y confiados respecto al cuidado que recibe su ser querido.<br>
-**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares califiquen como útil o muy útil esta sección en las encuestas de satisfacción.<br>
-**Sabremos que** esto es verdad porque los reportes han sido visualizados con frecuencia y han generado comentarios positivos sobre la mejora en la comunicación y transparencia.<br>
-**Creemos que** al implementar un canal directo de mensajería entre familiares y el personal del asilo, se reducirá la ansiedad de los familiares y se fortalecerá la relación entre ambas partes.<br>
-**Sabremos que** hemos tenido éxito cuando al menos el 60% de los usuarios activos utilicen este canal para comunicarse y lo califiquen como efectivo.<br>
-**Sabremos que** esto es verdad porque veremos una reducción en las llamadas de quejas o incertidumbre, y un aumento en interacciones positivas vía plataforma.<br>
-**Creemos que** al implementar un sistema de alertas automatizadas cuando un residente muestra signos tempranos de deterioro en su salud, el personal podrá actuar más rápido y con mayor precisión.<br>
-**Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.<br>
-**Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.<br>
-
-### **1.2.2.4. Lean UX Canva**
-
+##### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos que** al implementar una sección de reportes visuales sobre el estado físico y emocional del residente, los familiares se sentirán más tranquilos y confiados respecto al cuidado que recibe su ser querido.
+**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares califiquen como útil o muy útil esta sección en las encuestas de satisfacción.
+**Sabremos que** esto es verdad porque los reportes han sido visualizados con frecuencia y han generado comentarios positivos sobre la mejora en la comunicación y transparencia.
+**Creemos que** al implementar un canal directo de mensajería entre familiares y el personal del asilo, se reducirá la ansiedad de los familiares y se fortalecerá la relación entre ambas partes.
+**Sabremos que** hemos tenido éxito cuando al menos el 60% de los usuarios activos utilicen este canal para comunicarse y lo califiquen como efectivo.
+**Sabremos que** esto es verdad porque veremos una reducción en las llamadas de quejas o incertidumbre, y un aumento en interacciones positivas vía plataforma.
+**Creemos que** al implementar un sistema de alertas automatizadas cuando un residente muestra signos tempranos de deterioro en su salud, el personal podrá actuar más rápido y con mayor precisión.
+**Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.
+**Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.
+##### 1.2.2.4. Lean UX Canvas
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
-
-### **1.3. Segmentos objetivos**
+### 1.3. Segmentos objetivo
 **Segmentos Objetivos de AgeCareDB**
 
 **a) Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos**
@@ -288,10 +291,10 @@ Incluye a enfermeras, técnicos en enfermería, médicos geriatras, y cuidadores
 **Información estadística de sustento:**
 - Según el Minsa, existen más de 1,300 instituciones de cuidado de adultos mayores en Lima.
 - El 81% del personal de salud en instituciones geriátricas reporta necesidad de herramientas digitales para mejorar la atención (fuente: Observatorio de Salud Pública del Perú).
+- 
+## Capítulo II: Requirements Elicitation & Analysis
 
-# Capitulo II: Requirements Elicitiation & Analysis
-## 2.1 Competidores
-
+### 2.1. Competidores
 **CarePredict**
 
 ![CarePredict](./assets/CarePredict_Logo.jpg)
@@ -309,9 +312,7 @@ Empresa británica que ofrece una plataforma digital para el cuidado domiciliari
 ![GrandPad](./assets/GrandPad_logo.jpg)
 
 Es una compañía que ofrece tablets simplificadas y diseñadas especialmente para adultos mayores. Incluyen videollamadas, acceso fácil a fotos, música y correo electrónico, con una interfaz muy accesible. Están enfocadas en combatir la soledad y promover la conexión social.
-
-## 2.1.1. Análisis Competitivo
-
+#### 2.1.1. Análisis competitivo
 ### **¿Por qué llevar a cabo este análisis?**
 
 Llevar a cabo este análisis permite identificar y comparar las fortalezas, debilidades y propuestas de valor de los principales competidores, con el fin de mejorar la estrategia de **AgeCare**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
@@ -342,13 +343,11 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 ### Análisis SWTO 
 | Analisis SWTO | AgeCare                            | CarePredict                              | Birdie                                      | GrandPad                                             |
 |------------|------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------------------|
-|        Fortalezas    | Plataforma integral (social, emocional, física).<br>Interfaz amigable.<br>Orientación al bienestar. | Tecnología avanzada de IA.<br>Wearables precisos.<br>Detección temprana de emergencias. | Fuerte automatización de procesos.<br>Buen diseño UX.<br>Escalabilidad para agencias. | Hardware diseñado específicamente para mayores.<br>Alta adopción entre usuarios no tecnológicos. |
-|    Debilidades         | Requiere colaboración del personal geriátrico.<br>Aún en etapa de crecimiento. | Costo elevado de implementación.<br>Dependencia del wearable. | Limitado a cuidado domiciliario.<br>Poca personalización emocional. | Menor foco en salud o bienestar físico.<br>Limitada interoperabilidad. |
-|     Oportunidades          | Expansión a seguros y servicios médicos.<br>Integración con dispositivos IoT. | Asociaciones con hospitales y aseguradoras.<br>Expansión global. | Ingreso a nuevos mercados latinos o asiáticos.<br>Servicios premium. | Aumento de la población mayor digital.<br>Integración con salud pública. |
-|    Amenazas      | Competencia con grandes empresas tech.<br>Lenta adopción institucional. | Rápida evolución tecnológica.<br>Problemas de privacidad de datos. | Nuevas plataformas gratuitas o de bajo costo.<br>Regulación cambiante. | Reemplazo por dispositivos móviles más versátiles.<br>Competencia en hardware. |AgeCare**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
-
-### 2.1.2 Estrategias y Tacticas frente a los competidores
-
+|        Fortalezas    | Plataforma integral (social, emocional, física).Interfaz amigable. Orientación al bienestar. | Tecnología avanzada de IA. Wearables precisos. Detección temprana de emergencias. | Fuerte automatización de procesos. Buen diseño UX. Escalabilidad para agencias. | Hardware diseñado específicamente para mayores. Alta adopción entre usuarios no tecnológicos. |
+|    Debilidades         | Requiere colaboración del personal geriátrico. Aún en etapa de crecimiento. | Costo elevado de implementación. Dependencia del wearable. | Limitado a cuidado domiciliario. Poca personalización emocional. | Menor foco en salud o bienestar físico. Limitada interoperabilidad. |
+|     Oportunidades          | Expansión a seguros y servicios médicos. Integración con dispositivos IoT. | Asociaciones con hospitales y aseguradoras. Expansión global. | Ingreso a nuevos mercados latinos o asiáticos. Servicios premium. | Aumento de la población mayor digital. Integración con salud pública. |
+|    Amenazas      | Competencia con grandes empresas tech. Lenta adopción institucional. | Rápida evolución tecnológica. Problemas de privacidad de datos. | Nuevas plataformas gratuitas o de bajo costo. Regulación cambiante. | Reemplazo por dispositivos móviles más versátiles. Competencia en hardware. |AgeCare**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
+#### 2.1.2. Estrategias y tácticas frente a competidores
 **Diferenciación por enfoque institucional**
 
 - **Estrategia:** Enfocar AgeCare exclusivamente en instituciones geriátricas (asilos, residencias y centros de cuidado prolongado), en lugar de domicilios individuales.
@@ -386,10 +385,9 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 
 > Esta medida **mitiga amenazas legales y regulatorias**, fortaleciendo la confianza institucional y brindando un diferenciador competitivo en entornos altamente regulados.
 
-## 2.2. Entrevistas 
+### 2.2. Entrevistas
 
-### **2.2.1 Diseño de Entrevistas**
-
+#### 2.2.1. Diseño de entrevistas
 **Preguntas Generales**
 
 1. ¿Cuál es su nombre completo?  
@@ -434,16 +432,13 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 10. ¿Cómo gestionas la distribución de tareas y la coordinación del personal para garantizar una atención de calidad?  
 11. ¿Qué medidas implementarías para garantizar la privacidad y dignidad de los residentes en el asilo?  
 12. ¿Qué importancia le das a la actualización y seguimiento de las políticas y normativas en el cuidado de los adultos mayores en el asilo?  
+#### 2.2.2. Registro de entrevistas
 
+#### 2.2.3. Análisis de entrevistas
 
-### **2.2.2 Registro de Entrevistas**
+### 2.3. Needfinding
 
-
-### **2.2.3 Analisis de Entrevistas**
-
-## **2.3. Needfinding**
-### **2.3.1 User Personas**
-
+#### 2.3.1. User Personas
 **Profesionales de la salud y cuidadores en asilos**
 <p align="center">
   <img src="./assets/Persona1.png" alt="Persona2" />
@@ -451,11 +446,7 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/Persona2" alt="Persona1" />
-
-
-### **2.3.2 User Task Matrix**
-
-
+#### 2.3.2. User Task Matrix
 En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
 1. **Laura Martínez** (Profesional de la salud y cuidadora en un asilo de ancianos).  
 2. **Lucy Anderson** (Familiar preocupado por el bienestar de su ser querido en un asilo).
@@ -505,10 +496,7 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 - Ambas comparten la tarea de **comunicar el estado de los residentes**. Aunque Laura es quien tiene la responsabilidad directa de gestionar la atención, Lucy necesita esta información para asegurarse de que su madre esté siendo bien cuidada.
 - La **respuesta a preguntas o inquietudes** es una tarea común en ambos casos, aunque la frecuencia e importancia varían según el rol.
-
-
-### **2.3.3 User Journey Mapping**
-
+#### 2.3.3. User Journey Mapping
 **Profesionales de la salud y cuidadores en asilos**
 <p align="center">
   <img src="./assets/Journey2.png" alt="Journey2" />
@@ -516,10 +504,7 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/Journey1.png" alt="Journey1" />
-
-
-### **2.3.4 Empathy Mapping**
-
+#### 2.3.4. Empathy Mapping
 **Profesionales de la salud y cuidadores en asilos**
 <p align="center">
   <img src="./assets/empathy-map-fam.png" alt="empathy-map-fam" />
@@ -527,4 +512,107 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/empathy-map-pro.png" alt="empathy-map-pro" />
+#### 2.3.5. As-is Scenario Mapping
 
+### 2.4. Ubiquitous Language
+
+## Capítulo III: Requirements Specification
+
+### 3.1. To-Be Scenario Mapping
+
+### 3.2. User Stories
+
+### 3.3. Impact Mapping
+
+### 3.4. Product Backlog
+
+## Capítulo IV: Product Design
+
+### 4.1. Style Guidelines
+
+#### 4.1.1. General Style Guidelines
+
+#### 4.1.2. Web Style Guidelines
+
+### 4.2. Information Architecture
+
+#### 4.2.1. Organization Systems
+
+#### 4.2.2. Labeling Systems
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+#### 4.2.4. Searching Systems
+
+#### 4.2.5. Navigation Systems
+
+### 4.3. Landing Page UI Design
+
+#### 4.3.1. Landing Page Wireframe
+
+#### 4.3.2. Landing Page Mock-up
+
+### 4.4. Web Applications UX/UI Design
+
+#### 4.4.1. Web Applications Wireframes
+
+#### 4.4.2. Web Applications Wireflow Diagrams
+
+#### 4.4.3. Web Applications Mock-ups
+
+#### 4.4.4. Web Applications User Flow Diagrams
+
+### 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+
+#### 4.6.1. Software Architecture Context Diagram
+
+#### 4.6.2. Software Architecture Container Diagrams
+
+#### 4.6.3. Software Architecture Components Diagrams
+
+### 4.7. Software Object-Oriented Design
+
+#### 4.7.1. Class Diagrams
+
+### 4.7.2 Class Dictionary
+
+#### 4.8 Database Design
+
+#### 4.8.1. Database Diagram
+
+## Capítulo V: Product Implementation, Validation & Deployment
+
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.X. Sprint n
+##### 5.2.X.1. Sprint Planning n
+##### 5.2.X.2. Aspect Leaders and Collaborators
+##### 5.2.X.3. Sprint Backlog n
+##### 5.2.X.4. Development Evidence for Sprint Review
+##### 5.2.X.5. Execution Evidence for Sprint Review
+##### 5.2.X.6. Services Documentation Evidence for Sprint Review
+##### 5.2.X.7. Software Deployment Evidence for Sprint Review
+##### 5.2.X.8. Team Collaboration Insights during Sprint
+
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product
+
+## Conclusiones
+### Conclusiones y recomendaciones
+
+## Video About-the-Team
+
+## Bibliografía
+
+## Anexos
