@@ -446,6 +446,7 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 **Familiares preocupados por sus seres queridos**
 <p align="center">
   <img src="./assets/Persona2" alt="Persona1" />
+  
 #### 2.3.2. User Task Matrix
 En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
 1. **Laura Martínez** (Profesional de la salud y cuidadora en un asilo de ancianos).  
