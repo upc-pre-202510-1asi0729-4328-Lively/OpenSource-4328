@@ -643,6 +643,169 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 ### 4.7.2 Class Dictionary
 
+Este es el formato deberán seguir nuestras colecciones en SQL para replicar nuestras entidades de la base de datos.
+
+### NursingHome  
+**Descripción**: Tabla que representa los hogares de cuidado donde residen los adultos mayores.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+NursingHomeId      | int                | Identificador único del hogar de cuidado  
+Name               | varchar(100)       | Nombre del hogar  
+Location           | varchar(200)       | Dirección del hogar  
+Contact            | varchar(100)       | Información de contacto  
+
+### Resident  
+**Descripción**: Tabla que almacena la información personal de los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+ResidentId         | int                | Identificador único del residente  
+DNI                | varchar(20)        | Documento Nacional de Identidad  
+FirstName          | varchar(100)       | Nombres del residente  
+LastName           | varchar(100)       | Apellidos del residente  
+BirthDate          | date               | Fecha de nacimiento  
+Gender             | varchar(10)        | Género  
+EducationLevel     | varchar(100)       | Nivel de educación  
+PreviousJob        | varchar(100)       | Ocupación previa  
+NursingHomeId      | int                | FK al hogar de cuidado  
+
+### FamilyMember  
+**Descripción**: Tabla que representa a los familiares de los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+FamilyMemberId     | int                | Identificador único del familiar  
+FirstName          | varchar(100)       | Nombres del familiar  
+LastName           | varchar(100)       | Apellidos del familiar  
+DNI                | varchar(20)        | Documento de identidad  
+Phone              | varchar(20)        | Número de teléfono  
+ParticipationLevel | varchar(100)       | Nivel de participación  
+Address            | varchar(200)       | Dirección  
+
+### ResidentFamilyMember  
+**Descripción**: Relación entre los residentes y sus familiares.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+ResidentId         | int                | FK al residente  
+FamilyMemberId     | int                | FK al familiar  
+
+### MedicalHistory  
+**Descripción**: Historial médico general de los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+MedicalHistoryId   | int                | Identificador del historial médico  
+PreviousDiseases   | varchar(200)       | Enfermedades previas  
+Allergies          | varchar(200)       | Alergias  
+LastConsultationDate | date             | Fecha de última consulta  
+Specialist         | varchar(200)       | Especialista que atendió  
+BloodType          | varchar(10)        | Tipo de sangre  
+ResidentId         | int                | FK al residente  
+DoctorId           | int                | FK al doctor  
+
+### Doctor  
+**Descripción**: Tabla que almacena la información de los doctores asignados.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+DoctorId           | int                | Identificador único del doctor  
+FirstName          | varchar(100)       | Nombre  
+LastName           | varchar(100)       | Apellido  
+Speciality         | varchar(100)       | Especialidad  
+Phone              | varchar(20)        | Teléfono  
+NursingHomeId      | int                | FK al hogar de cuidado  
+
+### Nurse  
+**Descripción**: Tabla que almacena la información de las enfermeras.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+NurseId            | int                | Identificador único de la enfermera  
+FirstName          | varchar(100)       | Nombre  
+LastName           | varchar(100)       | Apellido  
+Phone              | varchar(20)        | Teléfono  
+NursingHomeId      | int                | FK al hogar de cuidado  
+
+### Medication  
+**Descripción**: Tabla con los medicamentos registrados en el hogar.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+MedicationId       | int                | Identificador del medicamento  
+Name               | varchar(100)       | Nombre del medicamento  
+Description        | varchar(200)       | Descripción  
+Effects            | varchar(200)       | Efectos secundarios  
+
+### ResidentMedication  
+**Descripción**: Relación entre los medicamentos y su administración a los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+Date               | date               | Fecha de administración  
+Time               | time               | Hora de administración  
+Dosage             | varchar(100)       | Dosis  
+ResidentId         | int                | FK al residente  
+MedicationId       | int                | FK al medicamento  
+
+### MedicalRecord  
+**Descripción**: Registro de diagnósticos y tratamientos médicos de los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+MedicalRecordId    | int                | Identificador del registro  
+Date               | date               | Fecha del registro  
+Diagnosis          | text               | Diagnóstico médico  
+Treatment          | text               | Tratamiento aplicado  
+BloodType          | varchar(10)        | Tipo de sangre  
+ResidentId         | int                | FK al residente  
+NurseId            | int                | FK a la enfermera  
+
+### MentalHealthRecord  
+**Descripción**: Registro del estado de salud mental de los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+MentalHealthId     | int                | Identificador del registro  
+Date               | date               | Fecha del registro  
+Evaluation         | text               | Evaluación psicológica  
+Note               | text               | Notas adicionales  
+BloodType          | varchar(10)        | Tipo de sangre  
+ResidentId         | int                | FK al residente  
+NurseId            | int                | FK a la enfermera  
+
+### ActivityLog  
+**Descripción**: Registro de las actividades realizadas por los residentes.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+ActivityLogId      | int                | Identificador del log de actividad  
+Date               | date               | Fecha de la actividad  
+Activity           | varchar(100)       | Nombre de la actividad  
+Notes              | text               | Notas o comentarios  
+ParticipationLevel | varchar(100)       | Nivel de participación  
+Resident_ResidentId| int                | FK al residente  
+Nurse_NurseId      | int                | FK a la enfermera  
+
+### PaymentMethod  
+**Descripción**: Tabla con los métodos de pago aceptados por los hogares.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+PaymentMethodId    | int                | Identificador del método de pago  
+Description        | text               | Descripción del método  
+
+### FinancialInfo  
+**Descripción**: Relación entre métodos de pago y hogares.
+
+Campo              | Tipo de dato       | Descripción
+-------------------|--------------------|---------------------------------------------------
+PaymentMethodId    | int                | FK al método de pago  
+NursingHomeId      | int                | FK al hogar de cuidado  
+
+
+
 #### 4.8 Database Design
 
 #### 4.8.1. Database Diagram
