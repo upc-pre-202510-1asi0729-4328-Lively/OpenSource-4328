@@ -601,7 +601,7 @@ En esta sección, sentamos las bases para contar con un repositorio central y or
 
 #### Branding
 
-**AgeCareDB** busca reflejar confianza, cuidado y tecnología humana. El logo debe evocar protección, salud y conexión familiar, integrando íconos sutiles como corazones, hogares o siluetas de adultos mayores con una tipografía clara y moderna. El branding se construye sobre la base de:
+Buscamos reflejar confianza, cuidado y tecnología humana. Asi que para brindar protección, salud y conexión familiar, debemos integrar íconos sutiles como corazones, hogares o siluetas de adultos mayores con una tipografía clara y moderna. El branding se construye sobre la base de:
 
 - **Misión:** Proporcionar soluciones tecnológicas que prioricen el bienestar.  
 - **Visión:** Crear entornos dignos y seguros para adultos mayores usando tecnología.
@@ -653,7 +653,7 @@ Finalmente, elegimos un estilo **sereno y empático** para crear un ambiente de 
 
 #### 4.1.2. Web Style Guidelines
 
-La interfaz de **AgeCareDB** está diseñada bajo el principio de *mobile-first*, asegurando que el contenido sea completamente funcional y accesible en pantallas pequeñas, y luego se adapte progresivamente a resoluciones mayores (tablet y desktop).
+La interfaz está diseñada bajo el principio de *mobile-first*, asegurando que el contenido sea completamente funcional y accesible en pantallas pequeñas, y luego se adapte progresivamente a resoluciones mayores (tablet y desktop).
 
 
 #### **Breakpoints definidos**
@@ -690,7 +690,6 @@ Se utiliza la tipografía **Open Sans**, elegida por su legibilidad en pantallas
 
 Una experiencia de usuario sólida y accesible depende no solo de un buen diseño visual, sino también de una estructura de información clara y coherente. Para garantizar una experiencia visual efectiva, se definieron tres formas principales de organizar el contenido: **jerárquica**, **secuencial** y **matricial**, las cuales se aplican estratégicamente en distintas áreas de la interfaz.
 
-
 #### **Jerarquía visual (Visual Hierarchy)**
 
 La jerarquía visual se aplica principalmente en las páginas de inicio de sesión, dashboards y vistas de resumen, donde es esencial que el usuario identifique de forma inmediata la información más relevante.  
@@ -716,12 +715,9 @@ La jerarquía visual se aplica principalmente en las páginas de inicio de sesi�
 
 Esta estructura mejora la toma de decisiones al reducir la carga cognitiva y dirigir la atención de manera efectiva.
 
-
 #### **Organización secuencial (Step-by-Step)**
 
-En flujos que requieren la introducción progresiva de datos o la realización de procesos paso a paso (como el registro de nuevos residentes), se emplea una organización secuencial.
-
-Este enfoque guía al usuario a través de una serie de pasos claramente definidos, reduciendo errores y asegurando la completitud de la información ingresada.
+En flujos que requieren la introducción progresiva de datos o la realización de procesos paso a paso (como el registro de nuevos residentes), se emplea una organización secuencial. Este enfoque guía al usuario a través de una serie de pasos claramente definidos, reduciendo errores y asegurando la completitud de la información ingresada.
 
 ***Características clave:***
 
@@ -735,12 +731,9 @@ Este enfoque guía al usuario a través de una serie de pasos claramente definid
 - Onboarding de nuevos usuarios  
 - Actualizaciones de información crítica
 
-
 #### **Organización matricial (Matrix Layout)**
 
-En secciones analíticas, como la visualización de indicadores de salud o registros de actividades por múltiples residentes, se adopta una estructura matricial.
-
-Este enfoque facilita la comparación directa de variables entre distintos elementos, por ejemplo:
+En secciones analíticas, como la visualización de indicadores de salud o registros de actividades por múltiples residentes, se adopta una estructura matricial. Este enfoque facilita la comparación directa de variables entre distintos elementos, por ejemplo:
 
 - Frecuencia de consultas médicas  
 - Estado emocional registrado  
@@ -753,8 +746,6 @@ Este enfoque facilita la comparación directa de variables entre distintos eleme
 - Visualización multivariable  
 
 Esto resulta especialmente útil para profesionales de la salud al identificar correlaciones, tendencias o casos que requieren atención inmediata.
-
-Además de la estructura visual, **AgeCareDB** incorpora distintos esquemas de categorización del contenido, según el tipo de usuario, la naturaleza de la información y su propósito funcional.
 
 #### **Por audiencia (User-Based Categorization)**
 
@@ -818,7 +809,7 @@ Un sistema de etiquetado bien diseñado:
 - Mejora la navegabilidad  
 - Refuerza la confianza en la interfaz  
 
-El sistema de etiquetas de AgeCareDB se rige por los siguientes **principios**:
+El sistema de etiquetas se rige por los siguientes **principios**:
 
 - **Lenguaje claro y directo**:  
   Se utilizan palabras comunes, comprensibles por personas sin conocimientos técnicos.
@@ -842,7 +833,7 @@ La **Landing Page** está diseñada para atraer nuevos usuarios, informar sobre 
 El título resume de forma directa el propósito del sitio, incluyendo las palabras clave **"tecnología"**, **"bienestar"** y **"adultos mayores"**, que son términos con alta relevancia SEO para nuestro público objetivo.
 
 ```html
-<title>AgeCareDB – Tecnología para el bienestar de los adultos mayores</title>
+<title>RedVital – Tecnología para el bienestar de los adultos mayores</title>
 ```
 
 **Meta descripción (Meta Description)**
@@ -850,7 +841,7 @@ El título resume de forma directa el propósito del sitio, incluyendo las palab
 La meta descripción ofrece una vista clara del valor que ofrece la plataforma, motivando al clic desde los resultados de búsqueda.
 
 ```html
-<meta name="description" content="AgeCareDB es una plataforma digital que mejora la calidad de vida de los residentes en asilos, conectando a sus familias con información en tiempo real.">
+<meta name="description" content="RedVital es una plataforma digital que mejora la calidad de vida de los residentes en asilos, conectando a sus familias con información en tiempo real.">
 ```
 
 **Palabras clave (Meta Keywords)**
