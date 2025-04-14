@@ -593,8 +593,6 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 ## Capítulo IV: Product Design
 
-## Capítulo IV: Product Design
-
 ### 4.1. Style Guidelines
 
 En esta sección, sentamos las bases para contar con un repositorio central y organizado de uso común para todo el equipo, que incluye assets, fonts, etc. Esto con el fin de mantener una presentación consistente y enfocada.
