@@ -593,23 +593,339 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 ## Capítulo IV: Product Design
 
+## Capítulo IV: Product Design
+
 ### 4.1. Style Guidelines
+
+En esta sección, sentamos las bases para contar con un repositorio central y organizado de uso común para todo el equipo, que incluye assets, fonts, etc. Esto con el fin de mantener una presentación consistente y enfocada.
 
 #### 4.1.1. General Style Guidelines
 
+#### Branding
+
+**AgeCareDB** busca reflejar confianza, cuidado y tecnología humana. El logo debe evocar protección, salud y conexión familiar, integrando íconos sutiles como corazones, hogares o siluetas de adultos mayores con una tipografía clara y moderna. El branding se construye sobre la base de:
+
+- **Misión:** Proporcionar soluciones tecnológicas que prioricen el bienestar.  
+- **Visión:** Crear entornos dignos y seguros para adultos mayores usando tecnología.
+
+**Principios de Marca:**
+
+- **Confiable:** Priorizamos la transparencia y exactitud de los datos.  
+- **Empático:** Enfatizamos el lado humano de la tecnología.  
+- **Innovador:** Usamos herramientas digitales para mejorar experiencias.
+
+#### Typography
+
+La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Open Sans**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
+
+#### Colors
+
+Elegimos los siguientes colores buscando plasmar una paleta relajante y profesional:
+
+- **Azul claro:** Representa calma y confianza. Es ideal para el fondo o elementos principales.  
+- **Verde suave:** Transmite salud y bienestar. Úsalo para botones o detalles importantes.  
+- **Blanco:** Mantiene el diseño limpio y accesible, perfecto para el fondo o texto.
+
+#### Spacing
+
+Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y accesibilidad, así que por eso tomamos estas decisiones:
+
+- **Espaciado entre párrafos:** Dejar un espacio adicional entre párrafos, equivalente a al menos el tamaño de una línea completa. Esto ayuda a separar visualmente las ideas.  
+- **Espaciado entre elementos interactivos:** 8-12 píxeles de espacio entre botones, enlaces o cualquier elemento clicable. Esto evitará errores al tocar en pantallas táctiles.  
+- **Márgenes y padding:** Usar márgenes generosos de 16-24 píxeles alrededor del contenido para evitar que se sienta abarrotado.
+
+#### Tono de Comunicación
+
+| Dimensión              | Nivel Adoptado    |
+|------------------------|-------------------|
+| Divertido/Serio        | Medio-Serio       |
+| Formal/Casual          | Semi-Formal       |
+| Respetuoso/Irreverente | Muy Respetuoso    |
+| Entusiasta/Sereno      | Sereno y Empático |
+
+Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan sensible como el cuidado de personas mayores. 
+
+Optamos por un tono **medio-serio** y **semi-formal** para garantizar que la información sea accesible sin perder la seriedad y el respeto que merece. Además, priorizamos un tono **muy respetuoso** para transmitir empatía y consideración en cada interacción. 
+
+Finalmente, elegimos un estilo **sereno y empático** para crear un ambiente de confianza y tranquilidad, permitiendo que los usuarios se sientan escuchados y apoyados. Consideramos que este balance refleja los valores esenciales de nuestra propuesta y fortalece nuestra relación con los usuarios.
+
 #### 4.1.2. Web Style Guidelines
+
+La interfaz de **AgeCareDB** está diseñada bajo el principio de *mobile-first*, asegurando que el contenido sea completamente funcional y accesible en pantallas pequeñas, y luego se adapte progresivamente a resoluciones mayores (tablet y desktop).
+
+
+#### **Breakpoints definidos**
+
+| Dispositivo     | Ancho mínimo | Ejemplo de uso            |
+|-----------------|--------------|----------------------------|
+| Mobile          | ≥ 320px      | Teléfonos                  |
+| Tablet          | ≥ 768px      | iPad / tablets genéricas   |
+| Laptop/Desktop  | ≥ 1024px     | Monitores y laptops        |
+| Wide Screen     | ≥ 1440px     | Pantallas grandes o TV     |
+
+#### **Navegación**
+
+- **Menú tipo hamburguesa en mobile**: para conservar espacio.
+- **Menú horizontal en desktop**: visibilidad directa de opciones principales.
+- **Sticky navbar**: permite al usuario moverse sin perder acceso al menú.
+- **Breadcrumbs en secciones profundas** (en tablets y desktop): para mejorar la navegación contextual.
+
+
+#### **Tipografía Adaptada**
+
+Se utiliza la tipografía **Open Sans**, elegida por su legibilidad en pantallas, y adaptada según el dispositivo:
+
+| Elemento        | Mobile | Tablet | Desktop |
+|-----------------|--------|--------|---------|
+| Título H1       | 24px   | 32px   | 40px    |
+| Subtítulo H2    | 20px   | 26px   | 32px    |
+| Texto cuerpo    | 16px   | 18px   | 18px    |
+| Texto secundario| 14px   | 16px   | 16px    |
 
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
 
+Una experiencia de usuario sólida y accesible depende no solo de un buen diseño visual, sino también de una estructura de información clara y coherente. Para garantizar una experiencia visual efectiva, se definieron tres formas principales de organizar el contenido: **jerárquica**, **secuencial** y **matricial**, las cuales se aplican estratégicamente en distintas áreas de la interfaz.
+
+
+#### **Jerarquía visual (Visual Hierarchy)**
+
+La jerarquía visual se aplica principalmente en las páginas de inicio de sesión, dashboards y vistas de resumen, donde es esencial que el usuario identifique de forma inmediata la información más relevante.  
+
+***Esta organización prioriza datos clave como:***
+
+- Estado actual del residente  
+- Alertas médicas activas  
+- Mensajes importantes del personal del asilo  
+
+***Estos elementos se presentan con:***
+
+- Tipografía destacada  
+- Iconografía de apoyo  
+- Colorimetría adecuada  
+
+***Luego se despliega información secundaria como:***
+
+- Actividades recientes  
+- Historial clínico  
+- Notas de enfermería  
+- Registros emocionales  
+
+Esta estructura mejora la toma de decisiones al reducir la carga cognitiva y dirigir la atención de manera efectiva.
+
+
+#### **Organización secuencial (Step-by-Step)**
+
+En flujos que requieren la introducción progresiva de datos o la realización de procesos paso a paso (como el registro de nuevos residentes), se emplea una organización secuencial.
+
+Este enfoque guía al usuario a través de una serie de pasos claramente definidos, reduciendo errores y asegurando la completitud de la información ingresada.
+
+***Características clave:***
+
+- Botones de navegación  
+- Indicadores de progreso  
+- Validaciones en tiempo real  
+
+***También se aplica en:***
+
+- Flujos de configuración inicial  
+- Onboarding de nuevos usuarios  
+- Actualizaciones de información crítica
+
+
+#### **Organización matricial (Matrix Layout)**
+
+En secciones analíticas, como la visualización de indicadores de salud o registros de actividades por múltiples residentes, se adopta una estructura matricial.
+
+Este enfoque facilita la comparación directa de variables entre distintos elementos, por ejemplo:
+
+- Frecuencia de consultas médicas  
+- Estado emocional registrado  
+- Medicación activa  
+
+***Características adicionales:***
+
+- Tablas con ordenamiento dinámico  
+- Filtros por categoría  
+- Visualización multivariable  
+
+Esto resulta especialmente útil para profesionales de la salud al identificar correlaciones, tendencias o casos que requieren atención inmediata.
+
+Además de la estructura visual, **AgeCareDB** incorpora distintos esquemas de categorización del contenido, según el tipo de usuario, la naturaleza de la información y su propósito funcional.
+
+#### **Por audiencia (User-Based Categorization)**
+
+El contenido mostrado se adapta automáticamente al perfil del usuario:
+
+- **Familiares**: estados emocionales, mensajes del personal, evolución general del residente  
+- **Enfermeras**: registros médicos, horarios de atención, alertas clínicas  
+- **Administradores**: gestión de personal, medicamentos, documentación del asilo  
+
+
+#### **Cronológica (Chronological Organization)**
+
+***Usada en módulos con seguimiento temporal, como:***
+
+- Historial médico  
+- Registros de salud mental  
+- Actividades diarias  
+
+***Permite:***
+
+- Reconstruir el estado de salud a lo largo del tiempo  
+- Identificar momentos críticos  
+- Evaluar el impacto de intervenciones médicas o emocionales
+
+#### **Por tópicos (Topic-Based Organization)**
+
+***Facilita el acceso a contenido informativo o de soporte:***
+
+- Tutoriales  
+- Preguntas frecuentes  
+- Guías  
+- Comunicados internos  
+
+***Agrupados por áreas de interés:***
+
+- “Emergencias”  
+- “Medicación”  
+- “Conectividad con familiares”  
+- “Uso de la plataforma”  
+
+
+#### **Alfabética (Alphabetical Organization)**
+
+***Aplicada en listados extensos como:***
+
+- Catálogo de medicamentos  
+- Listado de residentes  
+- Personal del asilo  
+
+***Facilita la búsqueda rápida con:***
+
+- Funciones de autocompletado  
+- Filtros alfabéticos por letra inicial
+
 #### 4.2.2. Labeling Systems
+
+La forma en que se etiquetan y presentan los datos dentro de nuestra plataforma, es clave para garantizar una experiencia fluida, comprensible y sin ambigüedades.  
+Un sistema de etiquetado bien diseñado:
+
+- Reduce la carga cognitiva del usuario  
+- Mejora la navegabilidad  
+- Refuerza la confianza en la interfaz  
+
+El sistema de etiquetas de AgeCareDB se rige por los siguientes **principios**:
+
+- **Lenguaje claro y directo**:  
+  Se utilizan palabras comunes, comprensibles por personas sin conocimientos técnicos.
+
+- **Brevedad**:  
+  Cada etiqueta usa el mínimo número de palabras necesarias (generalmente una o dos) para evitar sobrecargar visualmente la interfaz.
+
+- **Consistencia semántica**:  
+  Una misma acción o conjunto de datos siempre se representa con la misma etiqueta a lo largo de toda la plataforma.
+
+- **Enfoque contextual**:  
+  Las etiquetas se adaptan al perfil del usuario (familiar o personal de salud), evitando confusiones en el uso de los términos.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+La **Landing Page** está diseñada para atraer nuevos usuarios, informar sobre la propuesta de valor y generar confianza en la marca.  Las etiquetas meta se centran en captar tráfico orgánico de personas interesadas en tecnología para el cuidado de adultos mayores.
+
+
+**Título de la página (Title)**
+
+El título resume de forma directa el propósito del sitio, incluyendo las palabras clave **"tecnología"**, **"bienestar"** y **"adultos mayores"**, que son términos con alta relevancia SEO para nuestro público objetivo.
+
+```html
+<title>AgeCareDB – Tecnología para el bienestar de los adultos mayores</title>
+```
+
+**Meta descripción (Meta Description)**
+
+La meta descripción ofrece una vista clara del valor que ofrece la plataforma, motivando al clic desde los resultados de búsqueda.
+
+```html
+<meta name="description" content="AgeCareDB es una plataforma digital que mejora la calidad de vida de los residentes en asilos, conectando a sus familias con información en tiempo real.">
+```
+
+**Palabras clave (Meta Keywords)**
+
+Los términos elegidos cubren conceptos clave relacionados con el contexto de uso de AgeCareDB, permitiendo un mayor alcance en búsquedas asociadas.
+
+```html
+<meta name="keywords" content="asilos, adultos mayores, salud emocional, bienestar, plataforma digital, monitoreo, cuidados geriátricos, comunicación familiar">
+```
+
+
+**Autor del sitio (Meta Author)**
+
+La etiqueta autor identifica al equipo creador, útil para fines de propiedad y referencia en motores de búsqueda.
+
+```html
+<meta name="author" content="Equipo AgeCareDB">
+```
+
 #### 4.2.4. Searching Systems
 
+Para facilitar que los usuarios (familiares, enfermeras, cuidadores) naveguen entre grandes volúmenes de información, evitando que se sientan perdidos y garantizando una experiencia ágil y eficiente, se tomaron las siguientes decisiones para el sistema de búsqueda:
+
+### Opciones de búsqueda
+
+**Búsqueda directa:**  
+- Los usuarios pueden ingresar palabras clave como *"Estado emocional"* o *"Historial médico"* para obtener resultados específicos.  
+- Utiliza un sistema de **autocompletado** para ayudar a refinar la búsqueda y evitar errores tipográficos.
+
+**Búsqueda avanzada:**  
+- Filtros por categoría: *estado físico, emocional, actividades realizadas*.  
+- Búsqueda por fecha específica para encontrar registros actualizados.  
+- Filtros de acceso restringido para familiares autorizados a consultar datos privados.
+
+### Resultados después de la búsqueda
+
+- **Formato visual:**  
+  Resultados organizados en **tarjetas** con detalles clave como:  
+  - Nombre del residente  
+  - Última actualización de salud  
+  - Medicación actual
+
+- **Opciones de acción:**  
+  - Botones para **descargar información**,  
+  - **Solicitar informes detallados**  
+  - **Enviar mensajes** al personal encargado.
+
+- **Aspectos destacados:**  
+  Las **palabras clave** buscadas se resaltan dentro de los resultados para facilitar la navegación y comprensión.
+
 #### 4.2.5. Navigation Systems
+
+Las siguientes acciones y técnicas se han implementado para garantizar una navegación eficiente y accesible en AgeCareDB:
+
+### Acciones y técnicas para la navegación
+
+- **Menú superior persistente:**  
+  Se ha implementado un **menú superior** persistente en la **Landing Page**, con secciones claras como:  
+  - **Inicio**  
+  - **Información de Residentes**  
+  - **Servicios**  
+  - **Actividades**  
+  - **Contacto**
+
+- **Enlaces destacados y botones Call-to-Action (CTA):**  
+  Se utilizan enlaces destacados y botones **CTA** que redirigen a vistas específicas dentro de la aplicación web, por ejemplo:  
+  - _"Consultar estado de mi familiar"_ dirigido a información personalizada del residente.
+
+
+### Diseño adaptable
+
+- **Diseño responsivo:**  
+  El diseño es **responsivo** para garantizar que los elementos de navegación sean accesibles y claros en dispositivos **móviles**, **tablets** y **desktops**.
+
+- **Desplegables adaptados:**  
+  Los menús desplegables se adaptan a pantallas más pequeñas, priorizando las **acciones más utilizadas** para facilitar la navegación en dispositivos móviles.
+
 
 ### 4.3. Landing Page UI Design
 
