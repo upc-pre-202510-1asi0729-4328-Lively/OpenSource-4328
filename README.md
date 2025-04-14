@@ -809,6 +809,11 @@ NursingHomeId      | int                | FK al hogar de cuidado
 #### 4.8 Database Design
 
 #### 4.8.1. Database Diagram
+Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Resident, NursingHome, Doctor, Nurse, ResidentMedication y MedicalHistory. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
+
+<p align="center">
+  <img src="./assets/dataBaseDiagram4328.png" alt="dataBaseDiagram4328" />
+</p>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
