@@ -618,6 +618,8 @@ En esta sección, sentamos las bases para contar con un repositorio central y or
 
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Open Sans**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
 
+![Open Sans](./assets/open-sans-font-5-big.jpg)
+
 #### Colors
 
 Elegimos los siguientes colores buscando plasmar una paleta relajante y profesional:
@@ -625,6 +627,8 @@ Elegimos los siguientes colores buscando plasmar una paleta relajante y profesio
 - **Azul claro:** Representa calma y confianza. Es ideal para el fondo o elementos principales.  
 - **Verde suave:** Transmite salud y bienestar. Úsalo para botones o detalles importantes.  
 - **Blanco:** Mantiene el diseño limpio y accesible, perfecto para el fondo o texto.
+
+![Colors](./assets/colors.jpg)
 
 #### Spacing
 
