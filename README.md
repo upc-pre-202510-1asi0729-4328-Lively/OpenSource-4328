@@ -174,6 +174,46 @@ Nuestra principal solución, **AgeCareDB**, es una plataforma digital diseñada 
 
 #### 1.1.2. Perfiles de los integrantes del equipo
 
+---
+
+#### **Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
+<img src="https://github.com/user-attachments/assets/0b23f8bd-a5e9-4244-96da-64adf16ce924" alt="Muñoz Vilcapoma Mauricio" height="200"/>
+
+Soy xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+---
+
+#### **Ramiro Alexander Guzman Chavez – Ingeniería de Software – U202217062**  
+<img src="./assets/RAMIROGUZMAN.png" alt="RAMIROGUZMAN" height="200"/>
+
+Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me puedan tocar.
+Considero que tengo una experiencia altamente capacitada para este tipo de tareas. Suelo desarrollarme de manera positiva en los trabajos grupales y tengo conocimientos en bases de datos, lo cual puede aportar de manera importante al equipo.
+Además, cuento con conocimientos en lenguajes de programación como Java y JavaScript, lo que me permite desarrollar soluciones tanto del lado del backend como del frontend, contribuyendo a proyectos de desarrollo de software de manera integral.
+
+---
+
+#### **xxxxxxxx – Ingeniería de Software – Uxxxxxx**  
+<*(Sin imagen disponible)*
+
+Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
+
+---
+
+#### **xxxx – Ingeniería de Software – xxxxxx**
+
+*(Sin imagen disponible)*
+
+Soy xxxxxxxxxxxx
+
+---
+
+#### **XXXXXXX – Ingeniería de Software – Uxxxxxx**  
+*(Sin imagen disponible)*
+
+Soy xxxxxxxxx
+
+---
+
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
