@@ -200,11 +200,11 @@ Soy estudiante de Ingeniería de Software con un fuerte interés en el desarroll
 
 ---
 
-#### **xxxx – Ingeniería de Software – xxxxxx**
+#### **Quijada Magro Jeremy Alexander – Ingeniería de Software - U202219657**
 
-*(Sin imagen disponible)*
+<img src="./assets/perfil-integrante-jeremy.png" alt="QUIJADAJEREMY" height="200"/>
 
-Soy xxxxxxxxxxxx
+Soy estudiante de Ingeniería de Software con habilidades en programación, especialmente en el manejo de bases de datos. Me destaco en el trabajo en equipo gracias a mi capacidad de cooperación y comunicación efectiva. Me apasiona desarrollar soluciones eficientes y aportar al crecimiento de los proyectos en los que participo.
 
 ---
 
