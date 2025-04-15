@@ -950,6 +950,12 @@ Las siguientes acciones y técnicas se han implementado para garantizar una nave
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="./assets/DiagramaOpen4380.png" alt="DiagramaOpen4380" />
+</p>
+
+Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e7-9fda3fcaad34/edit?viewport_loc=-6264%2C-3939%2C4168%2C1978%2C0_0&invitationId=inv_a4cdcc79-55c7-4114-855c-7be0170317ce
+
 ### 4.7.2 Class Dictionary
 
 Este es el formato deberán seguir nuestras colecciones en SQL para replicar nuestras entidades de la base de datos.
