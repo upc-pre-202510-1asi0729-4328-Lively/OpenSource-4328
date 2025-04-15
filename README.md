@@ -1203,3 +1203,85 @@ Para la elección de cómo relacionar las entidades, primero nos basamos en busc
 
 ## Anexos
 
+## **3.2. User Stories**
+
+Las siguientes historias de usuario han sido organizadas por Epics, los cuales agrupan funcionalidades clave del sistema AgeCareDB, orientado a la gestión del bienestar de adultos mayores en una institución geriátrica. Cada historia sigue el formato rol – necesidad – propósito y se complementa con criterios de aceptación en estilo Gherkin, facilitando su validación en un entorno ágil.
+
+El enfoque principal está en dos segmentos de usuarios: cuidadores, responsables del monitoreo y atención diaria, y familiares de residentes, interesados en el seguimiento del estado de salud y bienestar. Asimismo, se consideran actores secundarios como desarrolladores (para el consumo técnico del sistema vía API) y visitantes del sitio web, que acceden a contenido informativo.
+
+Las historias se estructuran en los siguientes Epics:
+
+Epic: Gestión del Bienestar del Residente
+
+Epic ID: E001
+
+Epic que agrupa funcionalidades sobre salud, actividades y bienestar emocional del residente.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-01 | Ver estado de salud del residente | Como familiar, quiero ver el estado de salud actualizado del residente para estar informado. | "Given el familiar ha iniciado sesión. When accede al perfil del residente. Then puede ver sus signos vitales y registros recientes." | EP-001 |
+| US-02 | Registrar signos vitales | Como cuidador, quiero registrar los signos vitales del residente para llevar un control de su salud. | "Given el cuidador está autenticado. When ingresa los datos del residente. Then el sistema guarda los signos vitales correctamente." | EP-001 |
+| US-03 | Recibir alertas críticas | Como familiar, quiero recibir una alerta cuando la salud del residente esté en riesgo. | "Given el sistema detecta un valor crítico. When el familiar tiene las notificaciones activadas. Then se envía una alerta inmediata." | EP-001 |
+| US-11 | Ver actividades diarias | Como familiar, quiero ver las actividades realizadas por mi ser querido para saber si participa y está activo. | "Given el familiar está autenticado. When accede al perfil del residente. Then visualiza un resumen de las actividades registradas por el personal." | EP-001 |
+| US-12 | Registrar actividad del residente | Como cuidador, quiero registrar las actividades del residente para tener un seguimiento de su rutina diaria. | "Given el cuidador está autenticado. When completa el formulario de actividad. Then se guarda la información y se vincula al residente correspondiente." | EP-001 |
+| US-13 | Evaluar estado emocional del residente | Como cuidador, quiero registrar una evaluación emocional diaria para dar seguimiento a su bienestar psicológico. | "Given el cuidador está autenticado. When ingresa a la sección emocional del residente. Then puede registrar el estado anímico observado y comentarios." | EP-001 |
+| US-14 | Recibir notificaciones de cambios | Como familiar, quiero recibir notificaciones cuando hay cambios importantes en el estado de mi familiar. | "Given hay un cambio relevante (crítico o anormal). When se registra el evento. Then el sistema genera una alerta que llega al familiar por el canal configurado." | EP-001 |
+| US-15 | Filtrar residentes por estado de salud | Como cuidador, quiero filtrar a los residentes según su estado de salud para priorizar la atención. | "Given el cuidador accede a la lista. When usa los filtros. Then el sistema muestra solo residentes con el estado seleccionado (crítico, estable, etc.)." | EP-001 |
+| US-28 | Ver lista de residentes asignados | Como cuidador, quiero ver solo a los residentes que tengo asignados para optimizar mi trabajo. | "Given el cuidador está autenticado. When entra al módulo de residentes. Then el sistema filtra solo los que están bajo su responsabilidad." | EP-001 |
+
+Epic: Interacción Familiar
+
+Epic ID: E002
+
+Epic que incluye funciones que permiten a los familiares interactuar, recibir actualizaciones y dar feedback.
+
+| Epic/Story ID | Título | Descripción	 | Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-04 | Enviar mensajes al personal | Como familiar, quiero enviar mensajes al personal para consultar sobre el residente. | "Given el familiar ha iniciado sesión. When redacta y envía un mensaje. Then el mensaje se entrega al personal correspondiente." | EP-002 |
+| US-05 | Ver respuestas del personal | Como familiar, quiero leer las respuestas a mis consultas para mantenerme informado. | "Given el personal responde un mensaje. When el familiar accede a su bandeja. Then puede leer las respuestas asociadas." | EP-002 |
+| US-29 | Evaluar la calidad del servicio | Como familiar, quiero dejar una evaluación de la atención brindada para contribuir con la mejora del servicio. | "Given el familiar accede a la sección de feedback. When responde la encuesta. Then el sistema registra sus respuestas de forma anónima y confidencial." | EP-002 |
+
+Epic: Landing Page / Sitio Informativo
+
+Epic ID: E003
+
+Epic sobre contenido y funcionalidades del sitio web informativo orientado a visitantes.
+
+| Epic/Story ID | Título | Descripción	 | Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-06 | Conocer los servicios del asilo | Como visitante, quiero conocer los servicios que ofrece el asilo para evaluar si es adecuado. | "Given el visitante accede a la landing. When navega por la sección de servicios. Then visualiza una descripción detallada de cada servicio." | EP-003 |
+| US-07 | Leer la misión y visión del proyecto | Como visitante, quiero saber la misión y visión del proyecto para entender su propósito. | "Given el visitante accede a la sección institucional. When explora la página. Then ve la misión, visión y objetivos claros del servicio." | EP-003 |
+| US-08 | Visualizar preguntas frecuentes | Como visitante, quiero leer preguntas frecuentes para resolver dudas básicas. | "Given el visitante accede a la sección FAQ. When selecciona una pregunta. Then se despliega la respuesta correspondiente." | EP-003 |
+| US-16 | Ver equipo profesional del asilo | Como visitante, quiero conocer el equipo profesional del asilo para confiar en su experiencia y formación. | "Given el visitante accede al sitio. When entra a la sección “Nuestro equipo”. Then visualiza perfiles con formación, especialidades y funciones." | EP-003 |
+| US-17 | Solicitar información desde la web | Como visitante, quiero llenar un formulario de contacto para recibir más información personalizada sobre los servicios. | "Given el visitante completa el formulario. When envía los datos. Then el sistema envía un correo al área correspondiente y muestra confirmación." | EP-003 |
+| US-18 | Ver testimonios y casos de éxito | Como visitante, quiero leer experiencias reales para sentir confianza en el servicio. | "Given el visitante está en la sección de testimonios. When explora las historias. Then puede ver comentarios y casos de familiares satisfechos." | EP-003 |
+| US-19 | Descargar folleto informativo | Como visitante, quiero descargar un folleto para compartir la información del servicio con otros miembros de mi familia. | "Given el visitante está en la landing. When hace clic en “Descargar folleto”. Then el sistema genera un PDF con resumen de AgeCareDB." | EP-003 |
+
+Epic: RESTful API
+
+Epic ID: E004
+
+Epic que agrupa requerimientos técnicos y endpoints de acceso y gestión de datos para desarrolladores.
+
+| Epic/Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-09 | Consultar API de residentes (GET) | Como developer, quiero consultar el listado de residentes mediante la API para integrarlo al frontend. | "Given se realiza un GET a `/api/residentes` . When la autenticación es válida. Then se devuelve un JSON con los residentes registrados" | EP-004 |
+| US-10 | Validar credenciales del API | Como developer, quiero autenticarme con token para acceder a los servicios protegidos del API. | "Given se envía un token válido en la cabecera. When accede a una ruta protegida. Then el sistema verifica la autenticación y autoriza o deniega el acceso." | EP-004 |
+| US-20 | Registrar un nuevo residente (API) | Como developer, quiero registrar un nuevo residente en la base de datos a través del API. | "Given se realiza un POST a `/api/residentes` con información válida. When la petición es aceptada. Then se guarda el nuevo residente y se devuelve su ID con código 201." | EP-004 |
+| US-21 | Actualizar datos del residente (API) | Como developer, quiero actualizar los datos personales o médicos de un residente vía API. | "Given se realiza un PUT a `/api/residentes/{id}` con información válida. When se valida la existencia del residente. Then se actualizan los datos y retorna un código 200." | EP-004 |
+| US-22 | Obtener historial de actividades (API) | Como developer, quiero obtener el historial de actividades de un residente para mostrarlo en su perfil. | "Given se realiza un GET a `/api/actividades/{residenteId}`. When el residente tiene registros. Then se devuelve un array con las actividades en formato JSON." | EP-004 |
+| US-23 | Eliminar registro médico (API) | Como developer, quiero eliminar un registro médico incorrecto desde el API. | "Given se realiza un DELETE a `/api/registros/{id}`. When el registro existe. Then se elimina de la base de datos y retorna código 204." | EP-004 |
+US-24 | Consultar métricas de salud (API) | Como developer, quiero obtener métricas resumidas del estado de un residente para visualizaciones en el dashboard. | "Given se hace un GET a `/api/metricas/{residenteId}`. When los datos existen. Then el sistema responde con promedio, tendencias y alertas clave. And el código de respuesta es 200."" | EP-004 |
+
+Epic: Reportes y Analítica
+
+Epic ID: E005
+
+Epic que agrupa funcionalidades para la visualización de tendencias y generación de reportes.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-25 | Ver reporte semanal de estado del residente | 	Como familiar, quiero ver un reporte semanal de salud para entender la evolución general. | "Given el familiar está autenticado. When accede a “Reportes”. Then visualiza gráficos y resúmenes del estado físico y emocional en la semana." | EP-005 |
+| US-26 | Descargar reporte en PDF | Como familiar, quiero descargar el reporte semanal en formato PDF para archivarlo o compartirlo. | "Given hay un reporte disponible. When hace clic en “Descargar PDF”. Then el sistema genera el archivo y permite su descarga inmediata." | EP-005 |
+| US-27 | Ver tendencias de salud por categoría | Como cuidador, quiero ver tendencias por categorías (nutrición, movilidad, ánimo) para ajustar planes de cuidado. | "Given el cuidador accede a la vista de métricas. When selecciona una categoría. Then el sistema muestra la evolución gráfica correspondiente." | EP-005 |
+| US-30 | Recibir recordatorios para revisar informes | Como familiar, quiero recibir recordatorios semanales para revisar los reportes y estar al tanto del estado del residente. | "Given es fin de semana. When el sistema detecta que hay un nuevo reporte. Then se envía un recordatorio vía correo o notificación push configurada." | EP-005 |
