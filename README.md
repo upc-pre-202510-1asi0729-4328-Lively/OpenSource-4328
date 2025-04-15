@@ -637,6 +637,24 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 ### 3.1. To-Be Scenario Mapping
 
+El TO BE Scenario Mapping describe cómo será la experiencia futura y mejorada de los usuarios tras la implementación de Tempo, centrándose en cuatro dimensiones clave: phases, doing, thinking y feeling. Este análisis ayuda a visualizar el impacto real de la solución tecnológica en el día a día de los involucrados.
+
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace [https://lucid.app/lucidspark/dd6ea347-da29-4d45-a908-654729460131/edit?invitationId=inv_9aa0e46f-82f1-41da-9915-dad775d1b045](https://lucid.app/lucidspark/dd6ea347-da29-4d45-a908-654729460131/edit?invitationId=inv_9aa0e46f-82f1-41da-9915-dad775d1b045)
+
+Figura :
+
+User Persona 1: Familiares de los residentes
+
+![Image](https://github.com/user-attachments/assets/63367406-8127-4af9-8ca4-37143c5f95cb)
+Nota: Este mapeo describe las experiencias futuras de los familiares de los residentes en asilos de ancianos. 
+
+Figura :
+
+User Persona 2: Personal del asilo (enfermeras y cuidadores)
+
+![Image](https://github.com/user-attachments/assets/135b4eef-e661-46c1-b471-3b58b9dc7027)
+Nota: Este mapeo describe las experiencias actuales del personal del asilo de ancianos. 
+
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
