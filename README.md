@@ -147,6 +147,8 @@
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+## Student Outcome
+
 ---
 
 **ABET – EAC - Student Outcome 3**  
@@ -161,7 +163,6 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 ---
 
-## Student Outcome
 
 ## Capítulo I: Introducción
 
