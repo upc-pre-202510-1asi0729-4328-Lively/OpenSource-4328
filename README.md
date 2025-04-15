@@ -207,10 +207,11 @@ Soy estudiante de Ingeniería de Software con habilidades en programación, espe
 
 ---
 
-#### **XXXXXXX – Ingeniería de Software – Uxxxxxx**  
-*(Sin imagen disponible)*
+#### **Fatima Andrea Asmad Padilla – Ingeniería de Software – U20221B490**  
+<img src="https://github.com/user-attachments/assets/d0d9102c-8529-4ad3-a007-c5d5cbae8385" alt="Fatima Asmad" height="200"/>
 
-Soy xxxxxxxxx
+Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada tarea que realizo, buscando siempre dar lo mejor de mí en cualquier proyecto o actividad asignada. Actualmente curso el sexto ciclo de la carrera de Ingeniería de Software, lo cual me ha permitido adquirir una base sólida en distintas áreas del desarrollo tecnológico.
+
 
 ---
 
