@@ -65,9 +65,6 @@
 
 El Lenguaje Ubicuo de Tempo establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
 
-Tabla #: <br>
-Ubiquitous Lenguaje de Tempo <br>
-
 <table>
   <tr>
     <td>Term</td>
