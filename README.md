@@ -531,20 +531,47 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 9. ¿Cómo abordarías los desafíos de la salud mental en los residentes y qué recursos utilizas para brindar apoyo?  
 10. ¿Cómo gestionas la distribución de tareas y la coordinación del personal para garantizar una atención de calidad?  
 11. ¿Qué medidas implementarías para garantizar la privacidad y dignidad de los residentes en el asilo?  
-12. ¿Qué importancia le das a la actualización y seguimiento de las políticas y normativas en el cuidado de los adultos mayores en el asilo?  
-#### 2.2.2. Registro de entrevistas
+12. ¿Qué importancia le das a la actualización y seguimiento de las políticas y normativas en el cuidado de los adultos mayores en el asilo?
 
-#### Entrevista 1
-En esta sección se aborda la investigación, tomando como base la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Se consideraron dos grupos clave: familiares mayores de 18 años preocupados por el bienestar de sus seres queridos y profesionales de la salud y cuidadores en asilos de ancianos. La información obtenida tiene como propósito comprender las necesidades, preocupaciones y expectativas de ambos grupos para el desarrollo de AgeCareDB.
+### 2.2.2. Registro de entrevistas
 
-| **Datos del entrevistado** |
-|------------------------|
-| **Nombre:** Carlos Angulo Solis |
-| **Edad:** 27 |
-| **Procedencia:** Lima |
-| **Segmento:** Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
-| **Resumen:** Expresa que su principal inquietud es no recibir información constante o detallada, y que le gustaría tener una comunicación más activa y directa con el personal. Valora mucho la posibilidad de contar con una plataforma para estar informado en tiempo real sobre la salud física y mental de su ser querido, especialmente si incluye alertas, reportes periódicos y un historial médico accesible. Además, sugiere que los asilos deberían ofrecer más actividades recreativas y servicios complementarios que estimulen el bienestar emocional de los residentes. Destaca la importancia de poder participar en las decisiones sobre el cuidado, y también insiste en que la seguridad y privacidad de la información deben ser una prioridad en cualquier sistema digital. |
-| **Enlace de video:** [https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing](https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing) |
+En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: adultos jóvenes ocupados (25 - 50 años) y jóvenes universitarios saludables en formación (18 - 24 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación VibeFit, enfocada en promover un estilo de vida saludable y activo.
+
+&nbsp;
+
+| **Entrevista 1** |
+|------------------|
+| <strong>Nombre:</strong> Carlos Angulo Solis |
+| <strong>Edad:</strong> 27 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos Jóvenes Ocupados (25 - 50 años) |
+| <strong>Resumen:</strong> Carlos expresa que su mayor inquietud es la falta de información constante o detallada sobre temas de salud y bienestar, especialmente en relación con sus seres queridos. Le interesa una herramienta que le permita estar informado en tiempo real sobre aspectos físicos y emocionales, idealmente con alertas, reportes periódicos y un historial accesible. También destaca la importancia de la participación activa en decisiones relacionadas al cuidado. Aunque no es usuario regular de apps de salud, señala que le atraería una plataforma que combine bienestar emocional, recomendaciones personalizadas y privacidad de datos. |
+| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing](https://drive.google.com/file/d/1XyHZqSwgCH1QAF2ZZtt9kltcLSW96G-W/view?usp=sharing) |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/Carlos.png" alt="Carlos" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 2** |
+|------------------|
+| <strong>Nombre:</strong> Christopher Adrián Carlos Urcia Tardío |
+| <strong>Edad:</strong> 25 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Profesionales de la salud y cuidadores en asilos de ancianos |
+| <strong>Resumen:</strong> Christopher señala que uno de los mayores desafíos en el cuidado de adultos mayores es atender sus necesidades individuales, especialmente cuando hay poco personal disponible. Actualmente utilizan computadoras para registrar medicamentos y controles, pero considera que sistemas más ágiles mejorarían la eficiencia y la conexión entre el equipo. Para comunicarse con las familias, recurren a llamadas, mensajes y videollamadas, priorizando la amabilidad y la claridad. Sugiere que un sistema centralizado de datos facilitaría el trabajo y reduciría errores. También cree que la tecnología puede mejorar la calidad de vida de los residentes y su propio desempeño, al reducir el papeleo y ofrecer herramientas para terapias o ejercicios. Destaca la necesidad de más capacitación, especialmente en enfermedades como el Alzheimer y en el uso de tecnología. Evalúan la satisfacción familiar mediante reuniones y encuestas, y toman medidas para mantener un entorno seguro, limpio y acogedor. Además, promueven actividades recreativas para el bienestar mental de los residentes y aseguran la privacidad y el respeto de sus decisiones. Finalmente, remarca la importancia de mantenerse actualizados en normativas y políticas para brindar un servicio de calidad. |
+| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1O6PdCJe6cACyJwkq85c6r39Jqrymv76-/view?usp=sharing](https://drive.google.com/file/d/1O6PdCJe6cACyJwkq85c6r39Jqrymv76-/view?usp=sharing) |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/Urcia.png" alt="Urcia" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 3** |
+|------------------|
+| <strong>Nombre:</strong> Robert Joaquín Reyna Bohorquez |
+| <strong>Edad:</strong> 21 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
+| <strong>Resumen:</strong> Robert es estudiante universitario y trabaja medio tiempo para cubrir sus gastos. Se considera una persona más introvertida y trata de tomar decisiones racionales, aunque reconoce que en situaciones emocionales puede dejarse llevar por sus sentimientos. Visita a su familiar en el asilo una vez por semana o, en su defecto, se comunica por llamada. Sus principales preocupaciones giran en torno al trato que recibe su familiar, su salud física y emocional, y que no se sienta solo. Le gustaría recibir información clara y constante a través de una aplicación, con notificaciones sobre su estado general, medicamentos, comportamiento y bienestar emocional. Valora mucho la comunicación con el personal del asilo y desea estar involucrado en las decisiones sobre su cuidado. Sugiere que una plataforma como Lively podría brindarle tranquilidad, permitiéndole sentirse presente incluso a la distancia. También propone actividades recreativas, música y terapias para mejorar la calidad de vida de los residentes. Considera crucial la privacidad de los datos, recomendando el uso de contraseñas, accesos restringidos y transparencia en el manejo de información. Finalmente, sugiere mejoras en la comunicación entre familiares y personal, como reuniones virtuales, reportes semanales y una sección en la app para mensajes o participación en decisiones importantes. |
+| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1-SF7lOPblklXH5iPaLcWS9xHElqvmHlu/view?usp=sharing](https://drive.google.com/file/d/1-SF7lOPblklXH5iPaLcWS9xHElqvmHlu/view?usp=sharing) |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/Joaquin.png" alt="Joaquin" height="200"/> |
 
 
 #### 2.2.3. Análisis de entrevistas
