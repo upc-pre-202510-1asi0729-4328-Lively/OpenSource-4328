@@ -312,6 +312,7 @@ AS - IS de User Persona 2: Personal del asilo (enfermeras y cuidadores)<br>
 
 ![Image](https://github.com/user-attachments/assets/6fd45406-8f59-49ed-944e-8758c81d90ac)<br>
 Nota: Este mapeo describe las experiencias actuales del personal del asilo de ancianos.<br>
+
 ## 2.4. Ubiquitous Language 
 
 El Lenguaje Ubicuo de Tempo establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
