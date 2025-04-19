@@ -35,7 +35,7 @@
 |---------|-------------|-------|-------------|
 | TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
 | TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX        |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
@@ -193,10 +193,10 @@ Además, cuento con conocimientos en lenguajes de programación como Java y Java
 
 ---
 
-#### **xxxxxxxx – Ingeniería de Software – Uxxxxxx**  
-<*(Sin imagen disponible)*
+#### **Franco Gabrel Huang Liu – Ingeniería de Software – U202301345**  
+<img src="![franco-Huang](https://github.com/user-attachments/assets/32026fb9-266f-4084-bae3-99b598cd8874)">
 
-Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
+Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos, escuchar y tocar musica, jugar basquet.Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. Me gusta trabajar en equipo y tratar de ayudar en la medida de lo posible.
 
 ---
 
@@ -217,6 +217,7 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 ---
 
 ### 1.2. Solution Profile
+
 
 #### 1.2.1. Antecedentes y problemática
 **WHAT**
@@ -1063,9 +1064,66 @@ Las siguientes acciones y técnicas se han implementado para garantizar una nave
 
 ### 4.4. Web Applications UX/UI Design
 
+Las siguientes wireframes representan la estructura inicial y funcionalidad clave de AgeCareDB, nuestra plataforma digital diseñada para mejorar la calidad de vida de los adultos mayores en asilos y fortalecer la conexión con sus familiares.
+Estas pantallas buscan reflejar una interfaz intuitiva. Cada componente ha sido pensado para facilitar la visualización del estado de salud físico y emocional de los residentes, optimizar los procesos internos del asilo y promover una comunicación fluida entre todos los involucrados.
+
+A través de estas wireframes, se podrá explorar cómo se organiza la información, qué funcionalidades estarán disponibles en cada módulo, y cómo los usuarios interactuarán con la plataforma para cumplir con nuestra misión: priorizar el bienestar de los residentes y brindar tranquilidad a sus familias mediante soluciones tecnológicas innovadoras.
+
 #### 4.4.1. Web Applications Wireframes
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f72e5f1-830d-46c3-8788-58dbb249be30" alt="Log In"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f194271f-be79-46a6-873e-ab1397e75f10" alt="Sign Up"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00652753-824f-4ca3-bab5-4e0c4799f2eb" alt="Apply"/> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd440999-85a6-4619-a7fb-e40bc340ff88" alt="Landing Page"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7e18eb5-ea4b-41a3-9a13-202750a6ea08" alt="Reports"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b2b3f0e-6da2-4deb-b123-a3cd6bf4f0f2" alt="Appointment Detail"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de04b875-17a9-479d-9545-1562e2cdf7af" alt="Generate Appointment"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd8cdf47-8d19-44f3-ad28-08639af09379" alt="Reprot List"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21432768-78d2-4540-8443-04a8f5bd9d78" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f83916e7-67e7-4749-a4be-56617ca1ae2f" alt="Messages"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94b0b9d7-a7c7-45c8-a564-e2930edc8ae1" alt="Profile"/>
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0323bf1b-1636-4fba-b0ec-38a80e5e0fd1" alt="Wireflow_Diagram1"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2389f5e-2b0b-4b22-ad6f-2423b6e5b205" alt="Wireflow_Diagram2"/>
+</p>
 
 #### 4.4.3. Web Applications Mock-ups
 
