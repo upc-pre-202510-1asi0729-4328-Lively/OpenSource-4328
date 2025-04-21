@@ -606,25 +606,21 @@ Buscamos reflejar confianza, cuidado y tecnología humana. Asi que para brindar 
 - **Misión:** Proporcionar soluciones tecnológicas que prioricen el bienestar.  
 - **Visión:** Crear entornos dignos y seguros para adultos mayores usando tecnología.
 
-**Principios de Marca:**
+#### Logo
 
-- **Confiable:** Priorizamos la transparencia y exactitud de los datos.  
-- **Empático:** Enfatizamos el lado humano de la tecnología.  
-- **Innovador:** Usamos herramientas digitales para mejorar experiencias.
+Queremos transmitir una imagen contemporánea a través de este diseño, utilizando un logotipo minimalista en tonos azules para reforzar este concepto.
+
+![AgeCare Logo](<./assets/AgeCare Logo.png>)
 
 #### Typography
 
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Open Sans**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
 
-![Open Sans](./assets/open-sans-font-5-big.jpg)
+![Open Sans](./assets/Opens-Sans.png)
 
 #### Colors
 
 Elegimos los siguientes colores buscando plasmar una paleta relajante y profesional:
-
-- **Azul claro:** Representa calma y confianza. Es ideal para el fondo o elementos principales.  
-- **Verde suave:** Transmite salud y bienestar. Úsalo para botones o detalles importantes.  
-- **Blanco:** Mantiene el diseño limpio y accesible, perfecto para el fondo o texto.
 
 ![Colors](./assets/colors.jpg)
 
@@ -647,42 +643,30 @@ Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y 
 
 Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan sensible como el cuidado de personas mayores. 
 
-Optamos por un tono **medio-serio** y **semi-formal** para garantizar que la información sea accesible sin perder la seriedad y el respeto que merece. Además, priorizamos un tono **muy respetuoso** para transmitir empatía y consideración en cada interacción. 
-
-Finalmente, elegimos un estilo **sereno y empático** para crear un ambiente de confianza y tranquilidad, permitiendo que los usuarios se sientan escuchados y apoyados. Consideramos que este balance refleja los valores esenciales de nuestra propuesta y fortalece nuestra relación con los usuarios.
-
 #### 4.1.2. Web Style Guidelines
 
-La interfaz está diseñada bajo el principio de *mobile-first*, asegurando que el contenido sea completamente funcional y accesible en pantallas pequeñas, y luego se adapte progresivamente a resoluciones mayores (tablet y desktop).
+#### **Diseño Responsive**
 
-
-#### **Breakpoints definidos**
+Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se empleará CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
 
 | Dispositivo     | Ancho mínimo | Ejemplo de uso            |
 |-----------------|--------------|----------------------------|
 | Mobile          | ≥ 320px      | Teléfonos                  |
 | Tablet          | ≥ 768px      | iPad / tablets genéricas   |
-| Laptop/Desktop  | ≥ 1024px     | Monitores y laptops        |
+| Laptop  | ≥ 1024px     | Monitores y laptops        |
 | Wide Screen     | ≥ 1440px     | Pantallas grandes o TV     |
 
 #### **Navegación**
 
-- **Menú tipo hamburguesa en mobile**: para conservar espacio.
-- **Menú horizontal en desktop**: visibilidad directa de opciones principales.
-- **Sticky navbar**: permite al usuario moverse sin perder acceso al menú.
-- **Breadcrumbs en secciones profundas** (en tablets y desktop): para mejorar la navegación contextual.
+Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
 
+#### **Imágenes**
 
-#### **Tipografía Adaptada**
+Emplearemos los formatos de imagen JPEG y PNG para garantizar una calidad visual óptima. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
 
-Se utiliza la tipografía **Open Sans**, elegida por su legibilidad en pantallas, y adaptada según el dispositivo:
+#### **Interacción del Usuario**
 
-| Elemento        | Mobile | Tablet | Desktop |
-|-----------------|--------|--------|---------|
-| Título H1       | 24px   | 32px   | 40px    |
-| Subtítulo H2    | 20px   | 26px   | 32px    |
-| Texto cuerpo    | 16px   | 18px   | 18px    |
-| Texto secundario| 14px   | 16px   | 16px    |
+Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas
 
 ### 4.2. Information Architecture
 
