@@ -258,7 +258,7 @@ AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando p
 ##### 1.2.2.4. Lean UX Canvas
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
 ### 1.3. Segmentos objetivo
-**Segmentos Objetivos de AgeCareDB**
+**Segmentos Objetivos de AgeCare**
 
 **a) Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos**
 
@@ -672,140 +672,65 @@ Se implementarán animaciones sutiles para mostrar imágenes y textos informativ
 
 #### 4.2.1. Organization Systems
 
-Una experiencia de usuario sólida y accesible depende no solo de un buen diseño visual, sino también de una estructura de información clara y coherente. Para garantizar una experiencia visual efectiva, se definieron tres formas principales de organizar el contenido: **jerárquica**, **secuencial** y **matricial**, las cuales se aplican estratégicamente en distintas áreas de la interfaz.
+Nuestro objetivo es ofrecer una experiencia de usuario fluida y consistente, tanto en nuestra página web como en nuestra aplicación móvil. A continuación, presentamos la estructura visual, diseñada estratégicamente para ajustarse a las necesidades de nuestros dos segmentos objetivos.
 
-#### **Jerarquía visual (Visual Hierarchy)**
+Ambos segmentos tienen acceso a las mismas secciones, pero la diferencia principal está en los permisos. Mientras que los médicos pueden gestionar y generar reportes médicos o programar citas, los familiares solo tienen acceso a la visualización de reportes y estadísticas, pudiendo comunicarse con los médicos únicamente en casos de emergencia o dudas específicas.
 
-La jerarquía visual se aplica principalmente en las páginas de inicio de sesión, dashboards y vistas de resumen, donde es esencial que el usuario identifique de forma inmediata la información más relevante.  
+![Diagrama](./assets/Diagrama-AgeCare.png)
 
-***Esta organización prioriza datos clave como:***
+Como se ve en el diagrama, se sigue un proceso estructurado para facilitar la gestión de la salud de los pacientes, permitiendo la interacción entre médicos y familiares. Aquí explicamos cada etapa del proceso y las funciones disponibles:
 
-- Estado actual del residente  
-- Alertas médicas activas  
-- Mensajes importantes del personal del asilo  
+1. **Landing Page**: Es la página de inicio donde los usuarios pueden explorar la aplicación y conocer sus beneficios.
 
-***Estos elementos se presentan con:***
+2. **Inicio**: Los usuarios pueden iniciar sesión si ya tienen una cuenta o registrarse como nuevos usuarios.
 
-- Tipografía destacada  
-- Iconografía de apoyo  
-- Colorimetría adecuada  
+3. **Registro**:
+   - **Crear Cuenta**: Los nuevos usuarios ingresan sus datos manualmente.
+   - **Registrarse con Google**: Opción para facilitar el acceso mediante una cuenta de Google.
+   - **Llenar Datos**: Se completa un formulario con información personal.
 
-***Luego se despliega información secundaria como:***
+4. **Inicio de Sesión**: Los usuarios existentes ingresan sus credenciales para acceder a la plataforma.
 
-- Actividades recientes  
-- Historial clínico  
-- Notas de enfermería  
-- Registros emocionales  
+5. **Página Principal**: Una vez dentro, los usuarios pueden acceder a diversas funcionalidades.
 
-Esta estructura mejora la toma de decisiones al reducir la carga cognitiva y dirigir la atención de manera efectiva.
+6. **Stats**: Los médicos y familiares pueden visualizar estadísticas sobre la salud del paciente.
 
-#### **Organización secuencial (Step-by-Step)**
+7. **Reports**: Se generan reportes detallados sobre el estado y evolución del paciente.
 
-En flujos que requieren la introducción progresiva de datos o la realización de procesos paso a paso (como el registro de nuevos residentes), se emplea una organización secuencial. Este enfoque guía al usuario a través de una serie de pasos claramente definidos, reduciendo errores y asegurando la completitud de la información ingresada.
+8. **Messages**: Comunicación directa entre médicos y familiares para compartir información relevante.
 
-***Características clave:***
+9. **Appointments**: Gestión de citas médicas, permitiendo la programación y seguimiento de consultas.
 
-- Botones de navegación  
-- Indicadores de progreso  
-- Validaciones en tiempo real  
+10. **Account**: Configuración de la cuenta, donde los usuarios pueden actualizar su información personal.
 
-***También se aplica en:***
-
-- Flujos de configuración inicial  
-- Onboarding de nuevos usuarios  
-- Actualizaciones de información crítica
-
-#### **Organización matricial (Matrix Layout)**
-
-En secciones analíticas, como la visualización de indicadores de salud o registros de actividades por múltiples residentes, se adopta una estructura matricial. Este enfoque facilita la comparación directa de variables entre distintos elementos, por ejemplo:
-
-- Frecuencia de consultas médicas  
-- Estado emocional registrado  
-- Medicación activa  
-
-***Características adicionales:***
-
-- Tablas con ordenamiento dinámico  
-- Filtros por categoría  
-- Visualización multivariable  
-
-Esto resulta especialmente útil para profesionales de la salud al identificar correlaciones, tendencias o casos que requieren atención inmediata.
-
-#### **Por audiencia (User-Based Categorization)**
-
-El contenido mostrado se adapta automáticamente al perfil del usuario:
-
-- **Familiares**: estados emocionales, mensajes del personal, evolución general del residente  
-- **Enfermeras**: registros médicos, horarios de atención, alertas clínicas  
-- **Administradores**: gestión de personal, medicamentos, documentación del asilo  
-
-
-#### **Cronológica (Chronological Organization)**
-
-***Usada en módulos con seguimiento temporal, como:***
-
-- Historial médico  
-- Registros de salud mental  
-- Actividades diarias  
-
-***Permite:***
-
-- Reconstruir el estado de salud a lo largo del tiempo  
-- Identificar momentos críticos  
-- Evaluar el impacto de intervenciones médicas o emocionales
-
-#### **Por tópicos (Topic-Based Organization)**
-
-***Facilita el acceso a contenido informativo o de soporte:***
-
-- Tutoriales  
-- Preguntas frecuentes  
-- Guías  
-- Comunicados internos  
-
-***Agrupados por áreas de interés:***
-
-- “Emergencias”  
-- “Medicación”  
-- “Conectividad con familiares”  
-- “Uso de la plataforma”  
-
-
-#### **Alfabética (Alphabetical Organization)**
-
-***Aplicada en listados extensos como:***
-
-- Catálogo de medicamentos  
-- Listado de residentes  
-- Personal del asilo  
-
-***Facilita la búsqueda rápida con:***
-
-- Funciones de autocompletado  
-- Filtros alfabéticos por letra inicial
+Este flujo de trabajo permite que los médicos tomen decisiones informadas sobre la salud del paciente y que los familiares estén al tanto de su evolución.
 
 #### 4.2.2. Labeling Systems
 
-La forma en que se etiquetan y presentan los datos dentro de nuestra plataforma, es clave para garantizar una experiencia fluida, comprensible y sin ambigüedades.  
-Un sistema de etiquetado bien diseñado:
+Los sistemas de etiquetado seguirán la misma estructura presentada en Organization Systems. El usuario podrá seleccionar el encabezado de su interés y, al hacer clic, será dirigido automáticamente a la sección correspondiente dentro de la plataforma.
 
-- Reduce la carga cognitiva del usuario  
-- Mejora la navegabilidad  
-- Refuerza la confianza en la interfaz  
+##### Secciones y contenido de la Landing Page
 
-El sistema de etiquetas se rige por los siguientes **principios**:
+| **Sección**  | **Contenido** |
+|-------------|--------------|
+| **Página Principal** | Es el primer punto de contacto con AgeCare. Aquí se introduce la aplicación, explicando su propósito, misión y visión, además de resaltar sus beneficios para la gestión de la salud de los pacientes. |
+| **About** | Proporciona una descripción detallada de las herramientas y funcionalidades que ofrece AgeCare. Se explican los módulos principales, cómo interactúan los médicos y familiares, y los beneficios del uso de la aplicación. |
+| **Premium** | Sección dedicada a mostrar las ventajas de la versión premium. Se destacan características adicionales como reportes avanzados, integración con otros sistemas de salud y opciones de personalización que no están disponibles en la versión gratuita. |
+| **Contacto** | Espacio donde los usuarios pueden encontrar los canales de comunicación con el equipo de soporte. Se incluyen redes sociales, un correo de asistencia técnica y un correo para consultas de negocios o colaboraciones. |
+| **Log In** | Sección que permite a los usuarios acceder a su cuenta de AgeCare. En caso de no tener una, se ofrece la opción de registrarse y completar su perfil para aprovechar todas las funcionalidades. |
 
-- **Lenguaje claro y directo**:  
-  Se utilizan palabras comunes, comprensibles por personas sin conocimientos técnicos.
 
-- **Brevedad**:  
-  Cada etiqueta usa el mínimo número de palabras necesarias (generalmente una o dos) para evitar sobrecargar visualmente la interfaz.
 
-- **Consistencia semántica**:  
-  Una misma acción o conjunto de datos siempre se representa con la misma etiqueta a lo largo de toda la plataforma.
+##### Secciones y contenido de AgeCare
 
-- **Enfoque contextual**:  
-  Las etiquetas se adaptan al perfil del usuario (familiar o personal de salud), evitando confusiones en el uso de los términos.
+| **Sección**  | **Contenido** |
+|-------------|--------------|
+| **Home** | En la página principal, los usuarios pueden acceder rápidamente a las funciones clave de la plataforma. |
+| **Stats** | Sección donde los médicos y familiares pueden visualizar datos estadísticos sobre la salud del paciente, incluyendo evolución de signos vitales y patrones de comportamiento. |
+| **Reports** | Espacio dedicado a la generación de informes detallados sobre el estado del paciente, facilitando el seguimiento médico con gráficos y registros históricos. |
+| **Messages** | Permite la comunicación directa entre médicos y familiares, asegurando que todos estén informados sobre tratamientos, evolución y cuidados especiales. |
+| **Appointments** | Módulo para la gestión de citas médicas, donde se pueden programar, modificar y recibir recordatorios sobre consultas y seguimientos. |
+| **Account** | Sección para la administración del perfil del usuario, permitiendo la actualización de datos personales, preferencias y configuración de accesibilidad. |
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -825,7 +750,7 @@ El título resume de forma directa el propósito del sitio, incluyendo las palab
 La meta descripción ofrece una vista clara del valor que ofrece la plataforma, motivando al clic desde los resultados de búsqueda.
 
 ```html
-<meta name="description" content="RedVital es una plataforma digital que mejora la calidad de vida de los residentes en asilos, conectando a sus familias con información en tiempo real.">
+<meta name="description" content="AgeCare es una plataforma digital que mejora la calidad de vida de los residentes en asilos, conectando a sus familias con información en tiempo real.">
 ```
 
 **Palabras clave (Meta Keywords)**
@@ -842,67 +767,56 @@ Los términos elegidos cubren conceptos clave relacionados con el contexto de us
 La etiqueta autor identifica al equipo creador, útil para fines de propiedad y referencia en motores de búsqueda.
 
 ```html
-<meta name="author" content="Equipo AgeCareDB">
+<meta name="author" content="Equipo AgeCare">
 ```
 
 #### 4.2.4. Searching Systems
 
-Para facilitar que los usuarios (familiares, enfermeras, cuidadores) naveguen entre grandes volúmenes de información, evitando que se sientan perdidos y garantizando una experiencia ágil y eficiente, se tomaron las siguientes decisiones para el sistema de búsqueda:
+Para facilitar que los usuarios (familiares, medicos) naveguen entre grandes volúmenes de información, evitando que se sientan perdidos y garantizando una experiencia ágil y eficiente, se tomaron las siguientes decisiones para el sistema de búsqueda:
 
-### Opciones de búsqueda
+#### **Búsqueda Global**  
 
-**Búsqueda directa:**  
-- Los usuarios pueden ingresar palabras clave como *"Estado emocional"* o *"Historial médico"* para obtener resultados específicos.  
-- Utiliza un sistema de **autocompletado** para ayudar a refinar la búsqueda y evitar errores tipográficos.
+La búsqueda global permite a los usuarios introducir palabras clave y recibir resultados de diferentes módulos de la aplicación. Esto garantiza que cualquier tipo de información pueda localizarse de forma inmediata. 
 
-**Búsqueda avanzada:**  
-- Filtros por categoría: *estado físico, emocional, actividades realizadas*.  
-- Búsqueda por fecha específica para encontrar registros actualizados.  
-- Filtros de acceso restringido para familiares autorizados a consultar datos privados.
+#### **Filtrado de Información**  
 
-### Resultados después de la búsqueda
+- **Búsqueda en Reportes:** El módulo de reportes incluirá una función de búsqueda que permitirá localizar registros médicos específicos. Los usuarios podrán aplicar filtros por historial clínico, fecha y paciente, asegurando un acceso rápido a la información crítica sin necesidad de recorrer manualmente grandes volúmenes de datos.  
 
-- **Formato visual:**  
-  Resultados organizados en **tarjetas** con detalles clave como:  
-  - Nombre del residente  
-  - Última actualización de salud  
-  - Medicación actual
+- **Búsqueda en Mensajes:**  El apartado de mensajería contará con un sistema de búsqueda que facilitará la recuperación de conversaciones clave entre médicos y familiares. Esta funcionalidad será útil para revisar indicaciones médicas, aclaraciones sobre tratamientos y otras comunicaciones relevantes dentro de la plataforma.  
 
-- **Opciones de acción:**  
-  - Botones para **descargar información**,  
-  - **Solicitar informes detallados**  
-  - **Enviar mensajes** al personal encargado.
+- **Búsqueda de Citas Médicas:**  El sistema de búsqueda también permitirá encontrar citas médicas mediante criterios como fecha, tipo de consulta y médico asignado. Esto ayudará a los usuarios a acceder a detalles importantes sobre futuras consultas.  
 
-- **Aspectos destacados:**  
-  Las **palabras clave** buscadas se resaltan dentro de los resultados para facilitar la navegación y comprensión.
+Mediante estos sistemas, se busca eficiencia y la accesibilidad dentro de la aplicación, reduciendo tiempos de búsqueda y facilitando la comunicación entre médicos y familiares. Gracias a una estructura intuitiva, los usuarios podrán encontrar la información que necesitan de manera rápida y sin esfuerzo.
 
 #### 4.2.5. Navigation Systems
 
-Las siguientes acciones y técnicas se han implementado para garantizar una navegación eficiente y accesible en AgeCareDB:
+Organizamos las secciones, permitiendo a los usuarios desplazarse sin dificultad entre distintas funcionalidades. La navegación está basada en una barra de menú principal, accesos rápidos y una estructura jerárquica clara que guía al usuario en su recorrido.
 
-### Acciones y técnicas para la navegación
+#### **Estructura de Navegación en la Landing Page**
+ La landing page consta de las siguientes secciones principales:
 
-- **Menú superior persistente:**  
-  Se ha implementado un **menú superior** persistente en la **Landing Page**, con secciones claras como:  
-  - **Inicio**  
-  - **Información de Residentes**  
-  - **Servicios**  
-  - **Actividades**  
-  - **Contacto**
+| **Sección**  | **Descripción** |
+|-------------|--------------|
+| **Página Principal** | Introduce AgeCare, su propósito, misión y visión. Desde aquí, los usuarios pueden acceder rápidamente a las funciones clave. |
+| **About** | Explica las herramientas principales de AgeCare, cómo funcionan y cómo ayudan a médicos y familiares. |
+| **Premium** | Presenta las ventajas de la versión premium, con características adicionales para un mejor monitoreo de la salud del paciente. |
+| **Contacto** | Incluye enlaces a redes sociales, un correo de asistencia técnica y otro para consultas de negocio. |
+| **Log In** | Permite a los usuarios acceder a su cuenta o registrarse en la plataforma. |
 
-- **Enlaces destacados y botones Call-to-Action (CTA):**  
-  Se utilizan enlaces destacados y botones **CTA** que redirigen a vistas específicas dentro de la aplicación web, por ejemplo:  
-  - _"Consultar estado de mi familiar"_ dirigido a información personalizada del residente.
+#### **Estructura de Navegación en AgeCare**
+ La aplicación consta de las siguientes secciones principales:
 
+| **Sección**  | **Descripción** |
+|-------------|--------------|
+| **Home** | Muestra un resumen de AgeCare y acceso rápido a las principales funciones. |
+| **Stats** | Proporciona gráficos y datos sobre la evolución de la salud del paciente, permitiendo un seguimiento detallado. |
+| **Reports** | Ofrece la generación y visualización de informes médicos organizados por fecha y categoría. |
+| **Messages** | Facilita la comunicación entre médicos y familiares, asegurando un intercambio efectivo de información. |
+| **Appointments** | Permite la gestión de citas médicas, con opciones para programar y recibir notificaciones de próximas consultas. |
+| **Account** | Sección dedicada a la administración del perfil del usuario, permitiendo la actualización de datos y configuración personalizada. |
 
-### Diseño adaptable
-
-- **Diseño responsivo:**  
-  El diseño es **responsivo** para garantizar que los elementos de navegación sean accesibles y claros en dispositivos **móviles**, **tablets** y **desktops**.
-
-- **Desplegables adaptados:**  
-  Los menús desplegables se adaptan a pantallas más pequeñas, priorizando las **acciones más utilizadas** para facilitar la navegación en dispositivos móviles.
-
+#### Accesibilidad y navegación predictiva
+AgeCare incorpora accesos rápidos para funciones esenciales, facilitando la interacción con la plataforma. Además, utiliza navegación predictiva, sugiriendo secciones según el comportamiento del usuario y sus necesidades frecuentes, lo que mejora la eficiencia del sistema. Este sistema de navegación garantiza una experiencia intuitiva dentro de AgeCare, facilitando el acceso a la información.
 
 ### 4.3. Landing Page UI Design
 
