@@ -36,7 +36,7 @@
 | TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
 | TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
 | TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX        |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup          |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
@@ -1064,12 +1064,12 @@ Las siguientes acciones y técnicas se han implementado para garantizar una nave
 
 ### 4.4. Web Applications UX/UI Design
 
+#### 4.4.1. Web Applications Wireframes
+
 Las siguientes wireframes representan la estructura inicial y funcionalidad clave de AgeCareDB, nuestra plataforma digital diseñada para mejorar la calidad de vida de los adultos mayores en asilos y fortalecer la conexión con sus familiares.
 Estas pantallas buscan reflejar una interfaz intuitiva. Cada componente ha sido pensado para facilitar la visualización del estado de salud físico y emocional de los residentes, optimizar los procesos internos del asilo y promover una comunicación fluida entre todos los involucrados.
 
 A través de estas wireframes, se podrá explorar cómo se organiza la información, qué funcionalidades estarán disponibles en cada módulo, y cómo los usuarios interactuarán con la plataforma para cumplir con nuestra misión: priorizar el bienestar de los residentes y brindar tranquilidad a sus familias mediante soluciones tecnológicas innovadoras.
-
-#### 4.4.1. Web Applications Wireframes
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6f72e5f1-830d-46c3-8788-58dbb249be30" alt="Log In"/>
@@ -1126,6 +1126,53 @@ A través de estas wireframes, se podrá explorar cómo se organiza la informaci
 </p>
 
 #### 4.4.3. Web Applications Mock-ups
+
+Los siguientes mockups representan una visión más cercana al diseño final de AgeCareDB, nuestra solución tecnológica enfocada en mejorar la experiencia dentro de los asilos de ancianos.
+Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz moderna, amigable e intuitiva, pensada para usuarios con distintos niveles de experiencia digital: desde familiares que buscan información clara y rápida, hasta personal de salud que necesita registrar datos de forma eficiente.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60609393-38aa-4e43-8d22-49031af9d1b9)" alt="LogIn" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b63944d9-f108-44dd-83c2-fdf2a1d0f3aa" alt="SignUp" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/299f73ba-711a-461c-ae86-cc6e173baeb1" alt="Apply" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16929285-7738-4785-9adc-48416062ae57" alt="Main" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f35b407f-f4aa-4f21-9bf8-54b95f87348f" alt="Reports" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63184750-f2d1-4c8b-a24b-8dbedd3c8e99" alt="Details" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa1d5392-7aff-4801-b38e-1a180e85feb3" alt="Generate" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/195ba1ee-4d95-4a9a-92ab-647ed2eb7068" alt="List" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4411413-90dc-4057-b076-1165f3eb9197" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73edaf75-b1ff-4877-8ba5-e63a51aad6cc" alt="MSG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e07909e7-3dee-4a7c-83e6-0f7b10160bdb" alt="pfp"/>
+</p>
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
