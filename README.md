@@ -194,7 +194,7 @@ Además, cuento con conocimientos en lenguajes de programación como Java y Java
 ---
 
 #### **Franco Gabrel Huang Liu – Ingeniería de Software – U202301345**  
-<img src="./assets/Franco_huang.png" alt="FrancoHuang" height="200">
+<img src="./assets/Franco_huang.jpg" alt="FrancoHuang" height="200">
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos, escuchar y tocar musica, jugar basquet.Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. Me gusta trabajar en equipo y tratar de ayudar en la medida de lo posible.
 
@@ -1072,47 +1072,47 @@ Estas pantallas buscan reflejar una interfaz intuitiva. Cada componente ha sido 
 A través de estas wireframes, se podrá explorar cómo se organiza la información, qué funcionalidades estarán disponibles en cada módulo, y cómo los usuarios interactuarán con la plataforma para cumplir con nuestra misión: priorizar el bienestar de los residentes y brindar tranquilidad a sus familias mediante soluciones tecnológicas innovadoras.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f72e5f1-830d-46c3-8788-58dbb249be30" alt="Log In"/>
+  <img src="./assets/wfLog In.png" alt="Log In"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f194271f-be79-46a6-873e-ab1397e75f10" alt="Sign Up"/>
+  <img src="./assets/wfSign Up.png" alt="Sign Up"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00652753-824f-4ca3-bab5-4e0c4799f2eb" alt="Apply"/> 
+  <img src="./assets/wfApply.png" alt="Apply"/> 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd440999-85a6-4619-a7fb-e40bc340ff88" alt="Landing Page"/>
+  <img src="./assets/wfLanding page.png" alt="Landing Page"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7e18eb5-ea4b-41a3-9a13-202750a6ea08" alt="Reports"/>
+  <img src="./assets/wfReports.png" alt="Reports"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b2b3f0e-6da2-4deb-b123-a3cd6bf4f0f2" alt="Appointment Detail"/>
+  <img src="./assets/wfAppointment detail.png" alt="Appointment Detail"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de04b875-17a9-479d-9545-1562e2cdf7af" alt="Generate Appointment"/>
+  <img src="./assets/wfGenerate Appointment.png" alt="Generate Appointment"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd8cdf47-8d19-44f3-ad28-08639af09379" alt="Reprot List"/>
+  <img src="./assets/wfReport List.png" alt="Report List"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/21432768-78d2-4540-8443-04a8f5bd9d78" alt="Stats"/>
+  <img src="./assets/wfStats.png" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f83916e7-67e7-4749-a4be-56617ca1ae2f" alt="Messages"/>
+  <img src="./assets/wfMessages.png" alt="Messages"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94b0b9d7-a7c7-45c8-a564-e2930edc8ae1" alt="Profile"/>
+  <img src="./assets/wfProfile.png" alt="Profile"/>
 </p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
