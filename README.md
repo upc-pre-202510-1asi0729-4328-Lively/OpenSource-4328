@@ -1118,11 +1118,11 @@ A través de estas wireframes, se podrá explorar cómo se organiza la informaci
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0323bf1b-1636-4fba-b0ec-38a80e5e0fd1" alt="Wireflow_Diagram1"/>
+  <img src="./assets/Wireflow Diagram 1.jpeg" alt="Wireflow_Diagram1"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2389f5e-2b0b-4b22-ad6f-2423b6e5b205" alt="Wireflow_Diagram2"/>
+  <img src="./assets/Wireflow 2.png" alt="Wireflow_Diagram2"/>
 </p>
 
 #### 4.4.3. Web Applications Mock-ups
@@ -1131,50 +1131,54 @@ Los siguientes mockups representan una visión más cercana al diseño final de 
 Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz moderna, amigable e intuitiva, pensada para usuarios con distintos niveles de experiencia digital: desde familiares que buscan información clara y rápida, hasta personal de salud que necesita registrar datos de forma eficiente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60609393-38aa-4e43-8d22-49031af9d1b9)" alt="LogIn" />
+  <img src="./assets/Log In.png" alt="Log In"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b63944d9-f108-44dd-83c2-fdf2a1d0f3aa" alt="SignUp" />
+  <img src="./assets/Sign Up.png" alt="Sign Up"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/299f73ba-711a-461c-ae86-cc6e173baeb1" alt="Apply" />
+  <img src="./assets/Apply.png" alt="Apply"/> 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16929285-7738-4785-9adc-48416062ae57" alt="Main" />
+  <img src="./assets/Landing page.png" alt="Landing Page"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f35b407f-f4aa-4f21-9bf8-54b95f87348f" alt="Reports" />
+  <img src="./assets/Reports.png" alt="Reports"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63184750-f2d1-4c8b-a24b-8dbedd3c8e99" alt="Details" />
+  <img src="./assets/Appointment detail.png" alt="Appointment Detail"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa1d5392-7aff-4801-b38e-1a180e85feb3" alt="Generate" />
+  <img src="./assets/Generate Appointment.png" alt="Generate Appointment"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/195ba1ee-4d95-4a9a-92ab-647ed2eb7068" alt="List" />
+  <img src="./assets/Report List.png" alt="Report List"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4411413-90dc-4057-b076-1165f3eb9197" alt="Stats" />
+  <img src="./assets/Stats.png" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73edaf75-b1ff-4877-8ba5-e63a51aad6cc" alt="MSG" />
+  <img src="./assets/Messages.png" alt="Messages"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e07909e7-3dee-4a7c-83e6-0f7b10160bdb" alt="pfp"/>
+  <img src="./assets/Profile.png" alt="Profile"/>
 </p>
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+<p align="center">
+  <img src="./assets/Profile.png" alt="Profile"/>
+</p>
 
 ### 4.5. Web Applications Prototyping
 
