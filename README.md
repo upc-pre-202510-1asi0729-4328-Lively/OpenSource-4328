@@ -36,7 +36,7 @@
 | TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
 | TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
 | TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX        |
-| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup          |
+| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup y el userflow          |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
@@ -1108,7 +1108,7 @@ A través de estas wireframes, se podrá explorar cómo se organiza la informaci
 </p>
 
 <p align="center">
-  <img src="./assets/wfMessages.png" alt="Messages"/>
+  <img src="./assets/wfMessges.png" alt="Messages"/>
 </p>
 
 <p align="center">
@@ -1167,7 +1167,7 @@ Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz modern
 </p>
 
 <p align="center">
-  <img src="./assets/Messages.png" alt="Messages"/>
+  <img src="./assets/Messges.png" alt="Messages"/>
 </p>
 
 <p align="center">
@@ -1177,7 +1177,7 @@ Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz modern
 #### 4.4.4. Web Applications User Flow Diagrams
 
 <p align="center">
-  <img src="./assets/Profile.png" alt="Profile"/>
+  <img src="./assets/PUser flow.png" alt="Userflow"/>
 </p>
 
 ### 4.5. Web Applications Prototyping
