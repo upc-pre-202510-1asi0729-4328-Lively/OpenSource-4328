@@ -194,7 +194,7 @@ Además, cuento con conocimientos en lenguajes de programación como Java y Java
 ---
 
 #### **Franco Gabrel Huang Liu – Ingeniería de Software – U202301345**  
-<img src="![franco-Huang](https://github.com/user-attachments/assets/32026fb9-266f-4084-bae3-99b598cd8874)">
+<img src="./assets/Franco_huang.png" alt="FrancoHuang" height="200">
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos, escuchar y tocar musica, jugar basquet.Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. Me gusta trabajar en equipo y tratar de ayudar en la medida de lo posible.
 
