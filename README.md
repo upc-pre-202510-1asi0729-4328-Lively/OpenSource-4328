@@ -35,8 +35,8 @@
 |---------|-------------|-------|-------------|
 | TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
 | TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX        |
+| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup y el userflow          |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
@@ -193,10 +193,10 @@ Además, cuento con conocimientos en lenguajes de programación como Java y Java
 
 ---
 
-#### **xxxxxxxx – Ingeniería de Software – Uxxxxxx**  
-<*(Sin imagen disponible)*
+#### **Franco Gabrel Huang Liu – Ingeniería de Software – U202301345**  
+<img src="./assets/Franco_huang.jpg" alt="FrancoHuang" height="200">
 
-Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
+Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos, escuchar y tocar musica, jugar basquet.Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas. Me gusta trabajar en equipo y tratar de ayudar en la medida de lo posible.
 
 ---
 
@@ -217,6 +217,7 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 ---
 
 ### 1.2. Solution Profile
+
 
 #### 1.2.1. Antecedentes y problemática
 **WHAT**
@@ -963,11 +964,119 @@ AgeCare incorpora accesos rápidos para funciones esenciales, facilitando la int
 
 #### 4.4.1. Web Applications Wireframes
 
+Las siguientes wireframes representan la estructura inicial y funcionalidad clave de AgeCareDB, nuestra plataforma digital diseñada para mejorar la calidad de vida de los adultos mayores en asilos y fortalecer la conexión con sus familiares.
+Estas pantallas buscan reflejar una interfaz intuitiva. Cada componente ha sido pensado para facilitar la visualización del estado de salud físico y emocional de los residentes, optimizar los procesos internos del asilo y promover una comunicación fluida entre todos los involucrados.
+
+A través de estas wireframes, se podrá explorar cómo se organiza la información, qué funcionalidades estarán disponibles en cada módulo, y cómo los usuarios interactuarán con la plataforma para cumplir con nuestra misión: priorizar el bienestar de los residentes y brindar tranquilidad a sus familias mediante soluciones tecnológicas innovadoras.
+
+<p align="center">
+  <img src="./assets/wfLog In.png" alt="Log In"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfSign Up.png" alt="Sign Up"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfApply.png" alt="Apply"/> 
+</p>
+
+<p align="center">
+  <img src="./assets/wfLanding page.png" alt="Landing Page"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfReports.png" alt="Reports"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfAppointment detail.png" alt="Appointment Detail"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfGenerate Appointment.png" alt="Generate Appointment"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfReport List.png" alt="Report List"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfStats.png" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfMessges.png" alt="Messages"/>
+</p>
+
+<p align="center">
+  <img src="./assets/wfProfile.png" alt="Profile"/>
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center">
+  <img src="./assets/Wireflow Diagram 1.jpeg" alt="Wireflow_Diagram1"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Wireflow 2.png" alt="Wireflow_Diagram2"/>
+</p>
 
 #### 4.4.3. Web Applications Mock-ups
 
+Los siguientes mockups representan una visión más cercana al diseño final de AgeCareDB, nuestra solución tecnológica enfocada en mejorar la experiencia dentro de los asilos de ancianos.
+Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz moderna, amigable e intuitiva, pensada para usuarios con distintos niveles de experiencia digital: desde familiares que buscan información clara y rápida, hasta personal de salud que necesita registrar datos de forma eficiente.
+
+<p align="center">
+  <img src="./assets/Log In.png" alt="Log In"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Sign Up.png" alt="Sign Up"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Apply.png" alt="Apply"/> 
+</p>
+
+<p align="center">
+  <img src="./assets/Landing page.png" alt="Landing Page"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Reports.png" alt="Reports"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Appointment detail.png" alt="Appointment Detail"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Generate Appointment.png" alt="Generate Appointment"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Report List.png" alt="Report List"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Stats.png" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Messges.png" alt="Messages"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Profile.png" alt="Profile"/>
+</p>
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+<p align="center">
+  <img src="./assets/PUser flow.png" alt="Userflow"/>
+</p>
 
 ### 4.5. Web Applications Prototyping
 
