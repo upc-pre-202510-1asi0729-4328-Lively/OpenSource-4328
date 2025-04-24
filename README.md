@@ -1287,10 +1287,278 @@ Para la elección de cómo relacionar las entidades, primero nos basamos en busc
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
-#### 5.1.1. Software Development Environment Configuration
-#### 5.1.2. Source Code Management
-#### 5.1.3. Source Code Style Guide & Conventions
-#### 5.1.4. Software Deployment Configuration
+
+En este apartado se establecen los lineamientos y procedimientos adoptados durante el desarrollo y publicación del sitio web de AgeCare, con el propósito de asegurar la coherencia y estabilidad del software desde sus primeras etapas hasta su implementación y posterior mantenimiento.
+
+### 5.1.1. Software Development Environment Configuration
+
+#### Project Management
+
+Para una gestión eficiente del proyecto, se hizo necesaria la implementación de un conjunto de herramientas destinadas a la asignación de tareas, la facilitación de reuniones y la colaboración entre los integrantes. Asimismo, se empleó un repositorio centralizado para consolidar los avances de manera coordinada. A continuación, se presentan las plataformas seleccionadas junto con su respectivo propósito dentro del marco del proyecto.
+- **Centro de organización de trabajo:** Github  
+- **Planificación de tareas:** Trello  
+- **Reuniones de equipo:** Google Meet  
+- **Coordinación grupal:** WhatsApp  
+
+#### Requirement Management
+
+Durante el desarrollo del proyecto se recurrió a diversas herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad en el diseño conceptual del sistema:
+
+| Herramienta   | Descripción                                                                                                     | Enlace                                      |
+|---------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **Trello**        | Herramienta de organización de proyectos basada en tableros y tarjetas, empleada para distribuir tareas entre los miembros del equipo y hacer seguimiento al progreso de cada fase del desarrollo. | [trello.com](https://trello.com/)           |
+| **Uxpressia**     | Aplicación digital utilizada para el diseño de mapas estratégicos, como *Impact Mapping*, lo cual permitió vincular los objetivos del negocio con las funcionalidades del producto de forma clara y visual. | [uxpressia.com](https://uxpressia.com/)     |
+| **Structurizr**   | Plataforma de modelado arquitectónico que facilita la construcción de diagramas C4, permitiendo representar la estructura lógica del sistema y su interacción entre componentes de manera estandarizada. | [structurizr.com](https://www.structurizr.com/) |
+| **Lucidchart**    | Entorno colaborativo de diagramación empleado para desarrollar modelos técnicos como diagramas de clases y estructuras de bases de datos, fundamentales en la definición de la arquitectura del sistema. | [lucidchart.com](https://www.lucidchart.com/) |
+
+---
+
+#### Product UX/UI Design
+
+El diseño de la experiencia de usuario y de la interfaz visual se abordó mediante herramientas especializadas que posibilitaron la creación de prototipos gráficos y esquemas de navegación. Esto permitió validar la estructura de la aplicación antes de su implementación:
+
+| Herramienta | Descripción                                                                                          | Enlace                              |
+|-------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
+| **Figma**   | Plataforma de diseño colaborativo en línea que permitió a los miembros del equipo crear y editar en tiempo real wireframes y mockups, asegurando la coherencia visual y funcional de la landing page. | [figma.com](https://www.figma.com/) |
+
+---
+
+#### Software Development
+
+Para el desarrollo de la página web, se emplearon lenguajes de programación y etiquetado esenciales para crear la estructura, el diseño y las funcionalidades del sistema. A continuación, se describen las herramientas utilizadas:
+
+| Herramienta    | Descripción                                                                                              | Enlace                                                       |
+|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **HTML**       | Lenguaje de marcado fundamental para estructurar el contenido y la disposición de los elementos en la web. | [HTML](https://www.w3schools.com/html/default.asp)           |
+| **CSS**        | Lenguaje de diseño que permite aplicar estilos visuales a los elementos estructurados en HTML, mejorando su presentación. | [CSS](https://www.w3schools.com/css/default.asp)             |
+| **JavaScript** | Lenguaje de programación orientado a objetos utilizado para agregar interactividad y funcionalidades dinámicas a la página web. | [JavaScript](https://www.w3schools.com/js/default.asp)       |
+
+---
+
+#### Software Documentation
+
+La gestión y documentación del proyecto se llevó a cabo utilizando herramientas que facilitaron la organización y el acceso a la información técnica, asegurando la transparencia y la trazabilidad del desarrollo:
+
+| Herramienta    | Descripción                                                                                              | Enlace                                                       |
+|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/SmartFinance-OpenSource/Report)  |
+| **Markdown**   | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown.es](https://markdown.es/)                          |
+
+---
+
+#### Software Deployment
+
+Para el despliegue de la landing page, se optó por una plataforma de hosting que permite la publicación directa desde un repositorio de GitHub, garantizando una gestión eficiente del ciclo de vida de la aplicación:
+
+| Herramienta     | Descripción                                                                                              | Enlace                                                       |
+|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **GitHub Pages** | Servicio de GitHub que permite desplegar la aplicación directamente desde el repositorio, facilitando la visualización pública de la página. | [GitHub Pages](https://pages.github.com/)                   |
+
+---
+
+
+
+### 5.1.2. Source Code Management
+
+#### Producto y Repositorio
+
+| Producto             | Repositorio        | URL                                                       |
+|----------------------|--------------------|------------------------------------------------------------|
+| Landing Page         | AgeCare-Landing Page| [LandingPage](https://github.com/upc-pre-202510-1asi0729-4328-Lively/landing-page)     |
+| Web Services         | AgeCare-Web Services| [Backend](https://github.com/upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare) |
+| Front Web Application| AgeCare-Frontend    | [Frontend](https://github.com/upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare) |
+
+#### Estructura del Repositorio
+
+Hemos organizado el repositorio en ramas específicas para diferentes etapas del desarrollo, garantizando un flujo de trabajo ordenado y eficiente. La estructura de ramas es la siguiente:
+
+- **Main branch** (rama principal): Contiene la versión estable y lista para producción del software.
+- **Develop branch**: Contiene el código en desarrollo que se integrará en la rama principal después de ser probado y validado.
+
+Además, para el desarrollo de nuevas funcionalidades, creamos ramas específicas siguiendo las convenciones de nomenclatura:
+
+- **Feature branches**: Ramas dedicadas al desarrollo de nuevas características. La nomenclatura para estas ramas es `feature/nueva-funcionalidad`.
+
+Implementamos **GitFlow**, un modelo de ramificación diseñado por Vincent Driessen, que incluye las siguientes ramas:
+
+- **Main branch**: Rama principal que alberga el código estable y preparado para producción.
+- **Develop branch**: Rama de desarrollo donde se integran nuevas funcionalidades y correcciones antes de ser fusionadas a la rama principal.
+- **Feature branches**: Creadas a partir de `develop` para añadir nuevas características, siguiendo la nomenclatura `feature/nueva-funcionalidad`.
+- **Release branches**: Preparadas para la liberación de nuevas versiones, permitiendo pruebas finales y corrección de errores antes del despliegue a producción.
+- **Hotfix branches**: Utilizadas para corregir errores críticos en producción, siguiendo la nomenclatura `hotfix/correccion-critica`.
+
+
+#### Flujo de trabajo GitFlow
+
+- Una rama de **producción** (`main`).
+- Una rama de **pruebas** (`develop`).
+- Rama de **hotfix** para corrección de errores críticos (`hotfix/*`).
+- Rama de **release** para estabilización y pruebas previas al despliegue (`release/*`).
+- Ramas para **features** (`feature/*`).
+- Cada cambio en **producción** se considera una nueva versión.
+- Cambios en `main` y `develop` requieren aprobación.
+
+
+#### Mensajes de Commits
+
+Adoptamos el estándar **Conventional Commits** para los mensajes de nuestros commits, lo que facilita la comprensión del historial de cambios y la automatización de versiones. Ejemplos de mensajes son:
+
+- `feat`: Añadir nueva funcionalidad, por ejemplo, `feat: implementar sistema de notificaciones`.
+- `fix`: Corregir errores, por ejemplo, `fix: solucionar problema con la validación de datos`.
+- `docs`: Actualizar documentación, por ejemplo, `docs: actualizar guía de instalación`.
+- `style`: Aplicar formato, por ejemplo, `style: ajustar estilo de código según las pautas`.
+- `refactor`: Mejorar el código sin cambiar su funcionalidad, por ejemplo, `refactor: optimizar el rendimiento del módulo de usuario`.
+- `test`: Añadir o modificar pruebas, por ejemplo, `test: añadir pruebas para la funcionalidad de autenticación`.
+
+
+#### Documentación
+
+La documentación del proyecto se encuentra en el archivo `README.md` dentro del repositorio. Este archivo proporciona detalles sobre la configuración, el uso del software y las guías para contribuir al proyecto.
+
+
+---
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+#### HTML
+
+Durante la construcción de la estructura del sitio, se adoptaron las siguientes buenas prácticas para asegurar accesibilidad y organización:
+
+- Escribir todas las etiquetas en minúsculas.
+- Asegurar el cierre correcto de todos los elementos.
+- Mantener los atributos en minúscula.
+- Incluir `alt`, `width` y `height` en imágenes para accesibilidad y control visual.
+- Evitar espacios innecesarios dentro de las etiquetas.
+
+**Ejemplo de imagen:**
+
+```html
+<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+```
+
+**Etiquetas HTML utilizadas:**
+
+```html
+<header>, <nav>, <div>, <img>, <ul>, <li>, <a>, <p>, <button>, <h1>, <h2>, <h3>, <h4>
+```
+
+---
+
+#### CSS
+
+Para mantener consistencia en el diseño y facilitar la lectura del código, se aplicaron las siguientes reglas:
+
+- Usar nombres de clases e IDs que sean descriptivos y semánticos.
+- Elegir nombres breves pero comprensibles.
+
+```css
+#gallery {}
+.video {}
+```
+
+- Usar propiedades abreviadas siempre que sea posible para mantener el código compacto.
+
+```css
+padding: 0 1em 2em;
+```
+
+- No utilizar unidades en valores cero.
+
+```css
+margin: 0;
+padding: 0;
+```
+
+- Ordenar las propiedades alfabéticamente para facilitar el escaneo visual.
+
+```css
+background: fuchsia;
+border: 1px solid;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em;
+```
+
+---
+
+#### JavaScript
+
+Para lograr un código más claro y mantenible, se establecieron las siguientes prácticas de codificación:
+
+- Utilizar funciones con llaves bien estructuradas.
+
+```js
+function myFunc() {
+  console.log('Hello!');
+}
+```
+
+- Usar `lowerCamelCase` para declarar variables.
+
+```js
+let playerScore = 0;
+```
+
+- Preferir el uso de `let` y `const` sobre `var`.
+
+```js
+const myName = 'Chris';
+let myAge = 40;
+myAge++;
+console.log(myAge);
+```
+
+- Nombrar las funciones también siguiendo la convención `lowerCamelCase`.
+
+```js
+function sayHello() {
+  alert('Hello!');
+}
+```
+
+---
+
+### 5.1.4. Configuración de Despliegue de Software
+
+#### Landing Page
+
+**Consideraciones previas al despliegue:**
+
+1. Archivos en formato HTML, CSS y JS.
+2. Publicación en un repositorio de GitHub.
+3. Realización de pruebas de funcionamiento (internas y externas).
+
+**Requisitos:**
+
+- Repositorio en GitHub (público).
+- Código fuente completo de la landing page.
+
+**Pasos para realizar el despliegue:**
+
+A continuación, se detallan los pasos para desplegar nuestro sitio web utilizando GitHub Pages.
+
+&nbsp;
+
+1. **Despliegue con GitHub Pages**: Primero, accedemos al repositorio en GitHub donde se encuentra el proyecto y luego nos dirigimos a la configuración del repositorio.
+
+   ![Imagen](./assets/SoftwareDeploymentConfiguration.jpeg)
+
+   &nbsp;
+
+3. Dentro del menú de ajustes, seleccionamos la opción "Pages".
+
+   ![Imagen](./assets/Pages.jpeg)
+   
+---
+
+#### Control de Versiones
+
+**Uso de Git**: Es importante mantener un historial completo de los cambios para gestionar las diferentes versiones del código de manera eficiente.
+
+En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el menú desplegable de la opción "Branch" y luego hacemos clic en "Save" para guardar los cambios. Después de un breve periodo de espera, obtendremos el enlace a nuestro sitio web, ahora publicado en GitHub Pages.
+
+---
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.X. Sprint n
