@@ -1573,22 +1573,44 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 ---
 
 ### 5.2. Landing Page, Services & Applications Implementation
-#### 5.2.X. Sprint n
-##### 5.2.X.1. Sprint Planning n
-##### 5.2.X.2. Aspect Leaders and Collaborators
-##### 5.2.X.3. Sprint Backlog n
-##### 5.2.X.4. Development Evidence for Sprint Review
-##### 5.2.X.5. Execution Evidence for Sprint Review
-##### 5.2.X.6. Services Documentation Evidence for Sprint Review
-##### 5.2.X.7. Software Deployment Evidence for Sprint Review
-##### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
 
-### 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluaciones según heurísticas
+| Sprint #                             | Sprint 1                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| Date                           | 2025-04-24                                                                                            |
+| Time                           | 1:00 PM                                                                                              |
+| Location                       | Virtual - Meet                                                                                       |
+| Prepared By                    | Jeremy Quijada                                                                                |
+| Attendees (to planning meeting)| Jeremy Quijada, Franco Huang, Fatima Asmad, Mauricio Muñoz, Ramiro Guzman                    |
+| Sprint n - 1 Review Summary    | Este es el primer Sprint, por lo que este campo no aplica.                                            |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
+| Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de                                              |
 
-### 5.4. Video About-the-Product
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+
+##### 5.2.1.3. Sprint Backlog 1
+
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+ En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+ Enlace de la Landing Page: https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/
+
+![Menu](./assets/Menu.png)
+![Nosotros](./assets/nosotros.png)
+![Servicios](./assets/servicios.png)
+![Contacto](./assets/contacto.png)
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
