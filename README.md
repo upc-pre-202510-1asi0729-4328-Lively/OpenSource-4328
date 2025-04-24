@@ -1579,27 +1579,58 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 | Sprint #                             | Sprint 1                                                                                               |
 |--------------------------------|--------------------------------------------------------------------------------------------------------|
-| Date                           | 2025-04-24                                                                                            |
-| Time                           | 1:00 PM                                                                                              |
-| Location                       | Virtual - Meet                                                                                       |
-| Prepared By                    | Jeremy Quijada                                                                                |
+| **Date**       |     2025-04-24        |
+| Time           | 1:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Jeremy Quijada               |
 | Attendees (to planning meeting)| Jeremy Quijada, Franco Huang, Fatima Asmad, Mauricio Muñoz, Ramiro Guzman                    |
 | Sprint n - 1 Review Summary    | Este es el primer Sprint, por lo que este campo no aplica.                                            |
 | Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
 | Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
-| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta                                                  |
-| Sum of Story Points            | La suma de Story Points atendidos es de                                              |
+| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  15.                                            |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
 
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Mauricio Muñoz Vilcapoma | MauricioMVilcapoma  | L  | 
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  
+| Jeremy Quijada Magro   | jhonson2021    | C         | 
+| Franco Huang Liu       | St4rLght05     | C         |  
+| Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
 
 ##### 5.2.1.3. Sprint Backlog 1
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+
+| **Sprint #**   | Sprint 1   |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             | **Work-Item/task** |             |             |             |             |             |
+| **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-06          | Conocer los servicios                  | T01          | Crear una página para que se puedan conocer los servicios.            | Facilitar el acceso a información sobre los servicios del proyecto. | 0.5                   | Jeremy Quijada    | Pendiente |
+| US-07          | Leer la misión y visión del proyecto   | T02          | Crear una sección para poder conocer la misión y visión del proyecto. | Ayudar a los usuarios a entender los objetivos y valores del proyecto. | 1                   | Jeremy Quijada    | Pendiente |
+| US-08          | Visualizar preguntas frecuentes        | T03          | Crear una sección para ver las preguntas frecuentes                   | Ofrecer respuestas rápidas a preguntas comunes sobre el proyecto.  | 1                   | Jeremy Quijada    | Pendiente |
+| US-16          | Ver equipo profesional del asilo       | T04          | Crear una sección para ver los equipos profesionales de los asilos    | Mostrar información sobre el equipo y su experiencia profesional.   | 1                   | Jeremy Quijada    | Pendiente |
+| US-17          | Solicitar información desde la web     | T05          | Crear un formulario para solicitar más información del proyecto.      | Brindar a los usuarios una forma de comunicarse directamente.       | 1.5                   | Jeremy Quijada    | Pendiente |
+| US-18          | Ver testimonios y casos de éxito       | T06          | Crear una sección para mostrar testimonios y casos exitosos.          | Compartir historias reales para generar confianza en el proyecto.   | 2                 | Jeremy Quijada    | Pendiente |
+| US-19          | Descargar folleto informativo          | T07          | Crear una opción para descargar un folleto con información relevante. | Proveer información detallada sobre el proyecto en formato digital. | 0.5                 | Jeremy Quijada    | Pendiente |
 
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+| **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| US31                | Navegación por el landing page | Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente. |
+| US32                | Ver información del startup   | Dado que voy a "Sobre Nosotros", cuando hago scroll, entonces veo informacion sobre la startup como misión y visión.                    |
+| US33                | Conocer los servicios |Dado que voy a "Nuestros Servicios", cuando hago scroll, entonces veo informacion sobre los servicos que ofrece la aplicación. |
+| US34                | Contactar al equipo de soporte | Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.       |
+
+
  En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
  Enlace de la Landing Page: https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/
 
@@ -1609,7 +1640,66 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 ![Contacto](./assets/contacto.png)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto AgeCare. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
+La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Se realizó el despliegue de la **landing page** del proyecto *AgeCare*, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
+
+##### Actividades Realizadas
+
+- Configuración del repositorio **GitHub** y definición de la estructura inicial de carpetas.
+- Implementación del flujo de trabajo **Git Flow**, manteniendo los cambios en la rama *develop*.
+- Realización de un **merge** desde *develop* hacia la rama *main*, siguiendo las convenciones definidas en la sección *5.1.2*.
+- Activación de **GitHub Pages** como servicio de despliegue estático, apuntando al contenido de la rama *main*.
+- Publicación exitosa de la **landing page**, accesible mediante una URL pública.
+
+##### Evidencias Visuales
+
+* Configuración del repositorio GitHub y estructura inicial de carpetas.
+  * Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico:
+  ![Repositorio](./assets/repositorio.png)
+
+  * Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando git clone. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+  ![Carpetas](./assets/carpetas.png)
+
+* Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+
+  * Desde la consola, creamos un push inicial en la rama remota main usando el comando git push origin main con un mensaje commit descriptivo.
+  initial-commit-landing
+
+  * El siguiente paso es crear la rama local develop usando el comando git checkout -b develop, la creamos de manera remota con git push origin develop. Las ramas feature/* se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama develop, por lo que un paso previo es asegurarnos que estamos en la rama correcta con git checkout develop.
+
+* Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+
+  * Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.
+
+  * Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.
+
+* Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+
+  * En la configuración del repositorio, se seleccionó la rama main como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.
+
+  * Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+
+  ![Page](./assets/page.png)
+
+
+* Publicacion exitosa de la Landing Page
+
+  ![Menu](./assets/Menu.png)
+
+  ![Nosotros](./assets/nosotros.png)
+
+  ![Servicios](./assets/servicios.png)
+
+  ![Contacto](./assets/contacto.png)  
+
+
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
