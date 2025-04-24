@@ -957,14 +957,26 @@ AgeCare incorpora accesos rápidos para funciones esenciales, facilitando la int
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
+Los siguientes wireframes representan una visión más cercana al diseño final de la landing page. A través de estas wireframes, se podrá explorar cómo se organiza la página, qué funcionalidades estarán disponibles y cómo los usuarios interactuarán con ella.
+
+![Wireframe](<./assets/Landing Page - Wireframe.png>)
 
 #### 4.3.2. Landing Page Mock-up
+Los siguientes mockups representan una visión más cercana a la landing Page de AgeCare:
+
+![Menu](./assets/Menu.png)
+
+![Nosotros](./assets/nosotros.png)
+
+![Servicios](./assets/servicios.png)
+
+![Contacto](./assets/contacto.png)
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
-Las siguientes wireframes representan la estructura inicial y funcionalidad clave de AgeCareDB, nuestra plataforma digital diseñada para mejorar la calidad de vida de los adultos mayores en asilos y fortalecer la conexión con sus familiares.
+Las siguientes wireframes representan la estructura inicial y funcionalidad clave de AgeCare, nuestra plataforma digital diseñada para mejorar la calidad de vida de los adultos mayores en asilos y fortalecer la conexión con sus familiares.
 Estas pantallas buscan reflejar una interfaz intuitiva. Cada componente ha sido pensado para facilitar la visualización del estado de salud físico y emocional de los residentes, optimizar los procesos internos del asilo y promover una comunicación fluida entre todos los involucrados.
 
 A través de estas wireframes, se podrá explorar cómo se organiza la información, qué funcionalidades estarán disponibles en cada módulo, y cómo los usuarios interactuarán con la plataforma para cumplir con nuestra misión: priorizar el bienestar de los residentes y brindar tranquilidad a sus familias mediante soluciones tecnológicas innovadoras.
@@ -1025,7 +1037,7 @@ A través de estas wireframes, se podrá explorar cómo se organiza la informaci
 
 #### 4.4.3. Web Applications Mock-ups
 
-Los siguientes mockups representan una visión más cercana al diseño final de AgeCareDB, nuestra solución tecnológica enfocada en mejorar la experiencia dentro de los asilos de ancianos.
+Los siguientes mockups representan una visión más cercana al diseño final de AgeCare, nuestra solución tecnológica enfocada en mejorar la experiencia dentro de los asilos de ancianos.
 Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz moderna, amigable e intuitiva, pensada para usuarios con distintos niveles de experiencia digital: desde familiares que buscan información clara y rápida, hasta personal de salud que necesita registrar datos de forma eficiente.
 
 <p align="center">
