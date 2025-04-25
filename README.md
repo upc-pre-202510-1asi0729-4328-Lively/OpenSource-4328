@@ -1790,6 +1790,34 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
+* **Conclusiónes:**
+1. **Problema real y vigente:**
+   La desconexión  y la falta de información en tiempo real entre los familiares y los asilos es un problema significativo en Lima, especialmente considerando el crecimiento de la población adulta mayor y la alta demanda de servicios geriátricos.
+2. **Solución alineada a las necesidades del usuario:**
+   Este producto responde de forma clara a las necesidades de los tres grupos clave: familiares, personal de salud y administradores. Cada grupo tiene funcionalidades dedicadas que abordan directamente sus principales frustraciones o carencias.
+3. **Alta viabilidad tecnológica:**
+   El nivel de acceso a Internet y familiaridad con herramientas digitales en Lima es suficientemente alto para garantizar la adopción inicial del sistema, tanto por parte de los familiares como del personal de salud.
+4. **Impacto potencial alto:**
+   La implementación de la aplicación puede mejorar la calidad de vida de los residentes, reducir la ansiedad de los familiares y optimizar la eficiencia operativa del personal del asilo, generando un cambio significativo en el ecosistema de cuidado geriátrico.
+
+* **Recomendaciónes:**
+1. **Incluir un módulo de accesibilidad y soporte técnico:**
+   Se debe de considerar de que existe la posibilidad de que los usuarios experimenten dificultades tecnológicas y/o limitaciónes fisicas. Agregar opciones como: lectura fácil, notificaciónes por Whatsapp y una linea de ayuda básica
+2. **Insentivar el uso de la aplicación para el personal:**
+   Añadir logros o reconocimientos internos al personal puede motivar el uso regular de la plataforma y mantener la calidad de los datos.
+3. **Expandirlo de manera progresiva:**
+   Empezar a trabajar poco a poco con entidades cada vez de mayor reconocimiento y tener la posibilidad de llevarlo a cabo en zonas rurales con poca conectividad o señal limitada apoyandonos con dichas entidades mayores.
+
 ## Bibliografía
+
+Casas-Vasquez, P., Apaza-Pino, R., Juan, D. C. Y. D., & Chávez-Jimeno, H. (2016, April 1). _Atención sociosanitaria de los adultos mayores en el Perú._ https://repositorio.essalud.gob.pe/handle/20.500.12959/173
+
+González, J. G., Martínez-Sala, A. M., Ramos-Soler, I., & Saucedo, N. L. S. (2024). _eSalud para adultos mayores: un análisis de la adopción de tecnologías en la prevención y control de enfermedades. Conexión, 22, 19–44._ https://doi.org/10.18800/conexion.202402.001
+
+Luis, C. V. J., Fiorella, C. O. C., Leonor, O. T. A., & Gloria, R. S. C. (2020). _Servicio de telemonitoreo a través de dispositivos portátiles para adultos mayores con patologías asociadas en Lima Metropolitana._ https://repositorio.esan.edu.pe/items/883afed3-7ac5-4276-abed-d2f33956daf9
+
+Luis, M. Z. J. (2023, November 22). _Diseño de un sistema inteligente de monitoreo intradomiciliario y remoto para el cuidado de la población adulta mayor._ https://tesis.pucp.edu.pe/items/6c5bd18d-e18d-4e1a-a273-4a0c5799435a
+
+Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitoreo y teleorientación psicosocial para adultos mayores del Seguro Social de Salud (EsSalud) durante los primeros seis meses de la pandemia por COVID-19 en el Perú. Revista Del Cuerpo Médico Hospital Nacional Almanzor Aguinaga Asenjo, 15(3), 392–396._ https://doi.org/10.35434/rcmhnaaa.2022.153.1386
 
 ## Anexos
