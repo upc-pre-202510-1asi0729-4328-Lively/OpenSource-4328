@@ -1777,6 +1777,16 @@ Se realizó el despliegue de la **landing page** del proyecto *AgeCare*, marcand
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Jeremy Quijada.
+
+<p align="center">
+  <img src="./assets/Insights_Network1.jpg" alt="Insght_Ntwrk"/>
+</p>  
+
+<p align="center">
+  <img src="./assets/Insights_Pulse1.jpg" alt="Insght_Pls"/>
+</p>  
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
