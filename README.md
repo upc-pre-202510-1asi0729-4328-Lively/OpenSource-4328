@@ -1177,7 +1177,7 @@ Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz modern
 #### 4.4.4. Web Applications User Flow Diagrams
 
 <p align="center">
-  <img src="./assets/PUser flow.png" alt="Userflow"/>
+  <img src="./assets/User flow.png" alt="Userflow"/>
 </p>
 
 ### 4.5. Web Applications Prototyping
