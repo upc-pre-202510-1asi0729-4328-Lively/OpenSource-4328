@@ -38,10 +38,9 @@
 | TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX.        |
 | TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup y el userflow.          |
 | TB1     | 23/04/2025  |  Ramiro Alexander Guzman Chavez     |  Agregué el Software Configuration Management.         |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 15/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |     Realice el user task matrix y persona        |
+| TB1     | 16/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |      Realice el journey mapping y emphaty mapping       |
+| TB1     | 24/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       Realice Project Report Collaboration Insights      |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
@@ -52,9 +51,18 @@
 ## Project Report Collaboration Insights
 
 - **URL de la organización del proyecto:**  
-  [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)  
+  [https://github.com/upc-pre-202510-1asi0729-4328-Lively](https://github.com/upc-pre-202510-1asi0729-4328-Lively)
 - **URL del repositorio del informe:**  
-  [https://github.com/MauricioMVilcapoma/OpenSource-4328](https://github.com/MauricioMVilcapoma/OpenSource-4328)
+    [https://github.com/upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328](https://github.com/upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328)
+
+Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante del equipo se encargó de redactar y generar gráficos en formato Markdown, según los puntos que le fueron asignados, realizando commits para dejar constancia del progreso en el repositorio.
+
+Aquí se pueden visualizar todos los commits realizados para la TB1, lo cual evidencia el trabajo colaborativo del equipo.
+  <img src="./assets/colab.png" alt="colab" />
+Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una feature. Un miembro del equipo creaba una rama específica para ese subtítulo y trabajaba en ella, mientras que otros miembros podían colaborar directamente o supervisar su progreso. Una vez finalizada la feature, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama develop. Además, organizamos las tareas considerando su nivel de dificultad, asegurando así una distribución equitativa del trabajo entre todos los integrantes.
+
+A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+  <img src="./assets/colasb2.png" alt="colab2" />
 ---
 ## Contenido
 #### Tabla de contenidos
