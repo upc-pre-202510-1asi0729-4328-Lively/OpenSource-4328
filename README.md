@@ -41,10 +41,10 @@
 | TB1     | 15/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |     Realice el user task matrix y persona        |
 | TB1     | 16/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |      Realice el journey mapping y emphaty mapping       |
 | TB1     | 24/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       Realice Project Report Collaboration Insights      |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 17/04/2025  | Quijada Magro Jeremy Alexander        | Realice Analisis Competitivo y Estrategia ante competidores |
+| TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander        | Realice Style GuideLines and Information Architure    |
+| TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander        | Realice Domain-Desing Software Architure            |
+| TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander        | Realice Lading Page UI Design           |
 
 ---
 
