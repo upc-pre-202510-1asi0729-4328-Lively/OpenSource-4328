@@ -1715,7 +1715,16 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+ En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
 
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| SmartFinance-OpenSource/LandingPage | develop | 6fce4ba   | feat/update landing page content and images   |    | 21/04/2025          |
+| SmartFinance-OpenSource/LandingPage | develop | 410b1fb   | feat/update landing page content and images |       | 21/04/2025          |
+| SmartFinance-OpenSource/LandingPage | develop | 2c9f56d   | feature/improving the lading page and adding scripts   |     | 21/04/2025          |
+| SmartFinance-OpenSource/LandingPage | feature/questions section | ab33510   | feature/questions section |              | 25/04/2025          |
+| SmartFinance-OpenSource/LandingPage | release/v1.0.0 | 7531047   | adding feature/questions section |            | 25/04/2025          |
+| SmartFinance-OpenSource/LandingPage | main | 50e9881   | Release/v1.0.0 |       | 25/04/2025          |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
