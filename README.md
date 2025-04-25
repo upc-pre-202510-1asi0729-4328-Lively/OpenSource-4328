@@ -1182,6 +1182,12 @@ Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz modern
 
 ### 4.5. Web Applications Prototyping
 
+<p align="center">
+  <img src="./assets/prototype.jpg" alt="Prototype"/>
+</p>
+
+Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t=o24brncKf6wW1q6w-1
+
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagram
