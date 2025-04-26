@@ -534,8 +534,35 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1-SF7lOPblklXH5iPaLcWS9xHElqvmHlu/view?usp=sharing](https://drive.google.com/file/d/1-SF7lOPblklXH5iPaLcWS9xHElqvmHlu/view?usp=sharing) |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/Joaquin.png" alt="Joaquin" height="200"/> |
 
+&nbsp;
+
+| **Entrevista 4** |
+|------------------|
+| <strong>Nombre:</strong> Mario Stephano Alessandro Barrientos Seminario |
+| <strong>Edad:</strong> 19 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Profesionales de la salud y cuidadores en asilos de ancianos |
+| <strong>Resumen:</strong> Mario Stefano Alesandro Barriento Seminario, de 19 años, trabaja y estudia en Lima. Durante la entrevista, destacó que el principal desafío en el cuidado de adultos mayores en asilos es brindar atención personalizada debido a las distintas necesidades médicas y emocionales de cada residente. Actualmente utiliza la tecnología para llevar registros y controlar la medicación, pero considera que sería ideal contar con un sistema más práctico e integrado para facilitar la comunicación con familiares y el acceso a historiales médicos. Resalta la importancia de la comunicación clara y empática con las familias y sugiere que la implementación de tecnologías como recordatorios, actividades interactivas y monitoreo de salud podría mejorar tanto la calidad de vida de los residentes como la eficiencia del personal. También menciona que capacitaciones en demencia, cuidados paliativos y manejo emocional son fundamentales para optimizar la atención. Para promover un ambiente seguro y acogedor, se enfoca en la prevención de riesgos físicos y el apoyo emocional, respetando siempre la privacidad y dignidad de los residentes. Finalmente, subraya la importancia de mantenerse actualizado en políticas y normativas para garantizar una atención ética, segura y profesional. |
+| <strong>Enlace de video:</strong> https://youtu.be/mWJkpLYoQKI |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/Mario.jpg" alt="Mario" height="200"/> |
 
 #### 2.2.3. Análisis de entrevistas
+
+**Entrevista 1:**
+
+**Entrevista 2:**
+
+**Entrevista 3:**
+
+**Entrevista 4:**
+
+La entrevista a Mario Stefano Alesandro Barriento Seminario revela importantes necesidades y oportunidades de mejora en el ámbito del cuidado de adultos mayores. Su experiencia demuestra que la atención personalizada es un desafío constante, especialmente por las múltiples condiciones médicas y emocionales que presentan los residentes. Este enfoque individualizado requiere una gestión organizada y sensible, donde el tiempo y los recursos del personal son factores clave. En ese sentido, Mario señala que la tecnología actualmente tiene un rol limitado, siendo utilizada principalmente para el control de medicación y registros, pero manifiesta la necesidad de sistemas integrados y accesibles que permitan una mejor coordinación entre personal, pacientes y familiares.
+
+Asimismo, enfatiza la importancia de la comunicación empática y continua con los familiares, lo cual no solo mejora la satisfacción, sino que también fortalece la confianza en el equipo de trabajo. Además, reconoce que herramientas tecnológicas sencillas, como recordatorios o actividades digitales, pueden aumentar tanto la calidad de vida de los residentes como la eficiencia del personal, especialmente en tareas repetitivas.
+
+En cuanto al recurso humano, Mario destaca la urgencia de capacitaciones específicas en demencia, cuidados paliativos y manejo emocional, elementos clave para un abordaje profesional y humano. También demuestra conciencia sobre el valor de respetar la intimidad y dignidad de los residentes, proponiendo medidas prácticas para garantizarla. Por último, remarca la necesidad de estar actualizados en las normativas del sector, entendiendo que esto no solo asegura una mejor atención, sino que también protege legalmente al personal y otorga credibilidad a la institución.
+
+Este análisis evidencia una fuerte alineación entre las necesidades reales del personal de salud y las oportunidades que puede ofrecer un sistema tecnológico bien diseñado. La implementación de soluciones digitales enfocadas en gestión, comunicación y personalización del cuidado no solo es deseable, sino necesaria.
 
 ### 2.3. Needfinding
 
