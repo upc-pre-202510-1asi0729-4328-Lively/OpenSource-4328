@@ -177,10 +177,17 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 ### 1.1. Startup Profile
 
-#### 1.1.1. Descripción de la startup
-**Lively** es una *startup* dedicada a mejorar la calidad de vida de los residentes de asilos de ancianos y brindar tranquilidad a sus familiares a través de soluciones tecnológicas innovadoras.
+### 1.1.1. Descripción de la Startup
 
-Nuestra principal solución, **AgeCare**, es una plataforma digital diseñada para recopilar y proporcionar información detallada sobre el bienestar físico y mental de los residentes en tiempo real.
+Somos **Lively**, una *startup* fundada por estudiantes comprometidos con el bienestar social, enfocada en transformar la experiencia de vida en los asilos de ancianos mediante soluciones tecnológicas innovadoras.
+
+Hemos desarrollado **AgeCare**, una plataforma digital que permite monitorear en tiempo real el estado físico, emocional y mental de los adultos mayores residentes en centros geriátricos. AgeCare ofrece reportes detallados, alertas personalizadas y herramientas de comunicación que facilitan la conexión entre los cuidadores, el personal médico y los familiares.
+
+Nuestra solución no solo mejora la calidad del cuidado, sino que también brinda tranquilidad y confianza a las familias, sabiendo que sus seres queridos están bien atendidos y acompañados.
+
+**Misión**: Nuestra misión es empoderar a los adultos mayores y sus familias mediante herramientas digitales avanzadas que mejoren la comunicación, el monitoreo de la salud y la calidad de vida.
+
+**Visión**: En Lively aspiramos a ser la plataforma líder en el cuidado de adultos mayores, fomentando conexiones más profundas y brindando soluciones innovadoras para su bienestar integral.
 
 #### 1.1.2. Perfiles de los integrantes del equipo
 
