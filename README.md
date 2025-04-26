@@ -585,11 +585,19 @@ Además, subraya la importancia de la comunicación empática y constante, así 
 
 **Entrevista 3:**
 
+La entrevista con Edwin Lopez Huamán revela la visión de un cuidador joven que conoce de cerca las limitaciones operativas dentro de un asilo, especialmente en lo relacionado con la organización de la información y la comunicación con los familiares. Si bien su rol se centra en la atención directa a los adultos mayores, Edwin identifica la falta de herramientas adecuadas para un seguimiento ágil del estado físico y emocional de los residentes, lo cual puede afectar tanto la calidad del servicio como la confianza de las familias.
+
+Su testimonio destaca la importancia de que la tecnología no sea un obstáculo, sino un aliado funcional en sus tareas diarias. Por ello, considera clave que la interfaz de una solución como VibeFit sea simple, rápida de usar y no represente una carga adicional. Además, enfatiza el valor de contar con un sistema que registre y actualice de forma centralizada la información relevante del residente, lo que permitiría generar reportes y alertas que sirvan tanto para la toma de decisiones internas como para mantener informados a los familiares.
+
+Edwin también señala que una mejor coordinación entre el personal y los familiares, mediada por una plataforma digital segura, podría mejorar el ambiente emocional tanto del residente como del equipo de trabajo. Su testimonio refuerza la necesidad de que VibeFit no solo sea una app de monitoreo, sino también una herramienta de organización, transparencia y conexión, que permita un flujo de comunicación constante sin interferir en las tareas esenciales del cuidado diario.
+
+**Entrevista 4:**
+
 El testimonio de Robert Joaquín Reyna Bohorquez permite comprender la perspectiva de un familiar joven y preocupado por el bienestar de su ser querido en un asilo. Su experiencia refleja un vínculo emocional fuerte que se ve limitado por la distancia y la falta de información constante, lo que genera ansiedad e incertidumbre. Joaquín valora profundamente la comunicación clara con el personal y desea sentirse parte activa en la toma de decisiones relacionadas al cuidado de su familiar, lo que sugiere una necesidad clara de herramientas que permitan esta participación remota de forma práctica y segura.
 
 Plantea que una aplicación como VibeFit debería incluir notificaciones sobre el estado general, tratamiento, emociones y comportamiento del residente, lo que permitiría una conexión más directa y permanente. También menciona ideas innovadoras como incluir música, terapias y actividades recreativas que contribuyan al bienestar emocional de los residentes, reafirmando la importancia de un enfoque integral del cuidado. Finalmente, subraya la importancia de proteger la privacidad mediante contraseñas, accesos diferenciados y transparencia en el manejo de datos, lo cual refleja una creciente preocupación por la ciberseguridad y la ética en el uso de tecnologías sensibles. Este análisis muestra que los familiares jóvenes no solo desean estar informados, sino también formar parte activa del proceso de cuidado, un aspecto que debe ser considerado en el diseño de la aplicación.
 
-**Entrevista 4:**
+**Entrevista 5:**
 
 La entrevista a Mario Stefano Alesandro Barriento Seminario revela importantes necesidades y oportunidades de mejora en el ámbito del cuidado de adultos mayores. Su experiencia demuestra que la atención personalizada es un desafío constante, especialmente por las múltiples condiciones médicas y emocionales que presentan los residentes. Este enfoque individualizado requiere una gestión organizada y sensible, donde el tiempo y los recursos del personal son factores clave. En ese sentido, Mario señala que la tecnología actualmente tiene un rol limitado, siendo utilizada principalmente para el control de medicación y registros, pero manifiesta la necesidad de sistemas integrados y accesibles que permitan una mejor coordinación entre personal, pacientes y familiares.
 
@@ -598,6 +606,15 @@ Asimismo, enfatiza la importancia de la comunicación empática y continua con l
 En cuanto al recurso humano, Mario destaca la urgencia de capacitaciones específicas en demencia, cuidados paliativos y manejo emocional, elementos clave para un abordaje profesional y humano. También demuestra conciencia sobre el valor de respetar la intimidad y dignidad de los residentes, proponiendo medidas prácticas para garantizarla. Por último, remarca la necesidad de estar actualizados en las normativas del sector, entendiendo que esto no solo asegura una mejor atención, sino que también protege legalmente al personal y otorga credibilidad a la institución.
 
 Este análisis evidencia una fuerte alineación entre las necesidades reales del personal de salud y las oportunidades que puede ofrecer un sistema tecnológico bien diseñado. La implementación de soluciones digitales enfocadas en gestión, comunicación y personalización del cuidado no solo es deseable, sino necesaria.
+
+**Entrevista 6:**
+
+El relato de Joaquín Pedraza Zapata aporta una perspectiva emocional y comprometida desde el rol de familiar. Su preocupación principal es la calidad de la atención emocional que recibe su ser querido, lo cual va más allá de los indicadores médicos. Joaquín anhela una presencia más activa a pesar de la distancia física, y considera que una herramienta tecnológica puede cumplir un rol fundamental para mantener ese vínculo emocional y brindar tranquilidad.
+
+La importancia de la comunicación fluida con el personal del asilo es un punto clave en su discurso. Joaquín valora la posibilidad de estar al tanto del estado general de su familiar en tiempo real, y plantea la necesidad de que una aplicación como VibeFit incorpore mecanismos de comunicación efectivos, actualizaciones automatizadas y reportes personalizados. Esta necesidad sugiere que el desarrollo de la app debe contemplar no solo funcionalidades de monitoreo, sino también espacios para la interacción humana y la toma compartida de decisiones.
+
+Además, Joaquín propone la inclusión de actividades que favorezcan el bienestar emocional del residente, así como espacios dentro de la app para la participación activa de los familiares en decisiones relevantes. Su enfoque en la seguridad de los datos y la privacidad demuestra una conciencia digital avanzada, por lo que considera que cualquier solución tecnológica debe ofrecer garantías claras y visibles de protección. Su experiencia subraya el potencial de VibeFit para convertirse en un puente confiable entre los asilos y las familias, permitiendo una experiencia de cuidado más cercana, personalizada y emocionalmente significativa.
+
 
 
 ### 2.3. Needfinding
