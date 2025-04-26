@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/456a5749-2294-4711-98ef-b3fa9be7772f)
 # Lively  
 **Producto: AgeCare**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
