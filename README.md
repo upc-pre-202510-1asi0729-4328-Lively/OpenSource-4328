@@ -1897,4 +1897,5 @@ Luis, M. Z. J. (2023, November 22). _Diseño de un sistema inteligente de monito
 
 Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitoreo y teleorientación psicosocial para adultos mayores del Seguro Social de Salud (EsSalud) durante los primeros seis meses de la pandemia por COVID-19 en el Perú. Revista Del Cuerpo Médico Hospital Nacional Almanzor Aguinaga Asenjo, 15(3), 392–396._ https://doi.org/10.35434/rcmhnaaa.2022.153.1386
 
-## Anexos
+## Anexos  
+- Deployment Landing AgeCare: [Landing Deployment](https://jhonson2021.github.io/landingPage-AgeCare/)
