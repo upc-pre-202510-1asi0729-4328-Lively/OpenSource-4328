@@ -550,9 +550,23 @@ En esta sección se documenta la recolección de información a través de entre
 
 **Entrevista 1:**
 
+El análisis de la entrevista con Carlos Angulo Solis revela una necesidad latente de soluciones tecnológicas que no solo informen, sino que también empoderen a los usuarios en el cuidado de su salud y la de sus seres queridos. Aunque Carlos no es un usuario habitual de aplicaciones de salud, muestra un interés genuino por herramientas que ofrezcan información clara, en tiempo real y con valor práctico para la toma de decisiones. Este perfil evidencia una oportunidad para atraer a personas que, si bien no están inmersas en el ecosistema digital de bienestar, podrían comprometerse activamente si la solución propuesta responde a sus necesidades de forma intuitiva y útil.
+
+Carlos busca una plataforma que le proporcione reportes periódicos, alertas, y un historial accesible de salud física y emocional, lo que indica la importancia de la trazabilidad y la personalización de datos. También destaca el valor de la participación activa en los cuidados, dejando claro que no basta con observar: se quiere involucrar. Este tipo de usuario espera un sistema que equilibre la tecnología con la sensibilidad humana, sin descuidar aspectos fundamentales como la privacidad de los datos.
+
+En ese sentido, su testimonio sugiere que VibeFit podría posicionarse no solo como una app de monitoreo, sino como una aliada para la gestión proactiva del bienestar familiar, integrando funcionalidades de seguimiento, comunicación con profesionales y espacios para la toma de decisiones compartidas. Su caso refuerza la idea de que una plataforma efectiva debe ser comprensible, empática y flexible, capaz de adaptarse a distintos niveles de experiencia tecnológica y emocional.
+
 **Entrevista 2:**
 
+La entrevista con Christopher Adrián Carlos Urcia Tardío pone en evidencia las limitaciones actuales del sistema de atención en asilos, especialmente frente a la escasez de personal y la necesidad de atender múltiples requerimientos individuales. Su testimonio resalta cómo los procesos administrativos, aunque necesarios, consumen tiempo valioso que podría destinarse al cuidado directo de los residentes. Por ello, Christopher sugiere que la implementación de un sistema digital ágil y centralizado permitiría reducir errores, mejorar la eficiencia del equipo y, sobre todo, facilitar la conexión entre el personal y las familias.
+
+Además, subraya la importancia de la comunicación empática y constante, así como el valor que una plataforma tecnológica podría tener para facilitar terapias, monitoreo y actividades recreativas. Reconoce que, si bien se utilizan herramientas como llamadas y mensajes, una solución más estructurada permitiría optimizar la información compartida con los familiares. También hace énfasis en la necesidad de formación continua, tanto en tecnología como en enfermedades neurodegenerativas, lo cual habla de su compromiso con una atención integral y de calidad. Finalmente, sugiere que el respeto a la privacidad, la actualización en normativas y la creación de un ambiente seguro y digno son pilares fundamentales del servicio que brindan, elementos que una app como VibeFit podría reforzar significativamente.
+
 **Entrevista 3:**
+
+El testimonio de Robert Joaquín Reyna Bohorquez permite comprender la perspectiva de un familiar joven y preocupado por el bienestar de su ser querido en un asilo. Su experiencia refleja un vínculo emocional fuerte que se ve limitado por la distancia y la falta de información constante, lo que genera ansiedad e incertidumbre. Joaquín valora profundamente la comunicación clara con el personal y desea sentirse parte activa en la toma de decisiones relacionadas al cuidado de su familiar, lo que sugiere una necesidad clara de herramientas que permitan esta participación remota de forma práctica y segura.
+
+Plantea que una aplicación como VibeFit debería incluir notificaciones sobre el estado general, tratamiento, emociones y comportamiento del residente, lo que permitiría una conexión más directa y permanente. También menciona ideas innovadoras como incluir música, terapias y actividades recreativas que contribuyan al bienestar emocional de los residentes, reafirmando la importancia de un enfoque integral del cuidado. Finalmente, subraya la importancia de proteger la privacidad mediante contraseñas, accesos diferenciados y transparencia en el manejo de datos, lo cual refleja una creciente preocupación por la ciberseguridad y la ética en el uso de tecnologías sensibles. Este análisis muestra que los familiares jóvenes no solo desean estar informados, sino también formar parte activa del proceso de cuidado, un aspecto que debe ser considerado en el diseño de la aplicación.
 
 **Entrevista 4:**
 
@@ -563,6 +577,7 @@ Asimismo, enfatiza la importancia de la comunicación empática y continua con l
 En cuanto al recurso humano, Mario destaca la urgencia de capacitaciones específicas en demencia, cuidados paliativos y manejo emocional, elementos clave para un abordaje profesional y humano. También demuestra conciencia sobre el valor de respetar la intimidad y dignidad de los residentes, proponiendo medidas prácticas para garantizarla. Por último, remarca la necesidad de estar actualizados en las normativas del sector, entendiendo que esto no solo asegura una mejor atención, sino que también protege legalmente al personal y otorga credibilidad a la institución.
 
 Este análisis evidencia una fuerte alineación entre las necesidades reales del personal de salud y las oportunidades que puede ofrecer un sistema tecnológico bien diseñado. La implementación de soluciones digitales enfocadas en gestión, comunicación y personalización del cuidado no solo es deseable, sino necesaria.
+
 
 ### 2.3. Needfinding
 
