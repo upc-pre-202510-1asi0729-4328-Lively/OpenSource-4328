@@ -530,7 +530,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
 | <strong>Resumen:</strong> Edwin, cuidador en un asilo, destaca la importancia de monitorear constantemente el estado físico y emocional de los residentes. Señala que la comunicación con los familiares a veces es limitada por falta de tiempo o herramientas adecuadas. Considera que una plataforma como AgeCareDB ayudaría a organizar mejor la información, facilitar el seguimiento de la salud de los adultos mayores y mejorar la coordinación con las familias. También valora que la plataforma sea fácil de usar, segura y que no interfiera con sus tareas diarias. |
-| <strong>Enlace de video:</strong> [video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EWBTtL_BCX1Is_Xjaw67usoButr6xQBKEu2QrJrGc7a42Q?e=RYQj3D)|
+| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EWBTtL_BCX1Is_Xjaw67usoButr6xQBKEu2QrJrGc7a42Q?e=RYQj3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EWBTtL_BCX1Is_Xjaw67usoButr6xQBKEu2QrJrGc7a42Q?e=RYQj3D)|
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/LOPEZ.png" alt="lopez" height="200"/> |
 
 &nbsp;
@@ -564,7 +564,7 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
 | <strong>Resumen:</strong> Joaquín se comunica frecuentemente con su familiar en el asilo y le preocupa especialmente la calidad del cuidado y la atención emocional que recibe. Desea estar informado en tiempo real sobre la salud y bienestar de su ser querido, y valora una comunicación fluida con el personal del asilo. Cree que una plataforma como AgeCareDB podría brindarle mayor tranquilidad, siempre que garantice la seguridad de la información. También sugiere incluir más actividades y fomentar la participación activa de los familiares en las decisiones de cuidado. |
-| <strong>Enlace de video:</strong> [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EUGZuPolmyRGqec8TzCULK0BLqUcqWhXFALdSBQhXCAXRA?e=i2OZXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| <strong>Enlace de video:</strong>[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EUGZuPolmyRGqec8TzCULK0BLqUcqWhXFALdSBQhXCAXRA?e=i2OZXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EUGZuPolmyRGqec8TzCULK0BLqUcqWhXFALdSBQhXCAXRA?e=i2OZXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/JOAKO.png" alt="joako" height="200"/> |
 
 #### 2.2.3. Análisis de entrevistas
