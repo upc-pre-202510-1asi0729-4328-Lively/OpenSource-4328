@@ -863,6 +863,9 @@ Epic que agrupa funcionalidades para la visualización de tendencias y generaci�
 
 ### 3.3. Impact Mapping
 
+<p align="center">
+  <img src="./assets/IMPACT.png" alt="IMPACT"/>
+
 ### 3.4. Product Backlog
 
 El Product Backlog representa la lista priorizada de funcionalidades, mejoras y requerimientos técnicos que forman parte del alcance del sistema AgeCareDB. Cada ítem del backlog responde a una necesidad identificada en los segmentos de usuarios principales (cuidadores y familiares), así como en actores secundarios relevantes (desarrolladores y visitantes).
