@@ -546,6 +546,16 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Enlace de video:</strong> https://youtu.be/mWJkpLYoQKI |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/Mario.jpg" alt="Mario" height="200"/> |
 
+| **Entrevista 6** |
+|------------------|
+| <strong>Nombre:</strong> Joaquin Pedraza Zapata |
+| <strong>Edad:</strong> 20 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Familiares mayores de 18 años preocupados por el bienestar de sus seres queridos |
+| <strong>Resumen:</strong> Joaquín se comunica frecuentemente con su familiar en el asilo y le preocupa especialmente la calidad del cuidado y la atención emocional que recibe. Desea estar informado en tiempo real sobre la salud y bienestar de su ser querido, y valora una comunicación fluida con el personal del asilo. Cree que una plataforma como AgeCareDB podría brindarle mayor tranquilidad, siempre que garantice la seguridad de la información. También sugiere incluir más actividades y fomentar la participación activa de los familiares en las decisiones de cuidado. |
+| <strong>Enlace de video:</strong> [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EUGZuPolmyRGqec8TzCULK0BLqUcqWhXFALdSBQhXCAXRA?e=i2OZXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/JOAKO.png" alt="Mario" height="200"/> |
+
 #### 2.2.3. Análisis de entrevistas
 
 **Entrevista 1:**
