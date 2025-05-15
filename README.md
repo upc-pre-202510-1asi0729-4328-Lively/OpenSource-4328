@@ -1906,6 +1906,40 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
   <img src="./assets/Insights_Pulse1.jpg" alt="Insght_Pls"/>
 </p>  
 
+#### 5.2.1. Sprint 2
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
+##### 5.2.1.1. Sprint Planning 2
+En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los objetivos, entregables y tareas asignadas para el sprint. A continuación, se presenta un cuadro con los detalles acordados.
+
+| Sprint #                             | Sprint 2                                                                                              |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-05-10        |
+| Time           | 10:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Mauricio Muñoz               |
+| Attendees (to planning meeting)| Jeremy Quijada, Franco Huang, Fatima Asmad, Mauricio Muñoz, Ramiro Guzman                    |
+| Sprint 2 - 1 Review Summary    | Se han realizado mejoras en varios aspectos del informe según las sugerencias del profesor, además de haber desarrollado una primera versión de nuestra aplicación Front End, la cual continuará evolucionando en próximas entregas. |
+| Sprint 2 - 1 Retrospective Summary | Se logró un progreso razonable durante el sprint 2: si bien no se completaron tantas pantallas como se había previsto, el equipo mejoró significativamente en comunicación y trabajo colaborativo, lo que permitió alcanzar un avance satisfactorio en el desarrollo de la aplicación. |
+| Sprint 2 Goal                  | En este sprint, nos enfocamos principalmente en mejorar la calidad de la información presentada en los reportes e implementar la primera versión del Front End de la aplicación. Durante esta fase, desarrollamos diversos módulos con operaciones CRUD (crear, leer, actualizar y eliminar) que permiten gestionar distintos recursos del sistema. Esperamos que esta versión inicial proporcione una visualización clara de las funcionalidades esenciales y del diseño de la interfaz. La efectividad de este avance se validará mediante la interacción de los usuarios con las funcionalidades desarrolladas y la retroalimentación positiva sobre la experiencia de uso. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
+| Sum of Story Points            |  |
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+##### 5.2.1.3. Sprint Backlog 2
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
