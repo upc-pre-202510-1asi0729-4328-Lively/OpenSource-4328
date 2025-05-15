@@ -1906,11 +1906,11 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
   <img src="./assets/Insights_Pulse1.jpg" alt="Insght_Pls"/>
 </p>  
 
-#### 5.2.1. Sprint 2
+#### 5.2.2. Sprint 2
 
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
 
-##### 5.2.1.1. Sprint Planning 2
+##### 5.2.2.1. Sprint Planning 2
 En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los objetivos, entregables y tareas asignadas para el sprint. A continuación, se presenta un cuadro con los detalles acordados.
 
 | Sprint #                             | Sprint 2                                                                                              |
@@ -1926,19 +1926,29 @@ En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los
 | Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
 | Sum of Story Points            |  |
 
-##### 5.2.1.2. Aspect Leaders and Collaborators
+##### 5.2.2.2. Aspect Leaders and Collaborators
 
-##### 5.2.1.3. Sprint Backlog 2
+Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
 
-##### 5.2.1.4. Development Evidence for Sprint Review
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Mauricio Muñoz Vilcapoma | MauricioMVilcapoma  | L  | 
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  
+| Jeremy Quijada Magro   | jhonson2021    | C         | 
+| Franco Huang Liu       | St4rLght05     | C         |  
+| Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
 
-##### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.2.3. Sprint Backlog 2
 
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.2.4. Development Evidence for Sprint Review
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.2.5. Execution Evidence for Sprint Review
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
