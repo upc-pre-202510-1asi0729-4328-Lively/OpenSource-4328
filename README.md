@@ -2251,6 +2251,12 @@ Landing Page Para hacer el deployment de la landing page se utilizó Github Page
   ![Contacto](./assets/contacto.png)  
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+![Evidence](./assets/Evidence1.png)
+
+![Evidence2](./assets/Evidence2.png)
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
