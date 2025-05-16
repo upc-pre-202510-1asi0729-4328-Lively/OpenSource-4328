@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/116c85ea-d152-4e42-a69e-13645f74007d)
 # Lively  
 **Producto: AgeCare**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -2063,6 +2063,54 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 2. E
 | SmartFinance-OpenSource/OpenSource-4328 | fix/Domain-Driven | 00a905a   | fix: Domain Container |              | 15/05/2025         |
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+En esta entrega se realizaron mejoras al Landing Page respecto a la versión presentada en el Sprint 1, optimizando su diseño y funcionalidad. Por otro lado, cada integrante del equipo implementó y desplegó su propio CRUD del backend, consolidando así el progreso técnico del proyecto.
+
+- Landing Page
+<p align="center">
+  <img src="assets/CRUD-LandingPageSprint2.jpg" alt="LandingPageSprint2"/>
+</p> 
+
+<p align="center">
+  <img src="assets/CRUD-LandingPageSprint2.1.jpg" alt="LandingPageSprint2.1"/>
+</p> 
+
+[https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/](https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/)
+
+- Backend
+
+  - CRUD Doctores
+    
+<p align="center">
+  <img src="assets/CRUD-Doctores.jpg" alt="CRUD-Doctores"/>
+</p> 
+[https://agecare-guzman.web.app/doctors](https://agecare-guzman.web.app/doctors)
+
+  - CRUD Enfermeras
+  
+<p align="center">
+  <img src="assets/CRUD-Enfermeras1.jpg" alt="CRUD-Enfermeras1"/>
+</p> 
+<p align="center">
+  <img src="assets/CRUD-Enfermeras2.jpg" alt="CRUD-Enfermeras2"/>
+</p> 
+
+[https://agecare-quijada.web.app/learning/students](https://agecare-quijada.web.app/learning/students)
+
+  - CRUD Pacientes
+    
+<p align="center">
+  <img src="assets/CRUD-Pacientes.jpg" alt="CRUD-Pacientes"/>
+</p> 
+
+[https://frontend-agecare.web.app/core/residents](https://frontend-agecare.web.app/core/residents)
+
+  - CRUD Reportes
+    
+<p align="center">
+  <img src="assets/CRUD-Reportes.jpg" alt="CRUD-Reportes"/>
+</p> 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
