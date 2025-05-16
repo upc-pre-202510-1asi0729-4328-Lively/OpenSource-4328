@@ -1,4 +1,3 @@
-
 # Lively  
 **Producto: AgeCare**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -33,18 +32,24 @@
 
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
-| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
-| TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX.        |
-| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup y el userflow.          |
-| TB1     | 23/04/2025  |  Ramiro Alexander Guzman Chavez     |  Agregué el Software Configuration Management.         |
-| TB1     | 15/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |     Realice el user task matrix y persona        |
-| TB1     | 16/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |      Realice el journey mapping y emphaty mapping       |
-| TB1     | 24/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       Realice Project Report Collaboration Insights      |
-| TB1     | 17/04/2025  | Quijada Magro Jeremy Alexander        | Realice Analisis Competitivo y Estrategia ante competidores |
-| TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander        | Realice Style GuideLines and Information Architure    |
-| TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander        | Realice Domain-Desing Software Architure            |
-| TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander        | Realice Lading Page UI Design           |
+| TB1     | 15/04/2025  | Ramiro Alexander Guzman Chavez   | Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary. |
+| TB1     | 17/04/2025  | Ramiro Alexander Guzman Chavez   | Añadí mi registro de entrevistas realizadas por segmento objetivo. |
+| TB1     | 18/04/2025  | Franco Gabriel Huang Liu         | Realicé los wireframes, wireflows y la sección de Lean UX. |
+| TB1     | 23/04/2025  | Franco Gabriel Huang Liu         | Se terminó el mockup y el userflow. |
+| TB1     | 23/04/2025  | Ramiro Alexander Guzman Chavez   | Agregué el Software Configuration Management. |
+| TB1     | 15/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé el user task matrix y persona. |
+| TB1     | 16/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé el journey mapping y emphaty mapping. |
+| TB1     | 24/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé Project Report Collaboration Insights. |
+| TB1     | 17/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Análisis Competitivo y Estrategia ante competidores. |
+| TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Style GuideLines and Information Architecture. |
+| TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Domain-Design Software Architecture. |
+| TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Landing Page UI Design. |
+| TP1     | 10/05/2025  | Ramiro Alexander Guzmán Chávez        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Fátima Andrea Asmad Padilla           | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Franco Gabriel Huang Liu               | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+
 
 ---
 
@@ -68,6 +73,16 @@ A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron
 
 <p align="center">
   <img src="./assets/colasb2.png" alt="colab2" />
+
+## TP:
+
+A lo largo del desarrollo del TP, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+Aquí se pueden visualizar todos los commits realizados para la TP1, lo cual evidencia el trabajo colaborativo del equipo.
+<p align="center">
+  <img src="./assets/pulseTPOPEN.png" alt="pulseTPOPEN" />
+
+<p align="center">
+<img src="./assets/commitsTPOPEN.png" alt="commitsTPOPEN" />
   
 ---
 ## Contenido
@@ -141,15 +156,24 @@ A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.X. Sprint n](#52x-sprint-n)
-      - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
-      - [5.2.X.2. Aspect Leaders and Collaborators](#52x2-aspect-leaders-and-collaborators)
-      - [5.2.X.3. Sprint Backlog n](#52x3-sprint-backlog-n)
-      - [5.2.X.4. Development Evidence for Sprint Review](#52x4-development-evidence-for-sprint-review)
-      - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-      - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -166,8 +190,8 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones del e
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **1. Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Ramiro Alexander Guzmán Chávez**: Coordinó reuniones del equipo, guiando las discusiones y aclarando dudas para mantener el enfoque.<br>**Fátima Andrea Asmad Padilla**: Participó activamente en las reuniones grupales, compartiendo ideas y sugerencias de mejora.<br>**Jeremy Alexander Quijada Magro**: Explicó avances del equipo en reuniones de coordinación con otros grupos.<br>**Gabriel Huang Liu Franco**: Comunicó hallazgos técnicos durante las sesiones internas, facilitando la comprensión entre miembros no técnicos.<br>**Mauricio Rigoberto Muñoz Vilcapoma**: Brindó aportes claros y organizados durante las reuniones internas, ayudando a tomar decisiones en grupo. | En esta etapa de desarrollo, el equipo ha demostrado habilidades de comunicación oral efectivas para la coordinación interna y el trabajo colaborativo. Han logrado mantener una comunicación fluida, lo cual ha sido clave para la organización y avance del proyecto. |
-| **2. Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Ramiro Alexander Guzmán Chávez**: Redactó partes del documento principal del proyecto, incluyendo la definición del problema.<br>**Fátima Andrea Asmad Padilla**: Encargada de la sección de requerimientos y criterios de aceptación.<br>**Jeremy Alexander Quijada Magro**: Redactó documentos de planificación como cronogramas y tareas.<br>**Gabriel Huang Liu Franco**: Documentó aspectos técnicos del desarrollo para ser comprendidos por todo el equipo.<br>**Mauricio Rigoberto Muñoz Vilcapoma**: Contribuyó con la redacción de objetivos y marco teórico del proyecto. | A través de documentos técnicos, organizativos y explicativos, el equipo ha mostrado capacidad de comunicación escrita clara y estructurada. La redacción ha permitido que todos los miembros comprendan sus responsabilidades y que el avance del proyecto esté bien documentado. |
+| **1. Comunica oralmente con efectividad a diferentes rangos de audiencia** | **TB1:** <br> **Ramiro Alexander Guzmán Chávez**: Coordinó reuniones del equipo, guiando las discusiones y aclarando dudas para mantener el enfoque.<br>**Fatima Andrea Asmad Padilla**: Participó activamente en las reuniones grupales, compartiendo ideas y sugerencias de mejora.<br>**Jeremy Alexander Quijada Magro**: Explicó avances del equipo en reuniones de coordinación con otros grupos.<br>**Gabriel Huang Liu Franco**: Comunicó hallazgos técnicos durante las sesiones internas, facilitando la comprensión entre miembros no técnicos.<br>**Mauricio Rigoberto Muñoz Vilcapoma**: Brindó aportes claros y organizados durante las reuniones internas, ayudando a tomar decisiones en grupo. <br> **TP:** <br> **Ramiro Alexander Guzmán Chávez**: Lideró reuniones técnicas para revisar y corregir observaciones de la TB1, explicando claramente los ajustes requeridos y coordinando la integración de los componentes del frontend. <br> **Fatima Andrea Asmad Padilla**: Comunicó de forma clara las mejoras implementadas en su parte del frontend, respondiendo preguntas del equipo y proponiendo soluciones a detalles visuales y de usabilidad. <br> **Jeremy Alexander Quijada Magro**: Presentó los cambios aplicados a la documentación del trabajo previo y explicó su funcionalidad del frontend, adecuando su comunicación al nivel técnico de sus compañeros. <br> **Gabriel Huang Liu Franco**: Describió los procesos técnicos implicados en su sección del frontend, adaptando su lenguaje para asegurar que todos los miembros comprendieran el flujo de datos y estructura del código. <br> **Mauricio Rigoberto Muñoz Vilcapoma**: Explicó con claridad la lógica detrás de los componentes que desarrolló, resolviendo dudas del grupo y proponiendo ajustes durante el despliegue conjunto. | **TB1**: <br> En esta etapa de desarrollo, el equipo ha demostrado habilidades de comunicación oral efectivas para la coordinación interna y el trabajo colaborativo. Han logrado mantener una comunicación fluida, lo cual ha sido clave para la organización y avance del proyecto.<br>  **TP**:  <br> El equipo continuó demostrando una comunicación oral efectiva, ahora con un enfoque más técnico y orientado a la solución de problemas. La capacidad para explicar sus contribuciones individuales en el desarrollo del frontend, así como la colaboración para corregir observaciones de la TB1, evidenció una mejora en la articulación de ideas hacia distintos niveles de audiencia, consolidando el trabajo en equipo y el avance del proyecto.|
+| **2. Comunica por escrito con efectividad a diferentes rangos de audiencia** | **TB1:** <br> **Ramiro Alexander Guzmán Chávez**: Redactó partes del documento principal del proyecto, incluyendo la definición del problema.<br>**Fátima Andrea Asmad Padilla**: Encargada de la sección de requerimientos y criterios de aceptación.<br>**Jeremy Alexander Quijada Magro**: Redactó documentos de planificación como cronogramas y tareas.<br>**Gabriel Huang Liu Franco**: Documentó aspectos técnicos del desarrollo para ser comprendidos por todo el equipo.<br>**Mauricio Rigoberto Muñoz Vilcapoma**: Contribuyó con la redacción de objetivos y marco teórico del proyecto. <br> **TP:** <br> **Ramiro Alexander Guzmán Chávez**:  Revisó y mejoró la redacción de la introducción y justificación del proyecto, asegurando claridad y coherencia en la presentación de los ajustes realizados en la TP. <br>**Fátima Andrea Asmad Padilla**: Actualizó los requerimientos funcionales y no funcionales, redactando criterios de aceptación más precisos para reflejar los avances implementados en el frontend.<br> **Jeremy Alexander Quijada Magro**:Elaboró un nuevo cronograma ajustado al trabajo realizado en la TP y detalló las tareas corregidas y completadas, utilizando un lenguaje claro y accesible. <br>**Gabriel Huang Liu Franco**: Redactó la documentación técnica relacionada al despliegue del frontend, enfocándose en que fuera comprensible tanto para perfiles técnicos como no técnicos del equipo. <br>**Mauricio Rigoberto Muñoz Vilcapoma**: Revisó y fortaleció la redacción del marco teórico y los objetivos específicos, incorporando mejoras sugeridas en la retroalimentación de la TB1. | **TB1:** <br> A través de documentos técnicos, organizativos y explicativos, el equipo ha mostrado capacidad de comunicación escrita clara y estructurada. La redacción ha permitido que todos los miembros comprendan sus responsabilidades y que el avance del proyecto esté bien documentado. <br>  **TP**: El equipo reforzó sus habilidades de comunicación escrita al actualizar y mejorar las secciones del documento original, incorporando correcciones y nuevos avances. La capacidad para expresar de forma clara y estructurada los aspectos técnicos, organizativos y conceptuales del proyecto permitió una mejor comprensión interna del trabajo realizado, así como una presentación más profesional y efectiva ante diferentes audiencias.<br>  |
 
 
 ---
@@ -907,7 +931,11 @@ Epic que agrupa funcionalidades relacionadas con registro, seguimiento y control
 ### 3.3. Impact Mapping
 
 <p align="center">
-  <img src="./assets/IMPACT.png" alt="IMPACT"/>
+  <img src="./assets/Impact_Mapping_fix1.jpg" alt="IMPACT"/>
+</p>
+<p align="center">
+  <img src="./assets/Impact_Mapping_fix2.jpg" alt="IMPACT"/>
+</p>
 
 ### 3.4. Product Backlog
 
@@ -1353,175 +1381,240 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 #### 4.7.1. Class Diagrams
 
 <p align="center">
-  <img src="./assets/DiagramaOpen4380.png" alt="DiagramaOpen4380" />
+  <img src="./assets/DCFinalOpen.png" alt="DCFinalOpen" />
 </p>
 
-Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e7-9fda3fcaad34/edit?viewport_loc=-6264%2C-3939%2C4168%2C1978%2C0_0&invitationId=inv_a4cdcc79-55c7-4114-855c-7be0170317ce
+Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e7-9fda3fcaad34/edit?viewport_loc=-6218%2C-3791%2C4167%2C1978%2C0_0&invitationId=inv_a4cdcc79-55c7-4114-855c-7be0170317ce
 
 ### 4.7.2 Class Dictionary
 
-Este es el formato deberán seguir nuestras colecciones en SQL para replicar nuestras entidades de la base de datos.
-
-### NursingHome  
-**Descripción**: Tabla que representa los hogares de cuidado donde residen los adultos mayores.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-NursingHomeId      | int                | Identificador único del hogar de cuidado  
-Name               | varchar(100)       | Nombre del hogar  
-Location           | varchar(200)       | Dirección del hogar  
-Contact            | varchar(100)       | Información de contacto  
-
-### Resident  
-**Descripción**: Tabla que almacena la información personal de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ResidentId         | int                | Identificador único del residente  
-DNI                | varchar(20)        | Documento Nacional de Identidad  
-FirstName          | varchar(100)       | Nombres del residente  
-LastName           | varchar(100)       | Apellidos del residente  
-BirthDate          | date               | Fecha de nacimiento  
-Gender             | varchar(10)        | Género  
-EducationLevel     | varchar(100)       | Nivel de educación  
-PreviousJob        | varchar(100)       | Ocupación previa  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### FamilyMember  
-**Descripción**: Tabla que representa a los familiares de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-FamilyMemberId     | int                | Identificador único del familiar  
-FirstName          | varchar(100)       | Nombres del familiar  
-LastName           | varchar(100)       | Apellidos del familiar  
-DNI                | varchar(20)        | Documento de identidad  
-Phone              | varchar(20)        | Número de teléfono  
-ParticipationLevel | varchar(100)       | Nivel de participación  
-Address            | varchar(200)       | Dirección  
-
-### ResidentFamilyMember  
-**Descripción**: Relación entre los residentes y sus familiares.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ResidentId         | int                | FK al residente  
-FamilyMemberId     | int                | FK al familiar  
-
-### MedicalHistory  
-**Descripción**: Historial médico general de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicalHistoryId   | int                | Identificador del historial médico  
-PreviousDiseases   | varchar(200)       | Enfermedades previas  
-Allergies          | varchar(200)       | Alergias  
-LastConsultationDate | date             | Fecha de última consulta  
-Specialist         | varchar(200)       | Especialista que atendió  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-DoctorId           | int                | FK al doctor  
-
-### Doctor  
-**Descripción**: Tabla que almacena la información de los doctores asignados.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-DoctorId           | int                | Identificador único del doctor  
-FirstName          | varchar(100)       | Nombre  
-LastName           | varchar(100)       | Apellido  
-Speciality         | varchar(100)       | Especialidad  
-Phone              | varchar(20)        | Teléfono  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### Nurse  
-**Descripción**: Tabla que almacena la información de las enfermeras.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-NurseId            | int                | Identificador único de la enfermera  
-FirstName          | varchar(100)       | Nombre  
-LastName           | varchar(100)       | Apellido  
-Phone              | varchar(20)        | Teléfono  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### Medication  
-**Descripción**: Tabla con los medicamentos registrados en el hogar.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicationId       | int                | Identificador del medicamento  
-Name               | varchar(100)       | Nombre del medicamento  
-Description        | varchar(200)       | Descripción  
-Effects            | varchar(200)       | Efectos secundarios  
-
-### ResidentMedication  
-**Descripción**: Relación entre los medicamentos y su administración a los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-Date               | date               | Fecha de administración  
-Time               | time               | Hora de administración  
-Dosage             | varchar(100)       | Dosis  
-ResidentId         | int                | FK al residente  
-MedicationId       | int                | FK al medicamento  
-
-### MedicalRecord  
-**Descripción**: Registro de diagnósticos y tratamientos médicos de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicalRecordId    | int                | Identificador del registro  
-Date               | date               | Fecha del registro  
-Diagnosis          | text               | Diagnóstico médico  
-Treatment          | text               | Tratamiento aplicado  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-NurseId            | int                | FK a la enfermera  
-
-### MentalHealthRecord  
-**Descripción**: Registro del estado de salud mental de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MentalHealthId     | int                | Identificador del registro  
-Date               | date               | Fecha del registro  
-Evaluation         | text               | Evaluación psicológica  
-Note               | text               | Notas adicionales  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-NurseId            | int                | FK a la enfermera  
-
-### ActivityLog  
-**Descripción**: Registro de las actividades realizadas por los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ActivityLogId      | int                | Identificador del log de actividad  
-Date               | date               | Fecha de la actividad  
-Activity           | varchar(100)       | Nombre de la actividad  
-Notes              | text               | Notas o comentarios  
-ParticipationLevel | varchar(100)       | Nivel de participación  
-Resident_ResidentId| int                | FK al residente  
-Nurse_NurseId      | int                | FK a la enfermera  
+---
 
 ### PaymentMethod  
-**Descripción**: Tabla con los métodos de pago aceptados por los hogares.
+**Descripción**: Métodos de pago disponibles en el sistema.
 
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-PaymentMethodId    | int                | Identificador del método de pago  
-Description        | text               | Descripción del método  
+Campo         | Tipo       | Descripción
+--------------|------------|-------------------------------------------------
+id            | int        | Identificador del método de pago  
+type          | String     | Tipo de método de pago (ej. tarjeta, efectivo)
+
+**Métodos**:
+- getDescription(): String
+
+---
 
 ### FinancialInfo  
-**Descripción**: Relación entre métodos de pago y hogares.
+**Descripción**: Información financiera del residente.
 
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-PaymentMethodId    | int                | FK al método de pago  
-NursingHomeId      | int                | FK al hogar de cuidado  
+Campo              | Tipo       | Descripción
+-------------------|------------|---------------------------------------------
+id                 | int        | Identificador financiero  
+monthlyCost        | double     | Costo mensual del servicio  
+additionalExpenses | double     | Gastos adicionales
 
+**Métodos**:
+- calculateTotalCost(): double
 
+---
+
+### Activity  
+**Descripción**: Actividades programadas dentro del hogar.
+
+Campo   | Tipo   | Descripción
+--------|--------|-----------------------------------
+id      | int    | Identificador de la actividad  
+name    | String | Nombre de la actividad  
+type    | String | Tipo o categoría de la actividad  
+
+**Métodos**:
+- getActivityDetails(): void  
+- editActivity(): void  
+- deleteActivity(): void  
+- updateActivity(): void
+
+---
+
+### ActivityLog  
+**Descripción**: Registro de participación de residentes en actividades.
+
+Campo              | Tipo   | Descripción
+-------------------|--------|------------------------------------------
+id                 | int    | Identificador del registro  
+date               | Date   | Fecha de actividad  
+participationLevel | String | Nivel de participación  
+
+**Métodos**:
+- getActivitySummary(): String
+
+---
+
+### User  
+**Descripción**: Usuario general del sistema.
+
+Campo     | Tipo   | Descripción
+----------|--------|--------------------------------------
+id        | int    | Identificador único  
+firstName | String | Nombres del usuario  
+lastName  | String | Apellidos del usuario  
+email     | String | Correo electrónico  
+phone     | String | Número telefónico  
+
+**Métodos**:
+- createAccount(): void  
+- updateAccount(): void  
+- deleteAccount(): void  
+- resetPassword(): void  
+- sendNotification(): void
+
+---
+
+### Nurse  
+**Descripción**: Enfermera encargada de cuidados clínicos.
+
+Campo | Tipo   | Descripción
+------|--------|-------------------------------
+shift | String | Turno asignado a la enfermera
+
+**Métodos**:
+- logActivity(): void  
+- registerMedicalAlert(): void  
+- updateVitalSigns(): void  
+- viewResidentRecords(): void
+
+---
+
+### MedicalHistory  
+**Descripción**: Historial médico de un residente.
+
+Campo       | Tipo   | Descripción
+------------|--------|-----------------------------------
+id          | int    | ID del historial  
+recordDate  | Date   | Fecha del registro  
+diagnosis   | String | Diagnóstico médico  
+treatment   | String | Tratamiento aplicado  
+
+**Métodos**:
+- addEntry(): void  
+- getSummary(): String  
+- generatePDFReport(): void
+
+---
+
+### MentalHealthRecord  
+**Descripción**: Registro del estado de salud mental del residente.
+
+Campo       | Tipo   | Descripción
+------------|--------|-------------------------------
+id          | int    | Identificador del registro  
+recordDate  | Date   | Fecha del diagnóstico  
+diagnosis   | String | Diagnóstico  
+treatment   | String | Tratamiento aplicado  
+
+**Métodos**:
+- addEntry(): void  
+- getSummary(): String  
+- flagCriticalCondition(): void
+
+---
+
+### Resident  
+**Descripción**: Adulto mayor residente del hogar.
+
+Campo      | Tipo   | Descripción
+-----------|--------|-----------------------------
+id         | int    | Identificador  
+dni        | String | DNI  
+firstName  | String | Nombres  
+lastName   | String | Apellidos  
+birthDate  | Date   | Fecha de nacimiento  
+gender     | String | Género  
+
+**Métodos**:
+- updateHealthStatus(): void  
+- getAge(): int  
+- assignMedication(): void  
+- requestAssistance(): void
+
+---
+
+### Medication  
+**Descripción**: Medicamento registrado para un residente.
+
+Campo      | Tipo   | Descripción
+-----------|--------|----------------------------
+id         | int    | Identificador  
+name       | String | Nombre del medicamento  
+frequency  | String | Frecuencia de administración  
+
+**Métodos**:
+- getInstructions(): String  
+- isCompatibleWith(): boolean
+
+---
+
+### NursingHome  
+**Descripción**: Hogar de cuidado.
+
+Campo    | Tipo   | Descripción
+---------|--------|-------------------------------
+id       | int    | ID del hogar  
+name     | String | Nombre del hogar  
+address  | String | Dirección física  
+contract | String | Código de contrato  
+
+**Métodos**:
+- getAllResidents(): List<Resident>  
+- getAvailableSpots(): int
+
+---
+
+### Doctor  
+**Descripción**: Médico que atiende a los residentes.
+
+Campo      | Tipo   | Descripción
+-----------|--------|-----------------------------------
+speciality | String | Especialidad del médico  
+
+**Métodos**:
+- createMedicalReport(): void  
+- updateDoctor(): void  
+- deleteDoctor(): void  
+- prescribeMedication(): void  
+- scheduleVisit(): void  
+- updatePrescription(): void
+
+---
+
+### Notification  
+**Descripción**: Notificaciones enviadas por el sistema.
+
+Campo   | Tipo   | Descripción
+--------|--------|--------------------------
+id      | int    | Identificador  
+type    | String | Tipo de notificación  
+content | String | Contenido del mensaje  
+
+**Métodos**:
+- deliver(): void  
+- archive(): void
+
+---
+
+### FamilyMember  
+**Descripción**: Familiar de un residente.
+
+Campo        | Tipo   | Descripción
+-------------|--------|---------------------------------------
+relationship | String | Relación con el residente  
+
+**Métodos**:
+- checkResidentStatus(): void  
+- sendMessageToResident(): void  
+- receiveAlert(): void  
+- scheduleVisit(): void  
+- viewResidentActivityLog(): void
+
+---
 
 #### 4.8 Database Design
 
@@ -1529,7 +1622,7 @@ NursingHomeId      | int                | FK al hogar de cuidado
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Resident, NursingHome, Doctor, Nurse, ResidentMedication y MedicalHistory. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
 <p align="center">
-  <img src="./assets/dataBaseDiagram4328.png" alt="dataBaseDiagram4328" />
+  <img src="./assets/DBOpenFinal.png" alt="DBOpenFinal" />
 </p>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
@@ -1767,7 +1860,7 @@ function sayHello() {
 
 ---
 
-### 5.1.4. Configuración de Despliegue de Software
+### 5.1.4. Software Deployment Configuration
 
 #### Landing Page
 
@@ -2064,11 +2157,154 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 2. E
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+
+En esta entrega se realizaron mejoras al Landing Page respecto a la versión presentada en el Sprint 1, optimizando su diseño y funcionalidad. Por otro lado, cada integrante del equipo implementó y desplegó su propio CRUD del backend, consolidando así el progreso técnico del proyecto.
+
+- Landing Page
+<p align="center">
+  <img src="assets/LandingPageSprint2.png" alt="LandingPageSprint2"/>
+</p> 
+
+<p align="center">
+  <img src="assets/LandingPageSprint2.1.png" alt="LandingPageSprint2.1"/>
+</p> 
+
+[https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/](https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/)
+
+- Backend
+
+  - CRUD Doctores
+    
+<p align="center">
+  <img src="assets/CRUD-Doctores.jpg" alt="CRUD-Doctores"/>
+</p> 
+
+[https://agecare-guzman.web.app/doctors](https://agecare-guzman.web.app/doctors)
+  - CRUD Enfermeras
+  
+<p align="center">
+  <img src="assets/CRUD-Enfermeras1.jpg" alt="CRUD-Enfermeras1"/>
+</p> 
+<p align="center">
+  <img src="assets/CRUD-Enfermeras2.jpg" alt="CRUD-Enfermeras2"/>
+</p> 
+
+[https://agecare-quijada.web.app/learning/students](https://agecare-quijada.web.app/learning/students)
+
+  - CRUD Pacientes
+    
+<p align="center">
+  <img src="assets/CRUD-Pacientes.png" alt="CRUD-Pacientes"/>
+</p> 
+
+[https://frontend-agecare.web.app/core/residents](https://frontend-agecare.web.app/core/residents)
+
+  - CRUD Reportes
+    
+<p align="center">
+  <img src="assets/CRUD-Reportes.jpg" alt="CRUD-Reportes"/>
+</p> 
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante este sprint, logramos desplegar una aplicación web funcional que consume datos desde un servidor JSON previamente configurado y desplegado. Este servidor, implementado mediante Beeceptor, simula la base de datos del proyecto y proporciona la información principal visualizada en la interfaz.
+
+
+| Nombre del Endpoint | Acciones Implementadas      | Sintaxis de Llamada                                                                                                                                          | Especificación de Parámetros | Ejemplo de Llamada                                                           | Explicación del Response                                         |
+|---------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `base.service.ts`   | `GET`, `POST`, `PUT`, `DELETE` | ```export const environment = {  production: true,  serverBasePath: 'https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1',  'http://localhost:8090/api/v1',  doctorsEndpointPath: '/doctors'};``` | No requiere parámetros         | `https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1/doctors/`           | Muestra la información de la base de datos en formato JSON.     |
+
+Además de capturas que muestran el contenido de db.json ya desplegado en Beeceptor
+<p align="center">
+  <img src="assets/servicesEVIDENCE.png" alt="servicesEVIDENCE"/>
+</p>
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Landing Page Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+
+##### Actividades Realizadas
+
+- Configuración del repositorio **GitHub** y definición de la estructura inicial de carpetas.
+- Implementación del flujo de trabajo **Git Flow**, manteniendo los cambios en la rama *develop*.
+- Realización de un **merge** desde *develop* hacia la rama *main*, siguiendo las convenciones definidas en la sección *5.1.2*.
+- Activación de **GitHub Pages** como servicio de despliegue estático, apuntando al contenido de la rama *main*.
+- Publicación exitosa de la **landing page**, accesible mediante una URL pública.
+
+##### Evidencias Visuales
+
+* Configuración del repositorio GitHub y estructura inicial de carpetas.
+  * Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico:
+  ![Repositorio](./assets/repositorio.png)
+
+  * Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando git clone. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+  ![Carpetas](./assets/carpetas.png)
+
+* Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+
+  * Desde la consola, creamos un push inicial en la rama remota main usando el comando git push origin main con un mensaje commit descriptivo.
+  initial-commit-landing
+
+  * El siguiente paso es crear la rama local develop usando el comando git checkout -b develop, la creamos de manera remota con git push origin develop. Las ramas feature/* se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama develop, por lo que un paso previo es asegurarnos que estamos en la rama correcta con git checkout develop.
+
+* Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+
+  * Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.
+
+  * Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.
+
+* Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+
+  * En la configuración del repositorio, se seleccionó la rama main como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.
+
+  * Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+
+  ![Page](./assets/page.png)
+
+
+* Publicacion exitosa de la Landing Page
+
+  ![Menu](./assets/LandingPageSprint2.png)
+
+  ![Nosotros](./assets/nosotros.png)
+
+  ![Servicios](./assets/servicios.png)
+  
+  ![Preguntas Frecuentes](./assets/LandingPageSprint2.1.png)
+
+  ![Contacto](./assets/contacto.png)
+
+  FrontEnd Para el FrontEnd, se utilizó Firebase para el despliegue de la página.
+<p align="center">
+  <img src="assets/deploy1.jpeg" alt="deploy1"/>
+</p>
+Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con google.
+<p align="center">
+  <img src="assets/deploy2.jpeg" alt="deploy2"/>
+</p>
+Una vez tenemos la cuenta creada vamos a la parte de arriba a la izquierda "go to console" y creamos un nuevo proyecto de Firebase.
+<p align="center">
+  <img src="assets/deploy3.jpeg" alt="deploy3"/>
+</p>
+Le colocamos un nombre correspondiente al proyecto a realizar.
+<p align="center">
+  <img src="assets/deploy4.jpeg" alt="deploy4"/>
+</p>
+Una vez tenemos el proyecto creado, desde nuestro editor, en este caso IntelliJ IDEA Ultimate conectamos nuestro proyecto local al proyecto Firebase.
+<p align="center">
+  <img src="assets/deploy5.jpeg" alt="deploy5"/>
+</p>
+Al acceder al link, podemos ver la página correctamente desplegada.
+<p align="center">
+  <img src="assets/deploy6.jpeg" alt="deploy6"/>
+</p>
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+![Evidence](./assets/Evidence1.png)
+
+![Evidence2](./assets/Evidence2.png)
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
@@ -2082,6 +2318,10 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 2. E
    El nivel de acceso a Internet y familiaridad con herramientas digitales en Lima es suficientemente alto para garantizar la adopción inicial del sistema, tanto por parte de los familiares como del personal de salud.
 4. **Impacto potencial alto:**
    La implementación de la aplicación puede mejorar la calidad de vida de los residentes, reducir la ansiedad de los familiares y optimizar la eficiencia operativa del personal del asilo, generando un cambio significativo en el ecosistema de cuidado geriátrico.
+5. **Base sólida para futuras integraciones:**
+La implementación de los CRUDs establece una estructura robusta y escalable que permitirá conectar el backend con interfaces móviles y web, facilitando futuras integraciones con sistemas de notificaciones, analítica o mensajería.
+6. **Mejora en la gestión de datos sensibles:**
+Al desarrollar operaciones seguras para crear, leer, actualizar y eliminar información, se ha avanzado en el tratamiento responsable de datos sensibles relacionados con la salud y bienestar de los residentes, lo que refuerza el cumplimiento de buenas prácticas en protección de datos.
 
 * **Recomendaciónes:**
 1. **Incluir un módulo de accesibilidad y soporte técnico:**
@@ -2104,5 +2344,13 @@ Luis, M. Z. J. (2023, November 22). _Diseño de un sistema inteligente de monito
 Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitoreo y teleorientación psicosocial para adultos mayores del Seguro Social de Salud (EsSalud) durante los primeros seis meses de la pandemia por COVID-19 en el Perú. Revista Del Cuerpo Médico Hospital Nacional Almanzor Aguinaga Asenjo, 15(3), 392–396._ https://doi.org/10.35434/rcmhnaaa.2022.153.1386
 
 ## Anexos  
-- Deployment Landing AgeCare: [Landing Deployment](https://jhonson2021.github.io/landingPage-AgeCare/)
+- Deployment Landing AgeCare: [Landing Deployment](https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/)
+- Deployment FrontEnd Guzman: [FrotEnd Guzman](https://agecare-guzman.web.app/doctors)
+- Deployment JsonServer Guzman: [JsonServer Guzman](https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1/doctors/)
+- Deployment FrontEnd Quijada: [FrotEnd Quijada](https://agecare-quijada.web.app/learning/students)
+- Deployment JsonServer Quijada: [JsonServer Quijada](https://caa1b4a7c41b04644ec5.free.beeceptor.com/api/v1/nurses/)
+- Deployment FrontEnd Asmad: [FrotEnd Asmad](https://frontend-agecare.web.app/core/residents)
+- Deployment JsonServer Asmad: [JsonServer Asmad](https://ca46f759261bd14f42fd.free.beeceptor.com/api/v1/residents)
+- Deployment FrontEnd Liu: [FrotEnd Liu](https://agecare-reports-huang.web.app/learning/students)
+- Deployment JsonServer Liu: [JsonServer Liu](https://cafae7074d3302b3a432.free.beeceptor.com/api/v1/reports/)
 
