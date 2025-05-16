@@ -1372,9 +1372,8 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-<p align="center">
-  <img src="./assets/Component.png" alt="Diagrama de Componentes" />
-</p>
+![Diagrama de clases](./assets/Component.png)
+
 
 ### 4.7. Software Object-Oriented Design
 
