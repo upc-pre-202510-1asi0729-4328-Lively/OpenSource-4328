@@ -2195,6 +2195,7 @@ Además de capturas que muestran el contenido de db.json ya desplegado en Beecep
   <img src="assets/servicesEVIDENCE.png" alt="servicesEVIDENCE"/>
 </p>
 
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Landing Page Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
 
@@ -2248,9 +2249,6 @@ Landing Page Para hacer el deployment de la landing page se utilizó Github Page
   ![Preguntas Frecuentes](./assets/LandingPageSprint2.1.png)
 
   ![Contacto](./assets/contacto.png)  
-
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
