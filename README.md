@@ -2239,4 +2239,8 @@ Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitor
 - Deployment JsonServer Guzman: [JsonServer Guzman](https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1/doctors/)
 - Deployment FrontEnd Quijada: [FrotEnd Quijada](https://agecare-quijada.web.app/learning/students)
 - Deployment JsonServer Quijada: [JsonServer Quijada](https://caa1b4a7c41b04644ec5.free.beeceptor.com/api/v1/nurses/)
+- Deployment FrontEnd Asmad: [FrotEnd Asmad](https://frontend-agecare.web.app/core/residents)
+- Deployment JsonServer Asmad: [JsonServer Asmad](https://ca46f759261bd14f42fd.free.beeceptor.com/api/v1/residents)
+- Deployment FrontEnd Liu: [FrotEnd Liu](https://agecare-reports-huang.web.app/learning/students)
+- Deployment JsonServer Liu: [JsonServer Liu](https://cafae7074d3302b3a432.free.beeceptor.com/api/v1/reports/)
 
