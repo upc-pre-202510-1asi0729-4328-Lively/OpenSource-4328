@@ -1302,7 +1302,7 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 #### 4.7.1. Class Diagrams
 
 <p align="center">
-  <img src="./assets/NuevoDiagramaClasesOpen.png" alt="NuevoDiagramaClasesOpen" />
+  <img src="./assets/DCFinalOpen.png" alt="DCFinalOpen" />
 </p>
 
 Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e7-9fda3fcaad34/edit?viewport_loc=-6218%2C-3791%2C4167%2C1978%2C0_0&invitationId=inv_a4cdcc79-55c7-4114-855c-7be0170317ce
