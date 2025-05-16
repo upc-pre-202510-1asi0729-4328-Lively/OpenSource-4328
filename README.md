@@ -2308,6 +2308,10 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
    El nivel de acceso a Internet y familiaridad con herramientas digitales en Lima es suficientemente alto para garantizar la adopción inicial del sistema, tanto por parte de los familiares como del personal de salud.
 4. **Impacto potencial alto:**
    La implementación de la aplicación puede mejorar la calidad de vida de los residentes, reducir la ansiedad de los familiares y optimizar la eficiencia operativa del personal del asilo, generando un cambio significativo en el ecosistema de cuidado geriátrico.
+5. **Base sólida para futuras integraciones:**
+La implementación de los CRUDs establece una estructura robusta y escalable que permitirá conectar el backend con interfaces móviles y web, facilitando futuras integraciones con sistemas de notificaciones, analítica o mensajería.
+6. **Mejora en la gestión de datos sensibles:**
+Al desarrollar operaciones seguras para crear, leer, actualizar y eliminar información, se ha avanzado en el tratamiento responsable de datos sensibles relacionados con la salud y bienestar de los residentes, lo que refuerza el cumplimiento de buenas prácticas en protección de datos.
 
 * **Recomendaciónes:**
 1. **Incluir un módulo de accesibilidad y soporte técnico:**
