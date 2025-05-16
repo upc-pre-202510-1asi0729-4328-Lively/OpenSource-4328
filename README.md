@@ -47,7 +47,7 @@
 | TP1     | 10/05/2025  | Ramiro Alexander Guzmán Chávez        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Fátima Andrea Asmad Padilla           | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
-| TP1     | 10/05/2025  | Gabriel Huang Liu Franco              | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Franco Gabriel Huang Liu               | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 
 
@@ -912,7 +912,11 @@ Epic que agrupa funcionalidades relacionadas con registro, seguimiento y control
 ### 3.3. Impact Mapping
 
 <p align="center">
-  <img src="./assets/IMPACT.png" alt="IMPACT"/>
+  <img src="./assets/Impact_Mapping_fix1.jpg" alt="IMPACT"/>
+</p>
+<p align="center">
+  <img src="./assets/Impact_Mapping_fix2.jpg" alt="IMPACT"/>
+</p>
 
 ### 3.4. Product Backlog
 
