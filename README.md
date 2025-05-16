@@ -1361,19 +1361,19 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 #### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="./assets/structurizr-101317-RedVitalSystemContext.png" alt="System Context" />
+  <img src="./assets/RedVitalSystemContext.png" alt="System Context" />
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="./assets/structurizr-101317-redVitalContainer.png" alt="Diagrama de Contenedores" />
+  <img src="./assets/redVitalContainer.png" alt="Diagrama de Contenedores" />
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
 <p align="center">
-  <img src="./assets/structurizr-101317-MonitoreoComponent.png" alt="Diagrama de Componentes" />
+  <img src="./assets/MonitoreoComponent.png" alt="Diagrama de Componentes" />
 </p>
 
 ### 4.7. Software Object-Oriented Design
