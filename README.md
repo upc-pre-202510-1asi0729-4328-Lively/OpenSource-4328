@@ -33,18 +33,25 @@
 
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | 15/04/2025  |  Ramiro Alexander Guzman Chavez   |    Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary.      |
-| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez     |     Añadí mi registro de entrevistas realizadas por segmento objetivo.     |
-| TB1     | 18/04/2025  |  Franco Gabriel Huang Liu     |    Realicé los wireframes, wireflows y la sección de Lean UX.        |
-| TB1     | 23/04/2025  |  Franco Gabriel Huang Liu     |   Se terminó el mockup y el userflow.          |
-| TB1     | 23/04/2025  |  Ramiro Alexander Guzman Chavez     |  Agregué el Software Configuration Management.         |
-| TB1     | 15/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |     Realice el user task matrix y persona        |
-| TB1     | 16/04/2025  |  Mauricio Rigoberto Muñoz Vilcapoma     |      Realice el journey mapping y emphaty mapping       |
-| TB1     | 24/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       Realice Project Report Collaboration Insights      |
-| TB1     | 17/04/2025  | Quijada Magro Jeremy Alexander        | Realice Analisis Competitivo y Estrategia ante competidores |
-| TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander        | Realice Style GuideLines and Information Architure    |
-| TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander        | Realice Domain-Desing Software Architure            |
-| TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander        | Realice Lading Page UI Design           |
+| TB1     | 15/04/2025  | Ramiro Alexander Guzman Chavez   | Desarrollé la carátula del repositorio, el diagrama de clases, el diagrama de la base de datos y el class dictionary. |
+| TB1     | 17/04/2025  | Ramiro Alexander Guzman Chavez   | Añadí mi registro de entrevistas realizadas por segmento objetivo. |
+| TB1     | 18/04/2025  | Franco Gabriel Huang Liu         | Realicé los wireframes, wireflows y la sección de Lean UX. |
+| TB1     | 23/04/2025  | Franco Gabriel Huang Liu         | Se terminó el mockup y el userflow. |
+| TB1     | 23/04/2025  | Ramiro Alexander Guzman Chavez   | Agregué el Software Configuration Management. |
+| TB1     | 15/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé el user task matrix y persona. |
+| TB1     | 16/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé el journey mapping y emphaty mapping. |
+| TB1     | 24/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | Realicé Project Report Collaboration Insights. |
+| TB1     | 17/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Análisis Competitivo y Estrategia ante competidores. |
+| TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Style GuideLines and Information Architecture. |
+| TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Domain-Design Software Architecture. |
+| TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Landing Page UI Design. |
+
+| TP1     | 10/05/2025  | Ramiro Alexander Guzmán Chávez        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Fátima Andrea Asmad Padilla           | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Gabriel Huang Liu Franco              | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+
 
 ---
 
