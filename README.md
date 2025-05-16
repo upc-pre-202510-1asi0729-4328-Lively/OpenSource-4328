@@ -1941,4 +1941,8 @@ Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitor
 
 ## Anexos  
 - Deployment Landing AgeCare: [Landing Deployment](https://jhonson2021.github.io/landingPage-AgeCare/)
+- Deployment FrontEnd Guzman: [FrotEnd Guzman](https://agecare-guzman.web.app/doctors)
+- Deployment JsonServer Guzman: [JsonServer Guzman](https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1/doctors/)
+- Deployment FrontEnd Quijada: [FrotEnd Quijada](https://agecare-quijada.web.app/learning/students)
+- Deployment JsonServer Quijada: [JsonServer Quijada](https://caa1b4a7c41b04644ec5.free.beeceptor.com/api/v1/nurses/)
 
