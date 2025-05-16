@@ -1309,168 +1309,233 @@ Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e
 
 ### 4.7.2 Class Dictionary
 
-Este es el formato deberán seguir nuestras colecciones en SQL para replicar nuestras entidades de la base de datos.
-
-### NursingHome  
-**Descripción**: Tabla que representa los hogares de cuidado donde residen los adultos mayores.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-NursingHomeId      | int                | Identificador único del hogar de cuidado  
-Name               | varchar(100)       | Nombre del hogar  
-Location           | varchar(200)       | Dirección del hogar  
-Contact            | varchar(100)       | Información de contacto  
-
-### Resident  
-**Descripción**: Tabla que almacena la información personal de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ResidentId         | int                | Identificador único del residente  
-DNI                | varchar(20)        | Documento Nacional de Identidad  
-FirstName          | varchar(100)       | Nombres del residente  
-LastName           | varchar(100)       | Apellidos del residente  
-BirthDate          | date               | Fecha de nacimiento  
-Gender             | varchar(10)        | Género  
-EducationLevel     | varchar(100)       | Nivel de educación  
-PreviousJob        | varchar(100)       | Ocupación previa  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### FamilyMember  
-**Descripción**: Tabla que representa a los familiares de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-FamilyMemberId     | int                | Identificador único del familiar  
-FirstName          | varchar(100)       | Nombres del familiar  
-LastName           | varchar(100)       | Apellidos del familiar  
-DNI                | varchar(20)        | Documento de identidad  
-Phone              | varchar(20)        | Número de teléfono  
-ParticipationLevel | varchar(100)       | Nivel de participación  
-Address            | varchar(200)       | Dirección  
-
-### ResidentFamilyMember  
-**Descripción**: Relación entre los residentes y sus familiares.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ResidentId         | int                | FK al residente  
-FamilyMemberId     | int                | FK al familiar  
-
-### MedicalHistory  
-**Descripción**: Historial médico general de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicalHistoryId   | int                | Identificador del historial médico  
-PreviousDiseases   | varchar(200)       | Enfermedades previas  
-Allergies          | varchar(200)       | Alergias  
-LastConsultationDate | date             | Fecha de última consulta  
-Specialist         | varchar(200)       | Especialista que atendió  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-DoctorId           | int                | FK al doctor  
-
-### Doctor  
-**Descripción**: Tabla que almacena la información de los doctores asignados.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-DoctorId           | int                | Identificador único del doctor  
-FirstName          | varchar(100)       | Nombre  
-LastName           | varchar(100)       | Apellido  
-Speciality         | varchar(100)       | Especialidad  
-Phone              | varchar(20)        | Teléfono  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### Nurse  
-**Descripción**: Tabla que almacena la información de las enfermeras.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-NurseId            | int                | Identificador único de la enfermera  
-FirstName          | varchar(100)       | Nombre  
-LastName           | varchar(100)       | Apellido  
-Phone              | varchar(20)        | Teléfono  
-NursingHomeId      | int                | FK al hogar de cuidado  
-
-### Medication  
-**Descripción**: Tabla con los medicamentos registrados en el hogar.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicationId       | int                | Identificador del medicamento  
-Name               | varchar(100)       | Nombre del medicamento  
-Description        | varchar(200)       | Descripción  
-Effects            | varchar(200)       | Efectos secundarios  
-
-### ResidentMedication  
-**Descripción**: Relación entre los medicamentos y su administración a los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-Date               | date               | Fecha de administración  
-Time               | time               | Hora de administración  
-Dosage             | varchar(100)       | Dosis  
-ResidentId         | int                | FK al residente  
-MedicationId       | int                | FK al medicamento  
-
-### MedicalRecord  
-**Descripción**: Registro de diagnósticos y tratamientos médicos de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MedicalRecordId    | int                | Identificador del registro  
-Date               | date               | Fecha del registro  
-Diagnosis          | text               | Diagnóstico médico  
-Treatment          | text               | Tratamiento aplicado  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-NurseId            | int                | FK a la enfermera  
-
-### MentalHealthRecord  
-**Descripción**: Registro del estado de salud mental de los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-MentalHealthId     | int                | Identificador del registro  
-Date               | date               | Fecha del registro  
-Evaluation         | text               | Evaluación psicológica  
-Note               | text               | Notas adicionales  
-BloodType          | varchar(10)        | Tipo de sangre  
-ResidentId         | int                | FK al residente  
-NurseId            | int                | FK a la enfermera  
-
-### ActivityLog  
-**Descripción**: Registro de las actividades realizadas por los residentes.
-
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-ActivityLogId      | int                | Identificador del log de actividad  
-Date               | date               | Fecha de la actividad  
-Activity           | varchar(100)       | Nombre de la actividad  
-Notes              | text               | Notas o comentarios  
-ParticipationLevel | varchar(100)       | Nivel de participación  
-Resident_ResidentId| int                | FK al residente  
-Nurse_NurseId      | int                | FK a la enfermera  
+---
 
 ### PaymentMethod  
-**Descripción**: Tabla con los métodos de pago aceptados por los hogares.
+**Descripción**: Métodos de pago disponibles en el sistema.
 
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-PaymentMethodId    | int                | Identificador del método de pago  
-Description        | text               | Descripción del método  
+Campo         | Tipo       | Descripción
+--------------|------------|-------------------------------------------------
+id            | int        | Identificador del método de pago  
+type          | String     | Tipo de método de pago (ej. tarjeta, efectivo)
+
+**Métodos**:
+- getDescription(): String
+
+---
 
 ### FinancialInfo  
-**Descripción**: Relación entre métodos de pago y hogares.
+**Descripción**: Información financiera del residente.
 
-Campo              | Tipo de dato       | Descripción
--------------------|--------------------|---------------------------------------------------
-PaymentMethodId    | int                | FK al método de pago  
-NursingHomeId      | int                | FK al hogar de cuidado  
+Campo              | Tipo       | Descripción
+-------------------|------------|---------------------------------------------
+id                 | int        | Identificador financiero  
+monthlyCost        | double     | Costo mensual del servicio  
+additionalExpenses | double     | Gastos adicionales
 
+**Métodos**:
+- calculateTotalCost(): double
 
+---
+
+### Activity  
+**Descripción**: Actividades programadas dentro del hogar.
+
+Campo   | Tipo   | Descripción
+--------|--------|-----------------------------------
+id      | int    | Identificador de la actividad  
+name    | String | Nombre de la actividad  
+type    | String | Tipo o categoría de la actividad  
+
+**Métodos**:
+- getActivityDetails(): void  
+- editActivity(): void  
+- deleteActivity(): void  
+- updateActivity(): void
+
+---
+
+### ActivityLog  
+**Descripción**: Registro de participación de residentes en actividades.
+
+Campo              | Tipo   | Descripción
+-------------------|--------|------------------------------------------
+id                 | int    | Identificador del registro  
+date               | Date   | Fecha de actividad  
+participationLevel | String | Nivel de participación  
+
+**Métodos**:
+- getActivitySummary(): String
+
+---
+
+### User  
+**Descripción**: Usuario general del sistema.
+
+Campo     | Tipo   | Descripción
+----------|--------|--------------------------------------
+id        | int    | Identificador único  
+firstName | String | Nombres del usuario  
+lastName  | String | Apellidos del usuario  
+email     | String | Correo electrónico  
+phone     | String | Número telefónico  
+
+**Métodos**:
+- createAccount(): void  
+- updateAccount(): void  
+- deleteAccount(): void  
+- resetPassword(): void  
+- sendNotification(): void
+
+---
+
+### Nurse  
+**Descripción**: Enfermera encargada de cuidados clínicos.
+
+Campo | Tipo   | Descripción
+------|--------|-------------------------------
+shift | String | Turno asignado a la enfermera
+
+**Métodos**:
+- logActivity(): void  
+- registerMedicalAlert(): void  
+- updateVitalSigns(): void  
+- viewResidentRecords(): void
+
+---
+
+### MedicalHistory  
+**Descripción**: Historial médico de un residente.
+
+Campo       | Tipo   | Descripción
+------------|--------|-----------------------------------
+id          | int    | ID del historial  
+recordDate  | Date   | Fecha del registro  
+diagnosis   | String | Diagnóstico médico  
+treatment   | String | Tratamiento aplicado  
+
+**Métodos**:
+- addEntry(): void  
+- getSummary(): String  
+- generatePDFReport(): void
+
+---
+
+### MentalHealthRecord  
+**Descripción**: Registro del estado de salud mental del residente.
+
+Campo       | Tipo   | Descripción
+------------|--------|-------------------------------
+id          | int    | Identificador del registro  
+recordDate  | Date   | Fecha del diagnóstico  
+diagnosis   | String | Diagnóstico  
+treatment   | String | Tratamiento aplicado  
+
+**Métodos**:
+- addEntry(): void  
+- getSummary(): String  
+- flagCriticalCondition(): void
+
+---
+
+### Resident  
+**Descripción**: Adulto mayor residente del hogar.
+
+Campo      | Tipo   | Descripción
+-----------|--------|-----------------------------
+id         | int    | Identificador  
+dni        | String | DNI  
+firstName  | String | Nombres  
+lastName   | String | Apellidos  
+birthDate  | Date   | Fecha de nacimiento  
+gender     | String | Género  
+
+**Métodos**:
+- updateHealthStatus(): void  
+- getAge(): int  
+- assignMedication(): void  
+- requestAssistance(): void
+
+---
+
+### Medication  
+**Descripción**: Medicamento registrado para un residente.
+
+Campo      | Tipo   | Descripción
+-----------|--------|----------------------------
+id         | int    | Identificador  
+name       | String | Nombre del medicamento  
+frequency  | String | Frecuencia de administración  
+
+**Métodos**:
+- getInstructions(): String  
+- isCompatibleWith(): boolean
+
+---
+
+### NursingHome  
+**Descripción**: Hogar de cuidado.
+
+Campo    | Tipo   | Descripción
+---------|--------|-------------------------------
+id       | int    | ID del hogar  
+name     | String | Nombre del hogar  
+address  | String | Dirección física  
+contract | String | Código de contrato  
+
+**Métodos**:
+- getAllResidents(): List<Resident>  
+- getAvailableSpots(): int
+
+---
+
+### Doctor  
+**Descripción**: Médico que atiende a los residentes.
+
+Campo      | Tipo   | Descripción
+-----------|--------|-----------------------------------
+speciality | String | Especialidad del médico  
+
+**Métodos**:
+- createMedicalReport(): void  
+- updateDoctor(): void  
+- deleteDoctor(): void  
+- prescribeMedication(): void  
+- scheduleVisit(): void  
+- updatePrescription(): void
+
+---
+
+### Notification  
+**Descripción**: Notificaciones enviadas por el sistema.
+
+Campo   | Tipo   | Descripción
+--------|--------|--------------------------
+id      | int    | Identificador  
+type    | String | Tipo de notificación  
+content | String | Contenido del mensaje  
+
+**Métodos**:
+- deliver(): void  
+- archive(): void
+
+---
+
+### FamilyMember  
+**Descripción**: Familiar de un residente.
+
+Campo        | Tipo   | Descripción
+-------------|--------|---------------------------------------
+relationship | String | Relación con el residente  
+
+**Métodos**:
+- checkResidentStatus(): void  
+- sendMessageToResident(): void  
+- receiveAlert(): void  
+- scheduleVisit(): void  
+- viewResidentActivityLog(): void
+
+---
 
 #### 4.8 Database Design
 
