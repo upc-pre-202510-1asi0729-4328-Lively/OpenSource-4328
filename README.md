@@ -2051,6 +2051,17 @@ Este es nuestro link de invitación a nuestro Trello:
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
+
+En la siguiente tabla se presentan los commits realizados durante el Sprint 2. En este sprint nos enfocamos en corregir observaciones clave de la primera entrega, como reformular los antecedentes y problemáticas, ajustar los Lean UX statements, completar el Impact Mapping y rehacer los diagramas de arquitectura, clases y base de datos. Además, se desarrolló y desplegó una versión inicial del backend con los principales CRUDs.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Backlog 1 | e149c75   | fix: update and correct Sprint Backlog 1  |    | 15/05/2025        |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Planning 1 |  c5a02fc   | fix: update and correct Sprint Planning 1 |       | 15/05/2025          |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and improve Lean UX Hypothesis Statements | 5225de6   | fix: revise and improve Lean UX Hypothesis Statements   |     | 15/05/2025          |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and correct Antecedentes y Problematica | 6e0553c   | fix: revise and correct Antecedentes y Problematica |              | 15/05/2025         |
+| SmartFinance-OpenSource/OpenSource-4328 | fix/Domain-Driven | 00a905a   | fix: Domain Container |              | 15/05/2025         |
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
