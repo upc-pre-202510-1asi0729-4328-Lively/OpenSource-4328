@@ -236,28 +236,28 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 
 
 #### 1.2.1. Antecedentes y problemática
+
 **WHAT**
-**AgeCareDB** es una plataforma que recopila datos sobre el bienestar de los residentes en asilos de ancianos en Lima, Perú.
+Existe una falta de transparencia y comunicación efectiva entre los asilos de ancianos y los familiares sobre el bienestar y estado de salud de los residentes.
 
 **WHY**
-La plataforma mejora la transparencia y comunicación entre los asilos y los familiares de los residentes.
+Esta falta de información genera preocupación, desconfianza y dificultades para que los familiares puedan monitorear y asegurar el adecuado cuidado de sus seres queridos.
 
 **WHERE**
-Se utiliza en asilos de ancianos en Lima, Perú, pero los familiares pueden acceder desde cualquier lugar.
+El problema ocurre en asilos de ancianos en Lima, Perú, donde la comunicación tradicional es limitada y no se dispone de medios accesibles para los familiares, especialmente si viven lejos.
 
 **WHO**
-Los usuarios son las **enfermeras**, **cuidadores** y **familiares** de los residentes.  
-- Las enfermeras y cuidadores ingresan datos sobre el bienestar de los residentes.  
-- Los familiares acceden a la plataforma para obtener información en tiempo real.
+Los afectados son los residentes de los asilos (adultos mayores), sus familiares que no pueden acceder fácilmente a información sobre ellos, y el personal de cuidado que enfrenta dificultades para comunicar el estado real y actualizado.
 
 **WHEN**
-La información se actualiza en **tiempo real**.
+La falta de información actualizada ocurre constantemente, generando incertidumbre durante las visitas o llamadas ocasionales, y especialmente en momentos críticos de salud.
 
 **HOW**
-La plataforma permite ingresar y consultar datos de salud física y mental, facilitando el monitoreo constante del estado de los residentes.
+Actualmente, la información sobre el bienestar y estado de salud se registra manualmente, en formatos físicos o sistemas poco integrados, dificultando el acceso inmediato y el seguimiento en tiempo real.
 
 **HOW MUCH**
-AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando parte de los **3.9 millones de adultos mayores en situación de vulnerabilidad** en el país.
+Este problema afecta a cientos de adultos mayores en asilos en Lima y a sus familias, dentro de un contexto nacional donde 3.9 millones de adultos mayores están en situación de vulnerabilidad, aumentando el riesgo de desatención y aislamiento.
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 **Problem Statment 1:**
