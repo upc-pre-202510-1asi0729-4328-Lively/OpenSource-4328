@@ -2183,6 +2183,18 @@ En esta entrega se realizaron mejoras al Landing Page respecto a la versión pre
 </p> 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante este sprint, logramos desplegar una aplicación web funcional que consume datos desde un servidor JSON previamente configurado y desplegado. Este servidor, implementado mediante Beeceptor, simula la base de datos del proyecto y proporciona la información principal visualizada en la interfaz.
+
+
+| Nombre del Endpoint | Acciones Implementadas      | Sintaxis de Llamada                                                                                                                                          | Especificación de Parámetros | Ejemplo de Llamada                                                           | Explicación del Response                                         |
+|---------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `base.service.ts`   | `GET`, `POST`, `PUT`, `DELETE` | ```export const environment = {  production: true,  serverBasePath: 'https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1',  'http://localhost:8090/api/v1',  doctorsEndpointPath: '/doctors'};``` | No requiere parámetros         | `https://ca3ae4ce59df808f6d28.free.beeceptor.com/api/v1/doctors/`           | Muestra la información de la base de datos en formato JSON.     |
+
+Además de capturas que muestran el contenido de db.json ya desplegado en Beeceptor
+<p align="center">
+  <img src="assets/servicesEVIDENCE.png" alt="servicesEVIDENCE"/>
+</p>
+
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
