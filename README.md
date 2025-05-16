@@ -1827,7 +1827,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
 | Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
 | Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
-| Sum of Story Points            | La suma de Story Points atendidos es de  15.                                            |
+| Sum of Story Points            | La suma de Story Points atendidos es de  22.                                            |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
@@ -1841,21 +1841,32 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 | Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
 
 ##### 5.2.1.3. Sprint Backlog 1
-Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
+Esta sección ofrece un resumen del objetivo central del sprint, resaltando las metas propuestas y las funcionalidades que se planean desarrollar. Seguidamente, se incluye una captura del tablero del sprint en la herramienta de gestión elegida, Trello, junto con su enlace público. También se presenta una tabla con las User Stories asignadas al sprint, los Work-items o tareas derivadas, y otras actividades adicionales requeridas para alcanzar los objetivos generales del sprint.
+
+Este es nuestro link de invitación a nuestro Trello:
+[https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
+
+<p align="center">
+  <img src="assets/image.png" alt="TrelloTB1"/>
+</p>  
 
 | **Sprint #**   | Sprint 1   |             |             |             |             |             |             |
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             | **Work-Item/task** |             |             |             |             |             |
 | **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
-| US-06          | Conocer los servicios                  | T01          | Crear una página para que se puedan conocer los servicios.            | Facilitar el acceso a información sobre los servicios del proyecto. | 0.5                   | Jeremy Quijada    | Done |
-| US-07          | Leer la misión y visión del proyecto   | T02          | Crear una sección para poder conocer la misión y visión del proyecto. | Ayudar a los usuarios a entender los objetivos y valores del proyecto. | 1                   | Jeremy Quijada    | Done |
-| US-08          | Visualizar preguntas frecuentes        | T03          | Crear una sección para ver las preguntas frecuentes                   | Ofrecer respuestas rápidas a preguntas comunes sobre el proyecto.  | 1                   | Jeremy Quijada    | Done |
-| US-16          | Ver equipo profesional del asilo       | T04          | Crear una sección para ver los equipos profesionales de los asilos    | Mostrar información sobre el equipo y su experiencia profesional.   | 1                   | Jeremy Quijada    | Done |
-| US-17          | Solicitar información desde la web     | T05          | Crear un formulario para solicitar más información del proyecto.      | Brindar a los usuarios una forma de comunicarse directamente.       | 1.5                   | Jeremy Quijada    | Done |
-| US-18          | Ver testimonios y casos de éxito       | T06          | Crear una sección para mostrar testimonios y casos exitosos.          | Compartir historias reales para generar confianza en el proyecto.   | 2                 | Jeremy Quijada    | Done |
-| US-19          | Descargar folleto informativo          | T07          | Crear una opción para descargar un folleto con información relevante. | Proveer información detallada sobre el proyecto en formato digital. | 0.5                 | Jeremy Quijada    | Done |
-
+| US-06 | Conocer los servicios	 | TS001 | Diseño UI sección servicios | Crear el diseño visual para la sección de servicios. | 3 | Jeremy Quijada | Done |
+| US-06 | Conocer los servicios	 | TS002 | Implementar sección servicios | Codificar la sección para mostrar los servicios. | 4 | Jeremy Quijada | Done |
+| US-07 | Leer la misión y visión del proyecto | TS003 | 	Diseño UI sección misión y visión | Crear diseño para la sección de misión y visión. | 2 | Jeremy Quijada | Done |
+| US-07 | Leer la misión y visión del proyecto | TS004 | 	Implementar sección misión y visión | Programar la sección con el contenido correspondiente. | 3 | Jeremy Quijada | Done |
+| US-08 | Visualizar preguntas frecuentes | TS005 | Diseño UI sección FAQ | Definir el diseño para la sección de preguntas frecuentes. | 2 | Jeremy Quijada | Done |
+| US-08 | Visualizar preguntas frecuentes | TS006 | 	Implementar sección FAQ | Programar funcionalidad para mostrar preguntas y respuestas. | 3 | Jeremy Quijada | Done |
+| US-16 | Ver equipo profesional del asilo | TS007 | Diseño UI sección equipo profesional | Diseño visual para mostrar el equipo profesional. | 2 | Jeremy Quijada | Done |
+| US-16 | Ver equipo profesional del asilo | TS008 | Implementar sección equipo profesional | Implementar la sección para listar el equipo. | 3 | Jeremy Quijada | Done |
+| US-17 | Solicitar información desde la web | TS009 | Diseño UI formulario de contacto | Diseñar formulario para solicitud de información. | 2 | Jeremy Quijada | Done |
+| US-17 | Solicitar información desde la web | TS010 | Implementar formulario contacto | Programar formulario. | 2 | Jeremy Quijada | Done |
+| US-18 | Ver testimonios y casos de éxito | TS011 | 	Diseño UI sección testimonios | Diseñar presentación para testimonios y casos. | 2 | Jeremy Quijada | Done |
+| US-18 | Ver testimonios y casos de éxito | TS012 | Implementar sección testimonios | Codificar funcionalidad para mostrar testimonios. | 3 | Jeremy Quijada | Done |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
  En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
@@ -1978,7 +1989,7 @@ En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los
 | Sprint 2 - 1 Retrospective Summary | Se logró un progreso razonable durante el sprint 2: si bien no se completaron tantas pantallas como se había previsto, el equipo mejoró significativamente en comunicación y trabajo colaborativo, lo que permitió alcanzar un avance satisfactorio en el desarrollo de la aplicación. |
 | Sprint 2 Goal                  | En este sprint, nos enfocamos principalmente en mejorar la calidad de la información presentada en los reportes e implementar la primera versión del Front End de la aplicación. Durante esta fase, desarrollamos diversos módulos con operaciones CRUD (crear, leer, actualizar y eliminar) que permiten gestionar distintos recursos del sistema. Esperamos que esta versión inicial proporcione una visualización clara de las funcionalidades esenciales y del diseño de la interfaz. La efectividad de este avance se validará mediante la interacción de los usuarios con las funcionalidades desarrolladas y la retroalimentación positiva sobre la experiencia de uso. |
 | Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
-| Sum of Story Points            |  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  22. |
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -2000,7 +2011,7 @@ Este es nuestro link de invitación a nuestro Trello:
 [https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
 
 <p align="center">
-  <img src="assets/image.png" alt="TrelloTP"/>
+  <img src="assets/TRELLO-TP.png" alt="TrelloTP"/>
 </p>  
 
 | User Story ID | User Story | Work-Item / Task ID | Work-Item / Task Title | Description | Estimation (Hours) | Status |
