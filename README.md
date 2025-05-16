@@ -2248,7 +2248,33 @@ Landing Page Para hacer el deployment de la landing page se utilizó Github Page
   
   ![Preguntas Frecuentes](./assets/LandingPageSprint2.1.png)
 
-  ![Contacto](./assets/contacto.png)  
+  ![Contacto](./assets/contacto.png)
+
+  FrontEnd Para el FrontEnd, se utilizó Firebase para el despliegue de la página.
+<p align="center">
+  <img src="assets/deploy1.jpeg" alt="deploy1"/>
+</p>
+Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con google.
+<p align="center">
+  <img src="assets/deploy2.jpeg" alt="deploy2"/>
+</p>
+Una vez tenemos la cuenta creada vamos a la parte de arriba a la izquierda "go to console" y creamos un nuevo proyecto de Firebase.
+<p align="center">
+  <img src="assets/deploy3.jpeg" alt="deploy3"/>
+</p>
+Le colocamos un nombre correspondiente al proyecto a realizar.
+<p align="center">
+  <img src="assets/deploy4.jpeg" alt="deploy4"/>
+</p>
+Una vez tenemos el proyecto creado, desde nuestro editor, en este caso IntelliJ IDEA Ultimate conectamos nuestro proyecto local al proyecto Firebase.
+<p align="center">
+  <img src="assets/deploy5.jpeg" alt="deploy5"/>
+</p>
+Al acceder al link, podemos ver la página correctamente desplegada.
+<p align="center">
+  <img src="assets/deploy6.jpeg" alt="deploy6"/>
+</p>
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
