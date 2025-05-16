@@ -1,4 +1,3 @@
-
 # Lively  
 **Producto: AgeCare**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -242,44 +241,42 @@ Mi perfil se caracteriza por la responsabilidad, disciplina y compromiso en cada
 
 
 #### 1.2.1. Antecedentes y problemática
+
 **WHAT**
-**AgeCareDB** es una plataforma que recopila datos sobre el bienestar de los residentes en asilos de ancianos en Lima, Perú.
+Existe una falta de transparencia y comunicación efectiva entre los asilos de ancianos y los familiares sobre el bienestar y estado de salud de los residentes.
 
 **WHY**
-La plataforma mejora la transparencia y comunicación entre los asilos y los familiares de los residentes.
+Esta falta de información genera preocupación, desconfianza y dificultades para que los familiares puedan monitorear y asegurar el adecuado cuidado de sus seres queridos.
 
 **WHERE**
-Se utiliza en asilos de ancianos en Lima, Perú, pero los familiares pueden acceder desde cualquier lugar.
+El problema ocurre en asilos de ancianos en Lima, Perú, donde la comunicación tradicional es limitada y no se dispone de medios accesibles para los familiares, especialmente si viven lejos.
 
 **WHO**
-Los usuarios son las **enfermeras**, **cuidadores** y **familiares** de los residentes.  
-- Las enfermeras y cuidadores ingresan datos sobre el bienestar de los residentes.  
-- Los familiares acceden a la plataforma para obtener información en tiempo real.
+Los afectados son los residentes de los asilos (adultos mayores), sus familiares que no pueden acceder fácilmente a información sobre ellos, y el personal de cuidado que enfrenta dificultades para comunicar el estado real y actualizado.
 
 **WHEN**
-La información se actualiza en **tiempo real**.
+La falta de información actualizada ocurre constantemente, generando incertidumbre durante las visitas o llamadas ocasionales, y especialmente en momentos críticos de salud.
 
 **HOW**
-La plataforma permite ingresar y consultar datos de salud física y mental, facilitando el monitoreo constante del estado de los residentes.
+Actualmente, la información sobre el bienestar y estado de salud se registra manualmente, en formatos físicos o sistemas poco integrados, dificultando el acceso inmediato y el seguimiento en tiempo real.
 
 **HOW MUCH**
-AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando parte de los **3.9 millones de adultos mayores en situación de vulnerabilidad** en el país.
+Este problema afecta a cientos de adultos mayores en asilos en Lima y a sus familias, dentro de un contexto nacional donde 3.9 millones de adultos mayores están en situación de vulnerabilidad, aumentando el riesgo de desatención y aislamiento.
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+
 **Problem Statment 1:**
-**Usuarios:** Familiares de adultos mayores que residen en asilos.
-**Necesdad:** Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
-**Solución:** Nuestra plataforma proporciona actualizaciones en tiempo real sobre el estado físico y emocional de los residentes, así como herramientas para una comunicación fluida con el personal del asilo.
+Usuarios: Familiares de adultos mayores que residen en asilos.
+Necesidad: Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
 
 **Problem Statment 2:**
-**Usuarios:** Personal de cuidado en asilos de ancianos.
-**Necesdad:** Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.
-**Solución:** AgeCareDB ofrece una interfaz intuitiva para el registro de datos clínicos y emocionales, facilitando el seguimiento del estado de cada residente y mejorando la coordinación del equipo de atención.
+Usuarios: Personal de cuidado en asilos de ancianos.
+Necesidad: Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.
 
 **Problem Statment 3:**
-**Usuarios:** Directores o administradores de asilos.
-**Necesdad:** Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
-**Solución:** Nuestra plataforma genera reportes detallados y visualizaciones del bienestar general de los residentes, permitiendo tomar decisiones informadas y demostrar compromiso con la calidad del servicio.
+Usuarios: Directores o administradores de asilos.
+Necesidad: Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
 
 ##### 1.2.2.2. Lean UX Assumptions
 **¿Quiénes son nuestros usuarios?**
@@ -311,15 +308,31 @@ AgeCareDB atiende a **cientos de adultos mayores** en asilos en Lima, formando p
 **R:** La plataforma debe tener un diseño cálido, humano y profesional, con una interfaz clara y amigable tanto para personal médico como para familiares no técnicos. Debe transmitir confianza, ser accesible y mostrar los datos de manera visual y comprensible. Su comportamiento debe ser fluido, confiable y siempre centrado en facilitar el bienestar del residente y la conexión emocional entre familias y cuidadores.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
-**Creemos que** al implementar una sección de reportes visuales sobre el estado físico y emocional del residente, los familiares se sentirán más tranquilos y confiados respecto al cuidado que recibe su ser querido.
-**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares califiquen como útil o muy útil esta sección en las encuestas de satisfacción.
-**Sabremos que** esto es verdad porque los reportes han sido visualizados con frecuencia y han generado comentarios positivos sobre la mejora en la comunicación y transparencia.
-**Creemos que** al implementar un canal directo de mensajería entre familiares y el personal del asilo, se reducirá la ansiedad de los familiares y se fortalecerá la relación entre ambas partes.
-**Sabremos que** hemos tenido éxito cuando al menos el 60% de los usuarios activos utilicen este canal para comunicarse y lo califiquen como efectivo.
-**Sabremos que** esto es verdad porque veremos una reducción en las llamadas de quejas o incertidumbre, y un aumento en interacciones positivas vía plataforma.
-**Creemos que** al implementar un sistema de alertas automatizadas cuando un residente muestra signos tempranos de deterioro en su salud, el personal podrá actuar más rápido y con mayor precisión.
-**Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.
-**Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.
+
+**Creemos que** al facilitar el acceso rápido a información confiable sobre el estado de salud de los residentes, los familiares reducirán su ansiedad y mejorarán su percepción sobre el cuidado recibido.
+**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares reporten sentirse mejor informados y confiados en encuestas periódicas.
+**Sabremos que** esto es verdad porque aumentará la frecuencia y duración de las consultas de familiares en la plataforma.
+
+**Creemos que** al mejorar la eficiencia en el registro y organización de datos por parte del personal de cuidado, se reducirá su carga administrativa y aumentará el tiempo dedicado a la atención directa.
+**Sabremos que** hemos tenido éxito cuando el personal reporte una reducción significativa en el tiempo dedicado a tareas administrativas y un aumento en la satisfacción laboral.
+**Sabremos que** esto es verdad porque se registrará un mayor número de observaciones clínicas completas y oportunas.
+
+**Creemos que** al proveer a los administradores con información clara y datos confiables sobre el estado general de los residentes, se fortalecerá la toma de decisiones para mejorar la calidad del servicio.
+**Sabremos que** hemos tenido éxito cuando los administradores usen los datos para implementar mejoras y reporten mayor confianza en sus decisiones.
+**Sabremos que** esto es verdad porque se observará un aumento en la adopción de políticas basadas en datos y mayor satisfacción de las familias.
+
+**Creemos que** al reducir la dependencia de comunicaciones informales y dispersas, se disminuirán los errores y malentendidos sobre el cuidado de los residentes.
+**Sabremos que** hemos tenido éxito cuando se reduzcan los incidentes relacionados con falta de información o errores de comunicación.
+**Sabremos que** esto es verdad porque habrá menos quejas formales y reclamaciones por parte de familiares y personal.
+
+**Creemos que** al facilitar la visualización de tendencias y cambios en el bienestar emocional y físico de los residentes, el personal podrá anticipar problemas y mejorar el seguimiento individual.
+**Sabremos que** hemos tenido éxito cuando el personal reporte un uso constante de estas visualizaciones y mayor efectividad en intervenciones preventivas.
+**Sabremos que** esto es verdad porque disminuirán las complicaciones derivadas de deterioros no detectados oportunamente.
+
+**Creemos que** al brindar a los familiares acceso remoto y en cualquier momento, mejorará su sensación de acompañamiento y participación en el cuidado de sus seres queridos.
+**Sabremos que** hemos tenido éxito cuando aumente la frecuencia de accesos y consultas fuera del horario de visitas.
+**Sabremos que** esto es verdad porque los familiares manifestarán una mayor conexión emocional y compromiso con el cuidado.
+
 ##### 1.2.2.4. Lean UX Canvas
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
 ### 1.3. Segmentos objetivo
@@ -810,6 +823,7 @@ Epic que agrupa funcionalidades sobre salud, actividades y bienestar emocional d
 | US-14 | Recibir notificaciones de cambios | Como familiar, quiero recibir notificaciones cuando hay cambios importantes en el estado de mi familiar. | "Given hay un cambio relevante (crítico o anormal). When se registra el evento. Then el sistema genera una alerta que llega al familiar por el canal configurado." | EP-001 |
 | US-15 | Filtrar residentes por estado de salud | Como cuidador, quiero filtrar a los residentes según su estado de salud para priorizar la atención. | "Given el cuidador accede a la lista. When usa los filtros. Then el sistema muestra solo residentes con el estado seleccionado (crítico, estable, etc.)." | EP-001 |
 | US-28 | Ver lista de residentes asignados | Como cuidador, quiero ver solo a los residentes que tengo asignados para optimizar mi trabajo. | "Given el cuidador está autenticado. When entra al módulo de residentes. Then el sistema filtra solo los que están bajo su responsabilidad." | EP-001 |
+| US-37 | Consultar historial de paciente | Como médico, quiero consultar el historial clínico del residente para revisar diagnósticos y tratamientos previos. | "Given el médico ha iniciado sesión. When accede al perfil del residente. Then visualiza un historial ordenado con diagnósticos, tratamientos y fechas." | EP-001 |
 
 Epic: Interacción Familiar
 
@@ -867,6 +881,33 @@ Epic que agrupa funcionalidades para la visualización de tendencias y generaci�
 | US-26 | Descargar reporte en PDF | Como familiar, quiero descargar el reporte semanal en formato PDF para archivarlo o compartirlo. | "Given hay un reporte disponible. When hace clic en “Descargar PDF”. Then el sistema genera el archivo y permite su descarga inmediata." | EP-005 |
 | US-27 | Ver tendencias de salud por categoría | Como cuidador, quiero ver tendencias por categorías (nutrición, movilidad, ánimo) para ajustar planes de cuidado. | "Given el cuidador accede a la vista de métricas. When selecciona una categoría. Then el sistema muestra la evolución gráfica correspondiente." | EP-005 |
 | US-30 | Recibir recordatorios para revisar informes | Como familiar, quiero recibir recordatorios semanales para revisar los reportes y estar al tanto del estado del residente. | "Given es fin de semana. When el sistema detecta que hay un nuevo reporte. Then se envía un recordatorio vía correo o notificación push configurada." | EP-005 |
+| US-38 | Generar reporte clínico por paciente	Como médico, quiero generar un reporte clínico por paciente para registrar diagnósticos, tratamientos y observaciones médicas. | "Given el médico accede al perfil del residente. When completa el formulario de reporte clínico. Then el sistema guarda y vincula el reporte con fecha y autor." | EP-005 |
+| US-39 | Gestionar reporte clínico del residente | Como médico, quiero poder crear, editar o eliminar un reporte clínico desde la interfaz para mantener la información médica actualizada. | "Given el médico está autenticado. When accede a un reporte clínico. Then puede editar su contenido o eliminarlo si es necesario." | EP-005 |
+
+Epic: Gestión de Personal Médico
+
+Epic ID: E006
+
+Epic que agrupa funciones como registrar, editar o eliminar perfiles de doctores y enfermeros.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-31	| Registrar doctor | Como administrador, quiero registrar un nuevo doctor para asignarlo a los residentes y que pueda hacer seguimiento médico. | "Given el administrador accede al sistema. When completa el formulario de registro del doctor. Then el sistema guarda sus datos y lo asocia al equipo médico." | EP-006 | 
+| US-32 | Editar doctor existente | Como administrador, quiero editar la información de un doctor ya registrado para mantener sus datos actualizados. | "Given el administrador está autenticado. When accede al perfil del doctor. Then puede modificar campos como especialidad, correo o teléfono y guardar los cambios." | EP-006 |
+| US-33 | Registrar enfermero | Como administrador, quiero registrar un nuevo enfermero para gestionar sus funciones dentro del sistema. | "Given el administrador accede al sistema. When completa los datos del enfermero. Then el sistema guarda la información y lo agrega al personal activo." | EP-006 |
+| US-34 | Registrar nuevo paciente (interfaz) | Como encargado, quiero registrar un nuevo paciente desde la interfaz para que quede almacenado en el sistema y se le pueda hacer seguimiento. | "Given el encargado está autenticado. When llena el formulario con los datos del paciente. Then el sistema valida y guarda los datos correctamente." | EP-006 |
+
+Epic: Gestión de Medicamentos
+
+Epic ID: E007
+
+Epic que agrupa funcionalidades relacionadas con registro, seguimiento y control de medicamentos.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-35 | Registrar medicina | Como encargado, quiero registrar una nueva medicina para llevar control del tratamiento de los residentes. | "Given el encargado está autenticado. When llena el formulario de medicina. Then el sistema guarda el nombre, dosis, fecha de vencimiento y observaciones." | EP-007 | 
+| US-36 | Eliminar medicina caducada | Como encargado, quiero eliminar medicinas vencidas del sistema para mantener el stock actualizado y evitar errores de medicación. | "Given hay medicinas caducadas. When el encargado selecciona una y hace clic en eliminar. Then el sistema la retira del listado y muestra confirmación." | EP-007 | 
+
 
 ### 3.3. Impact Mapping
 
@@ -911,6 +952,15 @@ Este backlog ha sido construido a partir de las historias de usuario previamente
 | 28 | US-22 | Obtener historial de actividades (API) | Como developer, quiero obtener el historial de actividades de un residente para mostrarlo en su perfil. | 3 |
 | 29 | US-23 | Eliminar registro médico (API) | Como developer, quiero eliminar un registro médico incorrecto desde el API. | 2 |
 | 30 | US-24 | Consultar métricas de salud (API) | Como developer, quiero obtener métricas resumidas del estado de un residente para visualizaciones en el dashboard. | 3 |
+| 31 | US-31 | Registrar doctor | Como administrador, quiero registrar la información de un doctor para mantener actualizada la base de datos médica del asilo. | 3 |
+| 32 | US-32 | 	Editar doctor existente | Como administrador, quiero poder actualizar los datos de un doctor para corregir información o reflejar cambios en el personal. | 2 |
+| 33 | US-33 | 	ECrear perfil de enfermero | Como administrador, quiero registrar el perfil de un enfermero para tener un control del personal asistencial disponible. | 3 |
+| 34 | US-34 | Registrar medicina | Como personal médico, quiero registrar nuevas medicinas en el sistema para controlar su uso en el tratamiento de los residentes. | 3 |
+| 35 | US-35 | Eliminar medicina caducada | Como personal médico, quiero eliminar medicinas caducadas del sistema para evitar su uso por error. | 2 |
+| 36 | US-36 | 	Generar reporte clínico por paciente | Como cuidador o médico, quiero registrar reportes clínicos por paciente para documentar diagnósticos y tratamientos aplicados. | 3 |
+| 37 | US-37 | 	Consultar historial clínico del paciente | Como personal autorizado, quiero consultar el historial clínico de un paciente para entender su evolución médica. | 3 |
+| 38 | US-38 | 	Registrar residente desde el frontend | Como cuidador o administrador, quiero registrar un nuevo residente desde una interfaz visual para facilitar su ingreso al sistema. | 3 |
+| 39 | US-39 | 	Gestionar reportes clínicos | Como doctor o encargado, quiero registrar, editar y eliminar reportes clínicos desde un formulario, para mantener actualizada la información médica del paciente. | 5 |
 
 ## Capítulo IV: Product Design
 
@@ -1830,6 +1880,9 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
 ##### 5.2.1.1. Sprint Planning 1
 El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
 
@@ -1844,7 +1897,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
 | Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
 | Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
-| Sum of Story Points            | La suma de Story Points atendidos es de  15.                                            |
+| Sum of Story Points            | La suma de Story Points atendidos es de  22.                                            |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
@@ -1858,21 +1911,32 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 | Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
 
 ##### 5.2.1.3. Sprint Backlog 1
-Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
+Esta sección ofrece un resumen del objetivo central del sprint, resaltando las metas propuestas y las funcionalidades que se planean desarrollar. Seguidamente, se incluye una captura del tablero del sprint en la herramienta de gestión elegida, Trello, junto con su enlace público. También se presenta una tabla con las User Stories asignadas al sprint, los Work-items o tareas derivadas, y otras actividades adicionales requeridas para alcanzar los objetivos generales del sprint.
+
+Este es nuestro link de invitación a nuestro Trello:
+[https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
+
+<p align="center">
+  <img src="assets/image.png" alt="TrelloTB1"/>
+</p>  
 
 | **Sprint #**   | Sprint 1   |             |             |             |             |             |             |
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             | **Work-Item/task** |             |             |             |             |             |
 | **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**        | **Estimación (hrs)** | **Assigned to**    | **Status** |
-| US-06          | Conocer los servicios                  | T01          | Crear una página para que se puedan conocer los servicios.            | Facilitar el acceso a información sobre los servicios del proyecto. | 0.5                   | Jeremy Quijada    | Done |
-| US-07          | Leer la misión y visión del proyecto   | T02          | Crear una sección para poder conocer la misión y visión del proyecto. | Ayudar a los usuarios a entender los objetivos y valores del proyecto. | 1                   | Jeremy Quijada    | Done |
-| US-08          | Visualizar preguntas frecuentes        | T03          | Crear una sección para ver las preguntas frecuentes                   | Ofrecer respuestas rápidas a preguntas comunes sobre el proyecto.  | 1                   | Jeremy Quijada    | Done |
-| US-16          | Ver equipo profesional del asilo       | T04          | Crear una sección para ver los equipos profesionales de los asilos    | Mostrar información sobre el equipo y su experiencia profesional.   | 1                   | Jeremy Quijada    | Done |
-| US-17          | Solicitar información desde la web     | T05          | Crear un formulario para solicitar más información del proyecto.      | Brindar a los usuarios una forma de comunicarse directamente.       | 1.5                   | Jeremy Quijada    | Done |
-| US-18          | Ver testimonios y casos de éxito       | T06          | Crear una sección para mostrar testimonios y casos exitosos.          | Compartir historias reales para generar confianza en el proyecto.   | 2                 | Jeremy Quijada    | Done |
-| US-19          | Descargar folleto informativo          | T07          | Crear una opción para descargar un folleto con información relevante. | Proveer información detallada sobre el proyecto en formato digital. | 0.5                 | Jeremy Quijada    | Done |
-
+| US-06 | Conocer los servicios	 | TS001 | Diseño UI sección servicios | Crear el diseño visual para la sección de servicios. | 3 | Jeremy Quijada | Done |
+| US-06 | Conocer los servicios	 | TS002 | Implementar sección servicios | Codificar la sección para mostrar los servicios. | 4 | Jeremy Quijada | Done |
+| US-07 | Leer la misión y visión del proyecto | TS003 | 	Diseño UI sección misión y visión | Crear diseño para la sección de misión y visión. | 2 | Jeremy Quijada | Done |
+| US-07 | Leer la misión y visión del proyecto | TS004 | 	Implementar sección misión y visión | Programar la sección con el contenido correspondiente. | 3 | Jeremy Quijada | Done |
+| US-08 | Visualizar preguntas frecuentes | TS005 | Diseño UI sección FAQ | Definir el diseño para la sección de preguntas frecuentes. | 2 | Jeremy Quijada | Done |
+| US-08 | Visualizar preguntas frecuentes | TS006 | 	Implementar sección FAQ | Programar funcionalidad para mostrar preguntas y respuestas. | 3 | Jeremy Quijada | Done |
+| US-16 | Ver equipo profesional del asilo | TS007 | Diseño UI sección equipo profesional | Diseño visual para mostrar el equipo profesional. | 2 | Jeremy Quijada | Done |
+| US-16 | Ver equipo profesional del asilo | TS008 | Implementar sección equipo profesional | Implementar la sección para listar el equipo. | 3 | Jeremy Quijada | Done |
+| US-17 | Solicitar información desde la web | TS009 | Diseño UI formulario de contacto | Diseñar formulario para solicitud de información. | 2 | Jeremy Quijada | Done |
+| US-17 | Solicitar información desde la web | TS010 | Implementar formulario contacto | Programar formulario. | 2 | Jeremy Quijada | Done |
+| US-18 | Ver testimonios y casos de éxito | TS011 | 	Diseño UI sección testimonios | Diseñar presentación para testimonios y casos. | 2 | Jeremy Quijada | Done |
+| US-18 | Ver testimonios y casos de éxito | TS012 | Implementar sección testimonios | Codificar funcionalidad para mostrar testimonios. | 3 | Jeremy Quijada | Done |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
  En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page.
@@ -1976,6 +2040,153 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 <p align="center">
   <img src="./assets/Insights_Pulse1.jpg" alt="Insght_Pls"/>
 </p>  
+
+#### 5.2.2. Sprint 2
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
+##### 5.2.2.1. Sprint Planning 2
+En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los objetivos, entregables y tareas asignadas para el sprint. A continuación, se presenta un cuadro con los detalles acordados.
+
+| Sprint #                             | Sprint 2                                                                                              |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-05-10        |
+| Time           | 10:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Mauricio Muñoz               |
+| Attendees (to planning meeting)| Jeremy Quijada, Franco Huang, Fatima Asmad, Mauricio Muñoz, Ramiro Guzman                    |
+| Sprint 2 - 1 Review Summary    | Se han realizado mejoras en varios aspectos del informe según las sugerencias del profesor, además de haber desarrollado una primera versión de nuestra aplicación Front End, la cual continuará evolucionando en próximas entregas. |
+| Sprint 2 - 1 Retrospective Summary | Se logró un progreso razonable durante el sprint 2: si bien no se completaron tantas pantallas como se había previsto, el equipo mejoró significativamente en comunicación y trabajo colaborativo, lo que permitió alcanzar un avance satisfactorio en el desarrollo de la aplicación. |
+| Sprint 2 Goal                  | En este sprint, nos enfocamos principalmente en mejorar la calidad de la información presentada en los reportes e implementar la primera versión del Front End de la aplicación. Durante esta fase, desarrollamos diversos módulos con operaciones CRUD (crear, leer, actualizar y eliminar) que permiten gestionar distintos recursos del sistema. Esperamos que esta versión inicial proporcione una visualización clara de las funcionalidades esenciales y del diseño de la interfaz. La efectividad de este avance se validará mediante la interacción de los usuarios con las funcionalidades desarrolladas y la retroalimentación positiva sobre la experiencia de uso. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 17 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  22. |
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Mauricio Muñoz Vilcapoma | MauricioMVilcapoma  | L  | 
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  
+| Jeremy Quijada Magro   | jhonson2021    | C         | 
+| Franco Huang Liu       | St4rLght05     | C         |  
+| Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
+
+##### 5.2.2.3. Sprint Backlog 2
+
+Esta sección ofrece un resumen del objetivo central del sprint, resaltando las metas propuestas y las funcionalidades que se planean desarrollar. Seguidamente, se incluye una captura del tablero del sprint en la herramienta de gestión elegida, Trello, junto con su enlace público. También se presenta una tabla con las User Stories asignadas al sprint, los Work-items o tareas derivadas, y otras actividades adicionales requeridas para alcanzar los objetivos generales del sprint.
+
+Este es nuestro link de invitación a nuestro Trello:
+[https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
+
+<p align="center">
+  <img src="assets/TRELLO-TP.png" alt="TrelloTP"/>
+</p>  
+
+| User Story ID | User Story | Work-Item / Task ID | Work-Item / Task Title | Description | Estimation (Hours) | Status |
+|---------------|------------|---------------------|------------------------|-------------|--------------------|--------|
+| US-31 | Registrar doctor | TS001 | Crear formulario de registro |  Crear componente visual para registrar un doctor | 3  | Done  |
+| US-31 | Registrar doctor | TS002 | Implementar validaciones	 | Añadir validaciones básicas para el formulario de registro  |  2 | Done  |
+| US-31 | Registrar doctor | TS003 | Integrar API de registro	 | Enviar datos del formulario al backend usando una API  | 3  |  Done |
+| US-31 | Registrar doctor | TS004 | Actualizar UI tras registro	 | Refrescar o redirigir la vista una vez se haya registrado correctamente  | 2  | Done  |
+| US-32	 | Editar doctor existente | TS005 | Crear formulario de edición | Crear componente para editar datos de un doctor ya existente | 3 |  Done | 
+| US-32	 | Editar doctor existente | TS006 | Implementar validaciones | Validar los campos editables del formulario | 2 | Done  |
+| US-32	 | Editar doctor existente | TS007 | Integrar API de edición | Conectar con el backend para actualizar los datos del doctor | 3 |  Done |
+| US-32	 | Editar doctor existente | TS008 | Feedback visual | Mostrar resultado de la operación al usuario | 2 | Done  |
+| US-33	 | Crear perfil de enfermero | TS008 | Crear formulario de registro | Componente visual para registrar un enfermero | 3 | Done  |
+| US-33	 | Crear perfil de enfermero | TS009 | Validaciones del formulario | Añadir validaciones básicas en los campos del formulario | 2 | Done  |
+| US-33	 | Crear perfil de enfermero | TS010 | Enviar datos a API | Enviar los datos del formulario al backend | 3 |  Done |
+| US-33	 | Crear perfil de enfermero | TS011 | Mostrar mensajes al usuario | Mensajes de éxito o error tras envío de datos | 2 | Done  |
+| US-34	 | Registrar medicina | TS012 | Crear formulario de registro | Componente para registrar nueva medicina | 3 |  Done  |
+| US-34	 | Registrar medicina | TS013 | Validaciones del formulario | Validaciones generales en campos del formulario | 2 | Done  | 
+| US-34	 | Registrar medicina | TS014 | Integrar con API | Enviar los datos al backend usando una API | 3 | Done  |
+| US-34	 | Registrar medicina | TS015 | Feedback al usuario | Confirmación de acción realizada o error | 2 |  Done |
+| US-35	 | Eliminar medicina caducada | TS016 | Crear lista de medicinas | Mostrar listado de medicinas con opción para eliminar | 3 |  Done |
+| US-35	 | Eliminar medicina caducada | TS017 | Confirmación antes de eliminar | Mostrar diálogo para confirmar eliminación | 2 | Done  |
+| US-35	 | Eliminar medicina caducada | TS018 | Llamar API de eliminación | Conectar con API DELETE del backend | 2 | Done  |
+| US-35	 | Eliminar medicina caducada | TS019 | Actualizar UI | Refrescar vista tras eliminación exitosa | 2 |  Done |
+| US-38	 | Registrar nuevo paciente | TS020 | Crear formulario de registro | Componente visual para registrar un paciente | 3 |  Done |
+| US-38	 | Registrar nuevo paciente | TS021 | Añadir validaciones | Validaciones generales en formulario | 2 |  Done |
+| US-38	 | Registrar nuevo paciente | TS022 | Conectar con API | Enviar los datos del formulario al backend | 3 | Done  | 
+| US-38	 | Registrar nuevo paciente | TS023 | Feedback de operación | Mostrar mensajes de resultado al usuario | 2 | Done  |
+| US-37	 | Consultar historial de paciente | TS024 | Crear componente de historial | Vista que muestre el historial del paciente | 3 |  Done |
+| US-37	 | Consultar historial de paciente | TS025 | Llamar API para obtener datos | Obtener historial clínico desde el backend | 3 | Done  |
+| US-37	 | Consultar historial de paciente | TS026 | Mostrar datos en UI | Presentar los datos de forma clara en pantalla | 2 |  Done |
+| US-39	 | Gestionar reportes clínicos | TS027 | Crear formulario para nuevo reporte clínico | Incluir todos los campos pertinentes | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS028 | 	Implementar validaciones en frontend | Campos obligatorios, formatos válidos | 2 |  Done |
+| US-39	 | Gestionar reportes clínicos | TS029 | Enviar reporte a backend | 	Conectar con API para crear reporte (POST /reports) | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS030 | Habilitar edición de reportes (PUT /reports/{id}) | Precarga de datos + lógica de actualización | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS031 | Habilitar eliminación de reportes (DELETE /reports/{id}) | Botón, confirmación y actualización de UI | 1 | Done  |
+
+##### 5.2.2.4. Development Evidence for Sprint Review
+
+
+En la siguiente tabla se presentan los commits realizados durante el Sprint 2. En este sprint nos enfocamos en corregir observaciones clave de la primera entrega, como reformular los antecedentes y problemáticas, ajustar los Lean UX statements, completar el Impact Mapping y rehacer los diagramas de arquitectura, clases y base de datos. Además, se desarrolló y desplegó una versión inicial del backend con los principales CRUDs.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Backlog 1 | e149c75   | fix: update and correct Sprint Backlog 1  |    | 15/05/2025        |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Planning 1 |  c5a02fc   | fix: update and correct Sprint Planning 1 |       | 15/05/2025          |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and improve Lean UX Hypothesis Statements | 5225de6   | fix: revise and improve Lean UX Hypothesis Statements   |     | 15/05/2025          |
+| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and correct Antecedentes y Problematica | 6e0553c   | fix: revise and correct Antecedentes y Problematica |              | 15/05/2025         |
+| SmartFinance-OpenSource/OpenSource-4328 | fix/Domain-Driven | 00a905a   | fix: Domain Container |              | 15/05/2025         |
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+En esta entrega se realizaron mejoras al Landing Page respecto a la versión presentada en el Sprint 1, optimizando su diseño y funcionalidad. Por otro lado, cada integrante del equipo implementó y desplegó su propio CRUD del backend, consolidando así el progreso técnico del proyecto.
+
+- Landing Page
+<p align="center">
+  <img src="assets/CRUD-LandingPageSprint2.jpg" alt="LandingPageSprint2"/>
+</p> 
+
+<p align="center">
+  <img src="assets/CRUD-LandingPageSprint2.1.jpg" alt="LandingPageSprint2.1"/>
+</p> 
+
+[https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/](https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/)
+
+- Backend
+
+  - CRUD Doctores
+    
+<p align="center">
+  <img src="assets/CRUD-Doctores.jpg" alt="CRUD-Doctores"/>
+</p> 
+[https://agecare-guzman.web.app/doctors](https://agecare-guzman.web.app/doctors)
+
+  - CRUD Enfermeras
+  
+<p align="center">
+  <img src="assets/CRUD-Enfermeras1.jpg" alt="CRUD-Enfermeras1"/>
+</p> 
+<p align="center">
+  <img src="assets/CRUD-Enfermeras2.jpg" alt="CRUD-Enfermeras2"/>
+</p> 
+
+[https://agecare-quijada.web.app/learning/students](https://agecare-quijada.web.app/learning/students)
+
+  - CRUD Pacientes
+    
+<p align="center">
+  <img src="assets/CRUD-Pacientes.jpg" alt="CRUD-Pacientes"/>
+</p> 
+
+[https://frontend-agecare.web.app/core/residents](https://frontend-agecare.web.app/core/residents)
+
+  - CRUD Reportes
+    
+<p align="center">
+  <img src="assets/CRUD-Reportes.jpg" alt="CRUD-Reportes"/>
+</p> 
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
