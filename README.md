@@ -804,6 +804,7 @@ Epic que agrupa funcionalidades sobre salud, actividades y bienestar emocional d
 | US-14 | Recibir notificaciones de cambios | Como familiar, quiero recibir notificaciones cuando hay cambios importantes en el estado de mi familiar. | "Given hay un cambio relevante (crítico o anormal). When se registra el evento. Then el sistema genera una alerta que llega al familiar por el canal configurado." | EP-001 |
 | US-15 | Filtrar residentes por estado de salud | Como cuidador, quiero filtrar a los residentes según su estado de salud para priorizar la atención. | "Given el cuidador accede a la lista. When usa los filtros. Then el sistema muestra solo residentes con el estado seleccionado (crítico, estable, etc.)." | EP-001 |
 | US-28 | Ver lista de residentes asignados | Como cuidador, quiero ver solo a los residentes que tengo asignados para optimizar mi trabajo. | "Given el cuidador está autenticado. When entra al módulo de residentes. Then el sistema filtra solo los que están bajo su responsabilidad." | EP-001 |
+| US-37 | Consultar historial de paciente | Como médico, quiero consultar el historial clínico del residente para revisar diagnósticos y tratamientos previos. | "Given el médico ha iniciado sesión. When accede al perfil del residente. Then visualiza un historial ordenado con diagnósticos, tratamientos y fechas." | EP-001 |
 
 Epic: Interacción Familiar
 
@@ -861,6 +862,33 @@ Epic que agrupa funcionalidades para la visualización de tendencias y generaci�
 | US-26 | Descargar reporte en PDF | Como familiar, quiero descargar el reporte semanal en formato PDF para archivarlo o compartirlo. | "Given hay un reporte disponible. When hace clic en “Descargar PDF”. Then el sistema genera el archivo y permite su descarga inmediata." | EP-005 |
 | US-27 | Ver tendencias de salud por categoría | Como cuidador, quiero ver tendencias por categorías (nutrición, movilidad, ánimo) para ajustar planes de cuidado. | "Given el cuidador accede a la vista de métricas. When selecciona una categoría. Then el sistema muestra la evolución gráfica correspondiente." | EP-005 |
 | US-30 | Recibir recordatorios para revisar informes | Como familiar, quiero recibir recordatorios semanales para revisar los reportes y estar al tanto del estado del residente. | "Given es fin de semana. When el sistema detecta que hay un nuevo reporte. Then se envía un recordatorio vía correo o notificación push configurada." | EP-005 |
+| US-38 | Generar reporte clínico por paciente	Como médico, quiero generar un reporte clínico por paciente para registrar diagnósticos, tratamientos y observaciones médicas. | "Given el médico accede al perfil del residente. When completa el formulario de reporte clínico. Then el sistema guarda y vincula el reporte con fecha y autor." | EP-005 |
+| US-39 | Gestionar reporte clínico del residente | Como médico, quiero poder crear, editar o eliminar un reporte clínico desde la interfaz para mantener la información médica actualizada. | "Given el médico está autenticado. When accede a un reporte clínico. Then puede editar su contenido o eliminarlo si es necesario." | EP-005 |
+
+Epic: Gestión de Personal Médico
+
+Epic ID: E006
+
+Epic que agrupa funciones como registrar, editar o eliminar perfiles de doctores y enfermeros.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-31	| Registrar doctor | Como administrador, quiero registrar un nuevo doctor para asignarlo a los residentes y que pueda hacer seguimiento médico. | "Given el administrador accede al sistema. When completa el formulario de registro del doctor. Then el sistema guarda sus datos y lo asocia al equipo médico." | EP-006 | 
+| US-32 | Editar doctor existente | Como administrador, quiero editar la información de un doctor ya registrado para mantener sus datos actualizados. | "Given el administrador está autenticado. When accede al perfil del doctor. Then puede modificar campos como especialidad, correo o teléfono y guardar los cambios." | EP-006 |
+| US-33 | Registrar enfermero | Como administrador, quiero registrar un nuevo enfermero para gestionar sus funciones dentro del sistema. | "Given el administrador accede al sistema. When completa los datos del enfermero. Then el sistema guarda la información y lo agrega al personal activo." | EP-006 |
+| US-34 | Registrar nuevo paciente (interfaz) | Como encargado, quiero registrar un nuevo paciente desde la interfaz para que quede almacenado en el sistema y se le pueda hacer seguimiento. | "Given el encargado está autenticado. When llena el formulario con los datos del paciente. Then el sistema valida y guarda los datos correctamente." | EP-006 |
+
+Epic: Gestión de Medicamentos
+
+Epic ID: E007
+
+Epic que agrupa funcionalidades relacionadas con registro, seguimiento y control de medicamentos.
+
+| Epic/Story ID | Título | Descripción | 	Criterios de Aceptación | Relacionado con (Epic ID) |
+|---------------|---------|-------------|--------------------------|---------------------------|
+| US-35 | Registrar medicina | Como encargado, quiero registrar una nueva medicina para llevar control del tratamiento de los residentes. | "Given el encargado está autenticado. When llena el formulario de medicina. Then el sistema guarda el nombre, dosis, fecha de vencimiento y observaciones." | EP-007 | 
+| US-36 | Eliminar medicina caducada | Como encargado, quiero eliminar medicinas vencidas del sistema para mantener el stock actualizado y evitar errores de medicación. | "Given hay medicinas caducadas. When el encargado selecciona una y hace clic en eliminar. Then el sistema la retira del listado y muestra confirmación." | EP-007 | 
+
 
 ### 3.3. Impact Mapping
 
@@ -905,6 +933,15 @@ Este backlog ha sido construido a partir de las historias de usuario previamente
 | 28 | US-22 | Obtener historial de actividades (API) | Como developer, quiero obtener el historial de actividades de un residente para mostrarlo en su perfil. | 3 |
 | 29 | US-23 | Eliminar registro médico (API) | Como developer, quiero eliminar un registro médico incorrecto desde el API. | 2 |
 | 30 | US-24 | Consultar métricas de salud (API) | Como developer, quiero obtener métricas resumidas del estado de un residente para visualizaciones en el dashboard. | 3 |
+| 31 | US-31 | Registrar doctor | Como administrador, quiero registrar la información de un doctor para mantener actualizada la base de datos médica del asilo. | 3 |
+| 32 | US-32 | 	Editar doctor existente | Como administrador, quiero poder actualizar los datos de un doctor para corregir información o reflejar cambios en el personal. | 2 |
+| 33 | US-33 | 	ECrear perfil de enfermero | Como administrador, quiero registrar el perfil de un enfermero para tener un control del personal asistencial disponible. | 3 |
+| 34 | US-34 | Registrar medicina | Como personal médico, quiero registrar nuevas medicinas en el sistema para controlar su uso en el tratamiento de los residentes. | 3 |
+| 35 | US-35 | Eliminar medicina caducada | Como personal médico, quiero eliminar medicinas caducadas del sistema para evitar su uso por error. | 2 |
+| 36 | US-36 | 	Generar reporte clínico por paciente | Como cuidador o médico, quiero registrar reportes clínicos por paciente para documentar diagnósticos y tratamientos aplicados. | 3 |
+| 37 | US-37 | 	Consultar historial clínico del paciente | Como personal autorizado, quiero consultar el historial clínico de un paciente para entender su evolución médica. | 3 |
+| 38 | US-38 | 	Registrar residente desde el frontend | Como cuidador o administrador, quiero registrar un nuevo residente desde una interfaz visual para facilitar su ingreso al sistema. | 3 |
+| 39 | US-39 | 	Gestionar reportes clínicos | Como doctor o encargado, quiero registrar, editar y eliminar reportes clínicos desde un formulario, para mantener actualizada la información médica del paciente. | 5 |
 
 ## Capítulo IV: Product Design
 
@@ -1939,6 +1976,50 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 | Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
 
 ##### 5.2.2.3. Sprint Backlog 2
+
+Esta sección ofrece un resumen del objetivo central del sprint, resaltando las metas propuestas y las funcionalidades que se planean desarrollar. Seguidamente, se incluye una captura del tablero del sprint en la herramienta de gestión elegida, Trello, junto con su enlace público. También se presenta una tabla con las User Stories asignadas al sprint, los Work-items o tareas derivadas, y otras actividades adicionales requeridas para alcanzar los objetivos generales del sprint.
+
+Este es nuestro link de invitación a nuestro Trello:
+[https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
+
+<p align="center">
+  <img src="assets/image.png" alt="TrelloTP"/>
+</p>  
+
+| User Story ID | User Story | Work-Item / Task ID | Work-Item / Task Title | Description | Estimation (Hours) | Status |
+|---------------|------------|---------------------|------------------------|-------------|--------------------|--------|
+| US-31 | Registrar doctor | TS001 | Crear formulario de registro |  Crear componente visual para registrar un doctor | 3  | Done  |
+| US-31 | Registrar doctor | TS002 | Implementar validaciones	 | Añadir validaciones básicas para el formulario de registro  |  2 | Done  |
+| US-31 | Registrar doctor | TS003 | Integrar API de registro	 | Enviar datos del formulario al backend usando una API  | 3  |  Done |
+| US-31 | Registrar doctor | TS004 | Actualizar UI tras registro	 | Refrescar o redirigir la vista una vez se haya registrado correctamente  | 2  | Done  |
+| US-32	 | Editar doctor existente | TS005 | Crear formulario de edición | Crear componente para editar datos de un doctor ya existente | 3 |  Done | 
+| US-32	 | Editar doctor existente | TS006 | Implementar validaciones | Validar los campos editables del formulario | 2 | Done  |
+| US-32	 | Editar doctor existente | TS007 | Integrar API de edición | Conectar con el backend para actualizar los datos del doctor | 3 |  Done |
+| US-32	 | Editar doctor existente | TS008 | Feedback visual | Mostrar resultado de la operación al usuario | 2 | Done  |
+| US-33	 | Crear perfil de enfermero | TS008 | Crear formulario de registro | Componente visual para registrar un enfermero | 3 | Done  |
+| US-33	 | Crear perfil de enfermero | TS009 | Validaciones del formulario | Añadir validaciones básicas en los campos del formulario | 2 | Done  |
+| US-33	 | Crear perfil de enfermero | TS010 | Enviar datos a API | Enviar los datos del formulario al backend | 3 |  Done |
+| US-33	 | Crear perfil de enfermero | TS011 | Mostrar mensajes al usuario | Mensajes de éxito o error tras envío de datos | 2 | Done  |
+| US-34	 | Registrar medicina | TS012 | Crear formulario de registro | Componente para registrar nueva medicina | 3 |  Done  |
+| US-34	 | Registrar medicina | TS013 | Validaciones del formulario | Validaciones generales en campos del formulario | 2 | Done  | 
+| US-34	 | Registrar medicina | TS014 | Integrar con API | Enviar los datos al backend usando una API | 3 | Done  |
+| US-34	 | Registrar medicina | TS015 | Feedback al usuario | Confirmación de acción realizada o error | 2 |  Done |
+| US-35	 | Eliminar medicina caducada | TS016 | Crear lista de medicinas | Mostrar listado de medicinas con opción para eliminar | 3 |  Done |
+| US-35	 | Eliminar medicina caducada | TS017 | Confirmación antes de eliminar | Mostrar diálogo para confirmar eliminación | 2 | Done  |
+| US-35	 | Eliminar medicina caducada | TS018 | Llamar API de eliminación | Conectar con API DELETE del backend | 2 | Done  |
+| US-35	 | Eliminar medicina caducada | TS019 | Actualizar UI | Refrescar vista tras eliminación exitosa | 2 |  Done |
+| US-38	 | Registrar nuevo paciente | TS020 | Crear formulario de registro | Componente visual para registrar un paciente | 3 |  Done |
+| US-38	 | Registrar nuevo paciente | TS021 | Añadir validaciones | Validaciones generales en formulario | 2 |  Done |
+| US-38	 | Registrar nuevo paciente | TS022 | Conectar con API | Enviar los datos del formulario al backend | 3 | Done  | 
+| US-38	 | Registrar nuevo paciente | TS023 | Feedback de operación | Mostrar mensajes de resultado al usuario | 2 | Done  |
+| US-37	 | Consultar historial de paciente | TS024 | Crear componente de historial | Vista que muestre el historial del paciente | 3 |  Done |
+| US-37	 | Consultar historial de paciente | TS025 | Llamar API para obtener datos | Obtener historial clínico desde el backend | 3 | Done  |
+| US-37	 | Consultar historial de paciente | TS026 | Mostrar datos en UI | Presentar los datos de forma clara en pantalla | 2 |  Done |
+| US-39	 | Gestionar reportes clínicos | TS027 | Crear formulario para nuevo reporte clínico | Incluir todos los campos pertinentes | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS028 | 	Implementar validaciones en frontend | Campos obligatorios, formatos válidos | 2 |  Done |
+| US-39	 | Gestionar reportes clínicos | TS029 | Enviar reporte a backend | 	Conectar con API para crear reporte (POST /reports) | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS030 | Habilitar edición de reportes (PUT /reports/{id}) | Precarga de datos + lógica de actualización | 2 | Done  |
+| US-39	 | Gestionar reportes clínicos | TS031 | Habilitar eliminación de reportes (DELETE /reports/{id}) | Botón, confirmación y actualización de UI | 1 | Done  |
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
