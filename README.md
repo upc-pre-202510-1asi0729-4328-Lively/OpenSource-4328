@@ -2281,6 +2281,12 @@ Al acceder al link, podemos ver la página correctamente desplegada.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+![Evidence](./assets/Evidence1.png)
+
+![Evidence2](./assets/Evidence2.png)
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
