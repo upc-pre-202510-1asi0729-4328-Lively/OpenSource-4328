@@ -260,20 +260,18 @@ Este problema afecta a cientos de adultos mayores en asilos en Lima y a sus fami
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+
 **Problem Statment 1:**
-**Usuarios:** Familiares de adultos mayores que residen en asilos.
-**Necesdad:** Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
-**Solución:** Nuestra plataforma proporciona actualizaciones en tiempo real sobre el estado físico y emocional de los residentes, así como herramientas para una comunicación fluida con el personal del asilo.
+Usuarios: Familiares de adultos mayores que residen en asilos.
+Necesidad: Necesitan mantenerse informados sobre el estado de salud y bienestar de sus seres queridos, pero actualmente no tienen acceso a información en tiempo real ni canales efectivos de comunicación.
 
 **Problem Statment 2:**
-**Usuarios:** Personal de cuidado en asilos de ancianos.
-**Necesdad:** Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.
-**Solución:** AgeCareDB ofrece una interfaz intuitiva para el registro de datos clínicos y emocionales, facilitando el seguimiento del estado de cada residente y mejorando la coordinación del equipo de atención.
+Usuarios: Personal de cuidado en asilos de ancianos.
+Necesidad: Necesitan una forma más eficiente de registrar, organizar y compartir información sobre la salud y el estado emocional de los residentes, sin interrumpir sus labores cotidianas.
 
 **Problem Statment 3:**
-**Usuarios:** Directores o administradores de asilos.
-**Necesdad:** Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
-**Solución:** Nuestra plataforma genera reportes detallados y visualizaciones del bienestar general de los residentes, permitiendo tomar decisiones informadas y demostrar compromiso con la calidad del servicio.
+Usuarios: Directores o administradores de asilos.
+Necesidad: Buscan garantizar una atención de calidad y mantener la confianza de las familias, pero carecen de herramientas que respalden decisiones basadas en datos y evidencias.
 
 ##### 1.2.2.2. Lean UX Assumptions
 **¿Quiénes son nuestros usuarios?**
@@ -305,15 +303,31 @@ Este problema afecta a cientos de adultos mayores en asilos en Lima y a sus fami
 **R:** La plataforma debe tener un diseño cálido, humano y profesional, con una interfaz clara y amigable tanto para personal médico como para familiares no técnicos. Debe transmitir confianza, ser accesible y mostrar los datos de manera visual y comprensible. Su comportamiento debe ser fluido, confiable y siempre centrado en facilitar el bienestar del residente y la conexión emocional entre familias y cuidadores.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
-**Creemos que** al implementar una sección de reportes visuales sobre el estado físico y emocional del residente, los familiares se sentirán más tranquilos y confiados respecto al cuidado que recibe su ser querido.
-**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares califiquen como útil o muy útil esta sección en las encuestas de satisfacción.
-**Sabremos que** esto es verdad porque los reportes han sido visualizados con frecuencia y han generado comentarios positivos sobre la mejora en la comunicación y transparencia.
-**Creemos que** al implementar un canal directo de mensajería entre familiares y el personal del asilo, se reducirá la ansiedad de los familiares y se fortalecerá la relación entre ambas partes.
-**Sabremos que** hemos tenido éxito cuando al menos el 60% de los usuarios activos utilicen este canal para comunicarse y lo califiquen como efectivo.
-**Sabremos que** esto es verdad porque veremos una reducción en las llamadas de quejas o incertidumbre, y un aumento en interacciones positivas vía plataforma.
-**Creemos que** al implementar un sistema de alertas automatizadas cuando un residente muestra signos tempranos de deterioro en su salud, el personal podrá actuar más rápido y con mayor precisión.
-**Sabremos que** hemos tenido éxito cuando el número de intervenciones tempranas registradas aumente y se refleje una disminución en emergencias médicas inesperadas.
-**Sabremos que** esto es verdad porque el sistema de alertas será usado regularmente por el personal y reportado como útil en las reuniones de seguimiento clínico.
+
+**Creemos que** al facilitar el acceso rápido a información confiable sobre el estado de salud de los residentes, los familiares reducirán su ansiedad y mejorarán su percepción sobre el cuidado recibido.
+**Sabremos que** hemos tenido éxito cuando más del 70% de los familiares reporten sentirse mejor informados y confiados en encuestas periódicas.
+**Sabremos que** esto es verdad porque aumentará la frecuencia y duración de las consultas de familiares en la plataforma.
+
+**Creemos que** al mejorar la eficiencia en el registro y organización de datos por parte del personal de cuidado, se reducirá su carga administrativa y aumentará el tiempo dedicado a la atención directa.
+**Sabremos que** hemos tenido éxito cuando el personal reporte una reducción significativa en el tiempo dedicado a tareas administrativas y un aumento en la satisfacción laboral.
+**Sabremos que** esto es verdad porque se registrará un mayor número de observaciones clínicas completas y oportunas.
+
+**Creemos que** al proveer a los administradores con información clara y datos confiables sobre el estado general de los residentes, se fortalecerá la toma de decisiones para mejorar la calidad del servicio.
+**Sabremos que** hemos tenido éxito cuando los administradores usen los datos para implementar mejoras y reporten mayor confianza en sus decisiones.
+**Sabremos que** esto es verdad porque se observará un aumento en la adopción de políticas basadas en datos y mayor satisfacción de las familias.
+
+**Creemos que** al reducir la dependencia de comunicaciones informales y dispersas, se disminuirán los errores y malentendidos sobre el cuidado de los residentes.
+**Sabremos que** hemos tenido éxito cuando se reduzcan los incidentes relacionados con falta de información o errores de comunicación.
+**Sabremos que** esto es verdad porque habrá menos quejas formales y reclamaciones por parte de familiares y personal.
+
+**Creemos que** al facilitar la visualización de tendencias y cambios en el bienestar emocional y físico de los residentes, el personal podrá anticipar problemas y mejorar el seguimiento individual.
+**Sabremos que** hemos tenido éxito cuando el personal reporte un uso constante de estas visualizaciones y mayor efectividad en intervenciones preventivas.
+**Sabremos que** esto es verdad porque disminuirán las complicaciones derivadas de deterioros no detectados oportunamente.
+
+**Creemos que** al brindar a los familiares acceso remoto y en cualquier momento, mejorará su sensación de acompañamiento y participación en el cuidado de sus seres queridos.
+**Sabremos que** hemos tenido éxito cuando aumente la frecuencia de accesos y consultas fuera del horario de visitas.
+**Sabremos que** esto es verdad porque los familiares manifestarán una mayor conexión emocional y compromiso con el cuidado.
+
 ##### 1.2.2.4. Lean UX Canvas
 ![Lean UX canva](https://github.com/user-attachments/assets/397aa686-7b40-49f8-bae5-5f70fa5c9d4a)
 ### 1.3. Segmentos objetivo
