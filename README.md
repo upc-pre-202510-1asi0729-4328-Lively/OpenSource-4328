@@ -73,6 +73,16 @@ A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron
 
 <p align="center">
   <img src="./assets/colasb2.png" alt="colab2" />
+
+## TP:
+
+A lo largo del desarrollo del TP, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+Aquí se pueden visualizar todos los commits realizados para la TP1, lo cual evidencia el trabajo colaborativo del equipo.
+<p align="center">
+  <img src="./assets/pulseTPOPEN.png" alt="pulseTPOPEN" />
+
+<p align="center">
+<img src="./assets/commitsTPOPEN.png" alt="commitsTPOPEN" />
   
 ---
 ## Contenido
