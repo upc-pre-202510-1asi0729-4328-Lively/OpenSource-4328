@@ -1810,6 +1810,9 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
 ##### 5.2.1.1. Sprint Planning 1
 El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
 
