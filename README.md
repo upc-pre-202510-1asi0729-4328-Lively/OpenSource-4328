@@ -45,7 +45,6 @@
 | TB1     | 20/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Style GuideLines and Information Architecture. |
 | TB1     | 22/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Domain-Design Software Architecture. |
 | TB1     | 23/04/2025  | Quijada Magro Jeremy Alexander    | Realicé Landing Page UI Design. |
-
 | TP1     | 10/05/2025  | Ramiro Alexander Guzmán Chávez        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Fátima Andrea Asmad Padilla           | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
