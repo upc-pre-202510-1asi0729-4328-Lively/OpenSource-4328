@@ -2139,11 +2139,11 @@ En esta entrega se realizaron mejoras al Landing Page respecto a la versión pre
 
 - Landing Page
 <p align="center">
-  <img src="assets/CRUD-LandingPageSprint2.jpg" alt="LandingPageSprint2"/>
+  <img src="assets/LandingPageSprint2.png" alt="LandingPageSprint2"/>
 </p> 
 
 <p align="center">
-  <img src="assets/CRUD-LandingPageSprint2.1.jpg" alt="LandingPageSprint2.1"/>
+  <img src="assets/LandingPageSprint2.1.png" alt="LandingPageSprint2.1"/>
 </p> 
 
 [https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/](https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/)
@@ -2171,7 +2171,7 @@ En esta entrega se realizaron mejoras al Landing Page respecto a la versión pre
   - CRUD Pacientes
     
 <p align="center">
-  <img src="assets/CRUD-Pacientes.jpg" alt="CRUD-Pacientes"/>
+  <img src="assets/CRUD-Pacientes.png" alt="CRUD-Pacientes"/>
 </p> 
 
 [https://frontend-agecare.web.app/core/residents](https://frontend-agecare.web.app/core/residents)
