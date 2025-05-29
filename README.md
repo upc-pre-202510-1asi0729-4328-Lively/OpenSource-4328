@@ -720,6 +720,9 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 
 #### 2.3.3. User Journey Mapping
+
+En esta sección se describe el recorrido completo de los usuarios clave en la solución AgeCareDB, desde el primer contacto con la plataforma hasta el logro de sus objetivos principales. Se detallan las fases del viaje, emociones, pensamientos y acciones, con el fin de identificar oportunidades de mejora en la experiencia. Los mapas están segmentados por tipo de usuario: profesionales de la salud y cuidadores en asilos, así como familiares preocupados por sus seres queridos.
+
 **Profesionales de la salud y cuidadores en asilos**
 <p align="center">
   <img src="./assets/Journey2.png" alt="Journey2" />
@@ -941,49 +944,53 @@ Epic que agrupa funcionalidades relacionadas con registro, seguimiento y control
 
 El Product Backlog representa la lista priorizada de funcionalidades, mejoras y requerimientos técnicos que forman parte del alcance del sistema AgeCareDB. Cada ítem del backlog responde a una necesidad identificada en los segmentos de usuarios principales (cuidadores y familiares), así como en actores secundarios relevantes (desarrolladores y visitantes).
 
-Este backlog ha sido construido a partir de las historias de usuario previamente definidas, y está organizado de forma que permita una gestión iterativa e incremental del desarrollo del sistema, conforme a los principios de metodologías ágiles.
+Este backlog ha sido construido a partir de las historias de usuario previamente definidas, y está organizado de forma que permita una gestión iterativa e incremental del desarrollo del sistema, conforme a los principios de metodologías ágiles.  
+**El orden de las historias está determinado por el valor que aportan al negocio**, comenzando con la página pública (Landing Page), seguida de funcionalidades CRUD, el núcleo del sistema, historias técnicas (API), y finalmente funcionalidades complementarias.
 
-| #Orden | User Story Id | Titulo | Descripcion | Story Points |
-|--------|---------------|--------|-------------|--------------|
-| 1 |US-06 | Conocer los servicios del asilo | Como visitante, quiero conocer los servicios que ofrece el asilo para evaluar si es adecuado. | 3 |
+> **Enlace al Product Backlog público:**  
+> [https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
+
+| #Orden | User Story Id | Título | Descripción | Story Points |
+|--------|----------------|--------|-------------|--------------|
+| 1 | US-06 | Conocer los servicios del asilo | Como visitante, quiero conocer los servicios que ofrece el asilo para evaluar si es adecuado. | 3 |
 | 2 | US-07 | Leer la misión y visión del proyecto | Como visitante, quiero saber la misión y visión del proyecto para entender su propósito. | 2 |
 | 3 | US-08 | Visualizar preguntas frecuentes | Como visitante, quiero leer preguntas frecuentes para resolver dudas básicas. | 2 |
-| 4 | US-16 | Ver equipo profesional del asilo | Como visitante, quiero conocer el equipo profesional del asilo para confiar en su experiencia y formación. | 2 |
-| 5 | US-18 | Ver testimonios y casos de éxito | Como visitante, quiero leer experiencias reales para sentir confianza en el servicio. | 2 |
-| 6 | US-19 | Descargar folleto informativo | Como visitante, quiero descargar un folleto para compartir la información del servicio con otros miembros de mi familia. | 3 |
-| 7 | US-17 | Solicitar información desde la web | Como visitante, quiero llenar un formulario de contacto para recibir más información personalizada sobre los servicios. | 3 |
-| 8 | US-01 | Ver estado de salud del residente | Como familiar, quiero ver el estado de salud actualizado del residente para estar informado. | 5 |
-| 9 | US-03 | Recibir alertas críticas | Como familiar, quiero recibir una alerta cuando la salud del residente esté en riesgo. | 5 |
-| 10 | US-11 | Ver actividades diarias | Como familiar, quiero ver las actividades realizadas por mi ser querido para saber si participa y está activo. | 3 |
-| 11 | US-14 | Consultar historial emocional del residente | Como familiar, quiero consultar el historial emocional del residente para comprender mejor su estado mental a lo largo del tiempo. | 3 |
-| 12 | US-25 | Ver reporte semanal de estado del residente | Como familiar, quiero ver un reporte semanal de salud para entender la evolución general. | 5 |
-| 13 | US-30 | Recibir recordatorios para revisar informes | Como familiar, quiero recibir recordatorios semanales para revisar los reportes y estar al tanto del estado del residente. | 2 |
-| 14 | US-02 | Registrar signos vitales | Como cuidador, quiero registrar los signos vitales del residente para llevar un control de su salud. | 3 |
-| 15 | US-12 | Registrar actividad del residente | Como cuidador, quiero registrar las actividades del residente para tener un seguimiento de su rutina diaria. | 3 |
-| 16 | US-13 | Evaluar estado emocional del residente | Como cuidador, quiero registrar una evaluación emocional diaria para dar seguimiento a su bienestar psicológico. | 3 |
-| 17 | US-27 | Ver tendencias de salud por categoría | Como cuidador, quiero ver tendencias por categorías (nutrición, movilidad, ánimo) para ajustar planes de cuidado. | 5 |
-| 18 | US-15 | Filtrar residentes por estado de salud | Como cuidador, quiero filtrar a los residentes según su estado de salud para priorizar la atención. | 3 |
-| 19 | US-28 | Ver lista de residentes asignados | Como cuidador, quiero ver solo a los residentes que tengo asignados para optimizar mi trabajo. | 2 |
-| 20 | US-04 | Enviar mensajes al personal | Como familiar, quiero enviar mensajes al personal para consultar sobre el residente. | 3 |
-| 21 | US-05 | Ver respuestas del personal | Como familiar, quiero leer las respuestas a mis consultas para mantenerme informado. | 3 |
-| 22 | US-29 | Evaluar la calidad del servicio | Como familiar, quiero dejar una evaluación de la atención brindada para contribuir con la mejora del servicio. | 2 |
-| 23 | US-26 | Descargar reporte en PDF | Como familiar, quiero descargar el reporte semanal en formato PDF para archivarlo o compartirlo. | 2 |
-| 24 | US-09 | Consultar API de residentes (GET) | Como developer, quiero consultar el listado de residentes mediante la API para integrarlo al frontend. | 2 |
-| 25 | US-10 | Validar credenciales del API | Como developer, quiero autenticarme con token para acceder a los servicios protegidos del API. | 1 |
-| 26 | US-20 | Registrar un nuevo residente (API) | Como developer, quiero registrar un nuevo residente en la base de datos a través del API. | 2 |
-| 27 | US-21 | Actualizar datos del residente (API) | Como developer, quiero actualizar los datos personales o médicos de un residente vía API. | 2 |
-| 28 | US-22 | Obtener historial de actividades (API) | Como developer, quiero obtener el historial de actividades de un residente para mostrarlo en su perfil. | 3 |
-| 29 | US-23 | Eliminar registro médico (API) | Como developer, quiero eliminar un registro médico incorrecto desde el API. | 2 |
-| 30 | US-24 | Consultar métricas de salud (API) | Como developer, quiero obtener métricas resumidas del estado de un residente para visualizaciones en el dashboard. | 3 |
-| 31 | US-31 | Registrar doctor | Como administrador, quiero registrar la información de un doctor para mantener actualizada la base de datos médica del asilo. | 3 |
-| 32 | US-32 | 	Editar doctor existente | Como administrador, quiero poder actualizar los datos de un doctor para corregir información o reflejar cambios en el personal. | 2 |
-| 33 | US-33 | 	ECrear perfil de enfermero | Como administrador, quiero registrar el perfil de un enfermero para tener un control del personal asistencial disponible. | 3 |
-| 34 | US-34 | Registrar medicina | Como personal médico, quiero registrar nuevas medicinas en el sistema para controlar su uso en el tratamiento de los residentes. | 3 |
-| 35 | US-35 | Eliminar medicina caducada | Como personal médico, quiero eliminar medicinas caducadas del sistema para evitar su uso por error. | 2 |
-| 36 | US-36 | 	Generar reporte clínico por paciente | Como cuidador o médico, quiero registrar reportes clínicos por paciente para documentar diagnósticos y tratamientos aplicados. | 3 |
-| 37 | US-37 | 	Consultar historial clínico del paciente | Como personal autorizado, quiero consultar el historial clínico de un paciente para entender su evolución médica. | 3 |
-| 38 | US-38 | 	Registrar residente desde el frontend | Como cuidador o administrador, quiero registrar un nuevo residente desde una interfaz visual para facilitar su ingreso al sistema. | 3 |
-| 39 | US-39 | 	Gestionar reportes clínicos | Como doctor o encargado, quiero registrar, editar y eliminar reportes clínicos desde un formulario, para mantener actualizada la información médica del paciente. | 5 |
+| 4 | US-31 | Registrar doctor | Como administrador, quiero registrar la información de un doctor para mantener actualizada la base de datos médica del asilo. | 3 |
+| 5 | US-32 | Editar doctor existente | Como administrador, quiero poder actualizar los datos de un doctor para corregir información o reflejar cambios en el personal. | 2 |
+| 6 | US-33 | Crear perfil de enfermero | Como administrador, quiero registrar el perfil de un enfermero para tener un control del personal asistencial disponible. | 3 |
+| 7 | US-34 | Registrar medicina | Como personal médico, quiero registrar nuevas medicinas en el sistema para controlar su uso en el tratamiento de los residentes. | 3 |
+| 8 | US-35 | Eliminar medicina caducada | Como personal médico, quiero eliminar medicinas caducadas del sistema para evitar su uso por error. | 2 |
+| 9 | US-38 | Registrar residente desde el frontend | Como cuidador o administrador, quiero registrar un nuevo residente desde una interfaz visual para facilitar su ingreso al sistema. | 3 |
+| 10 | US-01 | Ver estado de salud del residente | Como familiar, quiero ver el estado de salud actualizado del residente para estar informado. | 5 |
+| 11 | US-03 | Recibir alertas críticas | Como familiar, quiero recibir una alerta cuando la salud del residente esté en riesgo. | 5 |
+| 12 | US-11 | Ver actividades diarias | Como familiar, quiero ver las actividades realizadas por mi ser querido para saber si participa y está activo. | 3 |
+| 13 | US-12 | Registrar actividad del residente | Como cuidador, quiero registrar las actividades del residente para tener un seguimiento de su rutina diaria. | 3 |
+| 14 | US-13 | Evaluar estado emocional del residente | Como cuidador, quiero registrar una evaluación emocional diaria para dar seguimiento a su bienestar psicológico. | 3 |
+| 15 | US-14 | Consultar historial emocional del residente | Como familiar, quiero consultar el historial emocional del residente para comprender mejor su estado mental a lo largo del tiempo. | 3 |
+| 16 | US-25 | Ver reporte semanal de estado del residente | Como familiar, quiero ver un reporte semanal de salud para entender la evolución general. | 5 |
+| 17 | US-30 | Recibir recordatorios para revisar informes | Como familiar, quiero recibir recordatorios semanales para revisar los reportes y estar al tanto del estado del residente. | 2 |
+| 18 | US-26 | Descargar reporte en PDF | Como familiar, quiero descargar el reporte semanal en formato PDF para archivarlo o compartirlo. | 2 |
+| 19 | US-15 | Filtrar residentes por estado de salud | Como cuidador, quiero filtrar a los residentes según su estado de salud para priorizar la atención. | 3 |
+| 20 | US-27 | Ver tendencias de salud por categoría | Como cuidador, quiero ver tendencias por categorías (nutrición, movilidad, ánimo) para ajustar planes de cuidado. | 5 |
+| 21 | US-28 | Ver lista de residentes asignados | Como cuidador, quiero ver solo a los residentes que tengo asignados para optimizar mi trabajo. | 2 |
+| 22 | US-36 | Generar reporte clínico por paciente | Como cuidador o médico, quiero registrar reportes clínicos por paciente para documentar diagnósticos y tratamientos aplicados. | 3 |
+| 23 | US-37 | Consultar historial clínico del paciente | Como personal autorizado, quiero consultar el historial clínico de un paciente para entender su evolución médica. | 3 |
+| 24 | US-39 | Gestionar reportes clínicos | Como doctor o encargado, quiero registrar, editar y eliminar reportes clínicos desde un formulario, para mantener actualizada la información médica del paciente. | 5 |
+| 25 | US-09 | Consultar API de residentes (GET) | Como developer, quiero consultar el listado de residentes mediante la API para integrarlo al frontend. | 2 |
+| 26 | US-10 | Validar credenciales del API | Como developer, quiero autenticarme con token para acceder a los servicios protegidos del API. | 1 |
+| 27 | US-20 | Registrar un nuevo residente (API) | Como developer, quiero registrar un nuevo residente en la base de datos a través del API. | 2 |
+| 28 | US-21 | Actualizar datos del residente (API) | Como developer, quiero actualizar los datos personales o médicos de un residente vía API. | 2 |
+| 29 | US-22 | Obtener historial de actividades (API) | Como developer, quiero obtener el historial de actividades de un residente para mostrarlo en su perfil. | 3 |
+| 30 | US-23 | Eliminar registro médico (API) | Como developer, quiero eliminar un registro médico incorrecto desde el API. | 2 |
+| 31 | US-24 | Consultar métricas de salud (API) | Como developer, quiero obtener métricas resumidas del estado de un residente para visualizaciones en el dashboard. | 3 |
+| 32 | US-04 | Enviar mensajes al personal | Como familiar, quiero enviar mensajes al personal para consultar sobre el residente. | 3 |
+| 33 | US-05 | Ver respuestas del personal | Como familiar, quiero leer las respuestas a mis consultas para mantenerme informado. | 3 |
+| 34 | US-29 | Evaluar la calidad del servicio | Como familiar, quiero dejar una evaluación de la atención brindada para contribuir con la mejora del servicio. | 2 |
+| 35 | US-16 | Ver equipo profesional del asilo | Como visitante, quiero conocer el equipo profesional del asilo para confiar en su experiencia y formación. | 2 |
+| 36 | US-17 | Solicitar información desde la web | Como visitante, quiero llenar un formulario de contacto para recibir más información personalizada sobre los servicios. | 3 |
+| 37 | US-18 | Ver testimonios y casos de éxito | Como visitante, quiero leer experiencias reales para sentir confianza en el servicio. | 2 |
+| 38 | US-19 | Descargar folleto informativo | Como visitante, quiero descargar un folleto para compartir la información del servicio con otros miembros de mi familia. | 3 |
+
 
 ## Capítulo IV: Product Design
 
