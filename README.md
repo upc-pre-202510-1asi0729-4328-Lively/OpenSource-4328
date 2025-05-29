@@ -1682,7 +1682,7 @@ La gestión y documentación del proyecto se llevó a cabo utilizando herramient
 
 | Herramienta    | Descripción                                                                                              | Enlace                                                       |
 |----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/SmartFinance-OpenSource/Report)  |
+| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328)  |
 | **Markdown**   | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown.es](https://markdown.es/)                          |
 
 ---
@@ -1966,12 +1966,12 @@ Este es nuestro link de invitación a nuestro Trello:
 
 | Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
 |-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
-| SmartFinance-OpenSource/LandingPage | develop | 6fce4ba   | feat/update landing page content and images   |    | 21/04/2025          |
-| SmartFinance-OpenSource/LandingPage | develop | 410b1fb   | feat/update landing page content and images |       | 21/04/2025          |
-| SmartFinance-OpenSource/LandingPage | develop | 2c9f56d   | feature/improving the lading page and adding scripts   |     | 21/04/2025          |
-| SmartFinance-OpenSource/LandingPage | feature/questions section | ab33510   | feature/questions section |              | 25/04/2025          |
-| SmartFinance-OpenSource/LandingPage | release/v1.0.0 | 7531047   | adding feature/questions section |            | 25/04/2025          |
-| SmartFinance-OpenSource/LandingPage | main | 50e9881   | Release/v1.0.0 |       | 25/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | develop | 6fce4ba   | feat/update landing page content and images   |    | 21/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | develop | 410b1fb   | feat/update landing page content and images |       | 21/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | develop | 2c9f56d   | feature/improving the lading page and adding scripts   |     | 21/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | feature/questions section | ab33510   | feature/questions section |              | 25/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | release/v1.0.0 | 7531047   | adding feature/questions section |            | 25/04/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/LandingPage | main | 50e9881   | Release/v1.0.0 |       | 25/04/2025          |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2149,11 +2149,11 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 2. E
 
 | Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
 |-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
-| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Backlog 1 | e149c75   | fix: update and correct Sprint Backlog 1  |    | 15/05/2025        |
-| SmartFinance-OpenSource/OpenSource-4328 | fix: update and correct Sprint Planning 1 |  c5a02fc   | fix: update and correct Sprint Planning 1 |       | 15/05/2025          |
-| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and improve Lean UX Hypothesis Statements | 5225de6   | fix: revise and improve Lean UX Hypothesis Statements   |     | 15/05/2025          |
-| SmartFinance-OpenSource/OpenSource-4328 | fix: revise and correct Antecedentes y Problematica | 6e0553c   | fix: revise and correct Antecedentes y Problematica |              | 15/05/2025         |
-| SmartFinance-OpenSource/OpenSource-4328 | fix/Domain-Driven | 00a905a   | fix: Domain Container |              | 15/05/2025         |
+| upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328 | fix: update and correct Sprint Backlog 1 | e149c75   | fix: update and correct Sprint Backlog 1  |    | 15/05/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328 | fix: update and correct Sprint Planning 1 |  c5a02fc   | fix: update and correct Sprint Planning 1 |       | 15/05/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328 | fix: revise and improve Lean UX Hypothesis Statements | 5225de6   | fix: revise and improve Lean UX Hypothesis Statements   |     | 15/05/2025          |
+| upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328 | fix: revise and correct Antecedentes y Problematica | 6e0553c   | fix: revise and correct Antecedentes y Problematica |              | 15/05/2025         |
+| upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328 | fix/Domain-Driven | 00a905a   | fix: Domain Container |              | 15/05/2025         |
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
