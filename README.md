@@ -2306,6 +2306,21 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 
 ![Evidence2](./assets/Evidence2.png)
 
+Frontend
+
+![Evidence3](./assets/Evidence3.png)
+
+![Evidence4](./assets/Evidence4.png)
+
+
+
+Landing
+
+![Evidence5](./assets/Evidence5.png)
+
+![Evidence6](./assets/Evidence6.png)
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
