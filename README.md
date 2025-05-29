@@ -2158,7 +2158,7 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 2. E
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 
-En esta entrega se realizaron mejoras al Landing Page respecto a la versión presentada en el Sprint 1, optimizando su diseño y funcionalidad. Por otro lado, cada integrante del equipo implementó y desplegó su propio CRUD del backend, consolidando así el progreso técnico del proyecto.
+En este segundo sprint, el equipo completó exitosamente las funcionalidades clave de la Landing Page orientadas a la navegación, visualización de información institucional y contacto. Se logró el despliegue del sitio en GitHub Pages y estas funcionalidades permiten a los usuarios explorar la misión y visión de la startup, conocer los servicios ofrecidos y contactar directamente al equipo de soporte. El objetivo principal del sprint fue alcanzado satisfactoriamente con la publicación activa de la landing page. Por otro lado, cada integrante del equipo implementó y desplegó su propio CRUD del backend, consolidando así el progreso técnico del proyecto.
 
 - Landing Page
 <p align="center">
