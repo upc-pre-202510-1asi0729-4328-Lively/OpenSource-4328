@@ -1682,7 +1682,7 @@ La gestión y documentación del proyecto se llevó a cabo utilizando herramient
 
 | Herramienta    | Descripción                                                                                              | Enlace                                                       |
 |----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/upc-pre-202510-1asi0729-4328-Lively/Report)  |
+| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/upc-pre-202510-1asi0729-4328-Lively/OpenSource-4328)  |
 | **Markdown**   | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown.es](https://markdown.es/)                          |
 
 ---
