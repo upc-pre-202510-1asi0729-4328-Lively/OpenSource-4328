@@ -1761,6 +1761,13 @@ La documentación del proyecto se encuentra en el archivo `README.md` dentro del
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Para asegurar un código legible, mantenible y estandarizado en todo el equipo, se han adoptado las siguientes convenciones y herramientas:
+
+- **JavaScript / TypeScript**: Se aplican las guías de estilo recomendadas por Microsoft para TypeScript y se utiliza ESLint junto con Prettier para validar el formato, la indentación, los espacios y otros aspectos sintácticos. Las variables y funciones usan camelCase, mientras que las clases e interfaces usan PascalCase.
+- **Java**: Se sigue la guía oficial de estilo de Oracle (Java Code Conventions) y se aplica el estándar de Google Java Style mediante Checkstyle. Las constantes se nombran en MAYÚSCULAS_CON_GUIONES, las clases en PascalCase, y los métodos y atributos en camelCase.
+- **HTML / CSS**: Se aplican convenciones modernas como el uso de clases CSS en kebab-case, sangría de 2 espacios, y estructura semántica del HTML.
+
+También se ha configurado un archivo `.editorconfig` para asegurar una configuración consistente entre los diferentes editores de código usados por el equipo.
 #### HTML
 
 Durante la construcción de la estructura del sitio, se adoptaron las siguientes buenas prácticas para asegurar accesibilidad y organización:
