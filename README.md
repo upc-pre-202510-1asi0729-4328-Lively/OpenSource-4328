@@ -1388,10 +1388,23 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 #### 4.7.1. Class Diagrams
 
 <p align="center">
-  <img src="./assets/DCFinalOpen.png" alt="DCFinalOpen" />
+  <img src="./assets/DIAGRAMACLASESOPENBC.png" alt="DIAGRAMACLASESOPENBC" />
 </p>
 
-Link del diagrama de clases: https://lucid.app/lucidchart/e1a8458e-70f6-4b9a-96e7-9fda3fcaad34/edit?viewport_loc=-6218%2C-3791%2C4167%2C1978%2C0_0&invitationId=inv_a4cdcc79-55c7-4114-855c-7be0170317ce
+#### Se muestra la etapa 2 distribuida en Bounded Context
+
+<p align="center">
+  <img src="./assets/ETAPADOSOPEN.png" alt="ETAPADOSOPEN" />
+</p>
+
+#### Se visualiza la etapa 3 en la que cada Bounded Context ha sido distribuido en aggregates, entities y value objects
+
+<p align="center">
+  <img src="./assets/ETAPATRESOPEN.png" alt="ETAPATRESOPEN" />
+</p>
+
+
+Link del diagrama de clases para una mejor visualización: https://lucid.app/lucidchart/be00e574-bbb5-48db-97c0-8dcd6397d7b3/edit?viewport_loc=-3376%2C-5634%2C5057%2C2480%2C0_0&invitationId=inv_472a9f56-96c6-42fd-a8c0-67a7ea895576
 
 ### 4.7.2 Class Dictionary
 
@@ -1421,37 +1434,6 @@ additionalExpenses | double     | Gastos adicionales
 
 **Métodos**:
 - calculateTotalCost(): double
-
----
-
-### Activity  
-**Descripción**: Actividades programadas dentro del hogar.
-
-Campo   | Tipo   | Descripción
---------|--------|-----------------------------------
-id      | int    | Identificador de la actividad  
-name    | String | Nombre de la actividad  
-type    | String | Tipo o categoría de la actividad  
-
-**Métodos**:
-- getActivityDetails(): void  
-- editActivity(): void  
-- deleteActivity(): void  
-- updateActivity(): void
-
----
-
-### ActivityLog  
-**Descripción**: Registro de participación de residentes en actividades.
-
-Campo              | Tipo   | Descripción
--------------------|--------|------------------------------------------
-id                 | int    | Identificador del registro  
-date               | Date   | Fecha de actividad  
-participationLevel | String | Nivel de participación  
-
-**Métodos**:
-- getActivitySummary(): String
 
 ---
 
@@ -1539,7 +1521,7 @@ gender     | String | Género
 **Métodos**:
 - updateHealthStatus(): void  
 - getAge(): int  
-- assignMedication(): void  
+- viewMedication(): void  
 - requestAssistance(): void
 
 ---
@@ -1559,19 +1541,19 @@ frequency  | String | Frecuencia de administración
 
 ---
 
-### NursingHome  
-**Descripción**: Hogar de cuidado.
+### FamilyMember  
+**Descripción**: Familiar de un residente.
 
-Campo    | Tipo   | Descripción
----------|--------|-------------------------------
-id       | int    | ID del hogar  
-name     | String | Nombre del hogar  
-address  | String | Dirección física  
-contract | String | Código de contrato  
+Campo        | Tipo   | Descripción
+-------------|--------|---------------------------------------
+relationship | String | Relación con el residente  
 
 **Métodos**:
-- getAllResidents(): List<Resident>  
-- getAvailableSpots(): int
+- checkResidentStatus(): void  
+- sendMessageToResident(): void  
+- receiveAlert(): void  
+- scheduleVisit(): void  
+- viewResidentActivityLog(): void
 
 ---
 
@@ -1607,21 +1589,70 @@ content | String | Contenido del mensaje
 
 ---
 
-### FamilyMember  
-**Descripción**: Familiar de un residente.
+### Alert  
+**Descripción**: Alertas médicas automáticas o manuales.
 
-Campo        | Tipo   | Descripción
--------------|--------|---------------------------------------
-relationship | String | Relación con el residente  
+Campo          | Tipo   | Descripción
+---------------|--------|-------------------------------
+severity       | String | Nivel de severidad de la alerta  
+triggerTime    | String | Hora del disparo de la alerta  
+flaggedStatus  | String | Estado marcado  
 
 **Métodos**:
-- checkResidentStatus(): void  
-- sendMessageToResident(): void  
-- receiveAlert(): void  
-- scheduleVisit(): void  
-- viewResidentActivityLog(): void
+- sendToEmergencyContact(): void
 
 ---
+
+### Message  
+**Descripción**: Mensajes entre usuarios o del sistema.
+
+Campo     | Tipo   | Descripción
+----------|--------|----------------------------
+id        | int    | Identificador del mensaje  
+sender    | String | Emisor del mensaje  
+receiver  | String | Receptor del mensaje  
+content   | String | Contenido del mensaje  
+timestamp | String | Fecha y hora del envío  
+
+**Métodos**:
+- send(): void  
+- delete(): void  
+- archive(): void
+
+---
+
+### Appointment  
+**Descripción**: Citas programadas para residentes.
+
+Campo        | Tipo    | Descripción
+-------------|---------|----------------------------
+id           | int     | Identificador de la cita  
+date         | Date    | Fecha de la cita  
+time         | Time    | Hora de la cita  
+location     | String  | Lugar de la cita  
+doctorName   | String  | Nombre del doctor  
+residentName | String  | Nombre del residente  
+
+**Métodos**:
+- createAppointment(): void  
+- rescheduleAppointment(): void  
+- cancelAppointment(): void  
+- updateAppointmentDetails(): void  
+- notifyParticipants(): void
+
+---
+
+### Schedule  
+**Descripción**: Representa la programación de citas o eventos.
+
+Campo        | Tipo     | Descripción
+-------------|----------|-------------------------------
+day          | String   | Día programado  
+time         | Time     | Hora programada  
+appointment  | Appointment | Cita asignada
+
+---
+
 
 #### 4.8 Database Design
 
