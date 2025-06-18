@@ -1367,13 +1367,35 @@ Link: https://www.figma.com/proto/amrMbK6r2R7ws36HjXJSwK/Mockup?node-id=2-3632&t
 #### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="./assets/redVitalContainer.png" alt="Diagrama de Contenedores" />
+  <img src="./assets/structurizr-101317-redVitalContainer.png" alt="Diagrama de Contenedores" />
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-![Diagrama de clases](./assets/Component.png)
+<p align="center">
+  Diagrama de componentes de Appointment Management
+  <img src="./assets/structurizr-101317-AppointmentBC.png" alt="Diagrama de Componentes de Appointment Management" />
+</p>
 
+<p align="center"> 
+  Diagrama de Componentes de Notification & Alert Management
+  <img src="./assets/structurizr-101317-NotificationAlertContextBC.png" alt="Diagrama de Componentes de Notification Management" />
+</p>
+
+<p align="center">
+  Diagrama de Componentes de Payment Management
+  <img src="./assets/structurizr-101317-PaymentBC.png" alt="Diagrama de Componentes de Payment Management" />
+</p>
+
+<p align="center">
+  Diagrama de Componentes de Resident Care Management
+  <img src="./assets/structurizr-101317-ResidentCareContextBC.png" alt="Diagrama de Componentes de Resident Care Management" />
+</p>
+
+<p align="center">
+  Diagrama de Componentes de User Management
+  <img src="./assets/structurizr-101317-UserContextBC.png" alt="Diagrama de Componentes de User Management" />
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
