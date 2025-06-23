@@ -2423,7 +2423,23 @@ Este es nuestro link de invitación a nuestro Trello:
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+En la siguiente tabla se presentan los commits realizados durante el Sprint 3. En este sprint nos enfocamos en implementar los servicios clave del backend, como la creación, actualización y consulta de datos. Además, se integraron validaciones esenciales para garantizar la integridad de los datos, se mejoró la estructura de los controladores y servicios, y se realizó la documentación técnica de endpoints y entidades. Paralelamente, se avanzó en el desarrollo del frontend. Esta documentación respalda el progreso funcional alcanzado durante el sprint y sienta las bases para las funcionalidades finales de validación y monitoreo.
+
+| Repository                           | Branch   | Commit ID | Commit Message                  | Commit Message Body          | Commited on  (Date) |
+|-------------------------------------|---------|-----------|----------------------------------|------------------------------|---------------------|
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/residents | 0c52088   | Add BC residents  |    | 11/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | bc/user | ba1572a | Add Resident Management v1  |    | 13/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/appointment | ea9fcd5 | Feat/ adding appointment querys  |    | 16/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/notification | 08efcbc | Feat/notification  |    | 19/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/payment | b6ddaef | Add files via upload  |    | 20/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | bc/notification | edf0025 | fix: app style  |    | 20/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | bc/payment | 79436e1 | Add files via upload  |    | 21/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/payment | 0e3cee4 | Feat/payment  |    | 23/06/2025        |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | bc/notification | bede5d1 | Adding: Appoinment pages, list and managment  |    | 23/06/2025        |
+
+
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 #### 5.3. Validation Interviews.
 Como parte del proceso de validación del sistema AgeCareDB, se realizaron entrevistas semiestructuradas con distintos tipos de usuarios para evaluar la utilidad, usabilidad y aceptación de la plataforma en contextos reales. Estas entrevistas permitieron recopilar información cualitativa sobre la experiencia de uso desde la perspectiva de familiares, personal de salud y administradores de asilos. A través de preguntas abiertas, se exploraron aspectos como la facilidad de uso, la percepción de valor, la comprensión del sistema, y el impacto percibido en la comunicación y seguimiento del estado de los residentes. Los hallazgos de estas entrevistas sirvieron para confirmar hipótesis de diseño, identificar oportunidades de mejora y validar que el producto responde a las necesidades clave detectadas en etapas previas del proceso de diseño centrado en el usuario.
