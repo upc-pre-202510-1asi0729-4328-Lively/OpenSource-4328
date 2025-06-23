@@ -2426,6 +2426,8 @@ Este es nuestro link de invitación a nuestro Trello:
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 #### 5.3. Validation Interviews.
+Como parte del proceso de validación del sistema AgeCareDB, se realizaron entrevistas semiestructuradas con distintos tipos de usuarios para evaluar la utilidad, usabilidad y aceptación de la plataforma en contextos reales. Estas entrevistas permitieron recopilar información cualitativa sobre la experiencia de uso desde la perspectiva de familiares, personal de salud y administradores de asilos. A través de preguntas abiertas, se exploraron aspectos como la facilidad de uso, la percepción de valor, la comprensión del sistema, y el impacto percibido en la comunicación y seguimiento del estado de los residentes. Los hallazgos de estas entrevistas sirvieron para confirmar hipótesis de diseño, identificar oportunidades de mejora y validar que el producto responde a las necesidades clave detectadas en etapas previas del proceso de diseño centrado en el usuario.
+
 ##### 5.3.1. Diseño de Entrevistas.
 **Segmento 1: Familiar del residente**
 1. ¿Cuál es su rol actual con respecto al cuidado de adultos mayores?
