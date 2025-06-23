@@ -2380,6 +2380,9 @@ Landing
 ![Evidence6](./assets/Evidence6.png)
 
 #### 5.2.3. Sprint 3
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 3.
+
 ##### 5.2.3.1.Sprint Planning 3.
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 ##### 5.2.3.3.Sprint Backlog 3.
