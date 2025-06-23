@@ -49,6 +49,7 @@
 | TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Franco Gabriel Huang Liu               | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TB2     | 22/06/2025  | Franco Gabriel Huang Liu               | Realizó las entrevistas de validación y las validaciónes según heurísticas |
 
 
 ---
@@ -2425,9 +2426,78 @@ Este es nuestro link de invitación a nuestro Trello:
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 #### 5.3. Validation Interviews.
+Como parte del proceso de validación del sistema AgeCareDB, se realizaron entrevistas semiestructuradas con distintos tipos de usuarios para evaluar la utilidad, usabilidad y aceptación de la plataforma en contextos reales. Estas entrevistas permitieron recopilar información cualitativa sobre la experiencia de uso desde la perspectiva de familiares, personal de salud y administradores de asilos. A través de preguntas abiertas, se exploraron aspectos como la facilidad de uso, la percepción de valor, la comprensión del sistema, y el impacto percibido en la comunicación y seguimiento del estado de los residentes. Los hallazgos de estas entrevistas sirvieron para confirmar hipótesis de diseño, identificar oportunidades de mejora y validar que el producto responde a las necesidades clave detectadas en etapas previas del proceso de diseño centrado en el usuario.
+
 ##### 5.3.1. Diseño de Entrevistas.
+**Segmento 1: Familiar del residente**
+1. ¿Cuál es su rol actual con respecto al cuidado de adultos mayores?
+2. ¿Qué herramientas o métodos utiliza actualmente para informarse o registrar el estado de los residentes?
+3. ¿Con qué frecuencia necesita consultar o registrar información sobre el residente?
+4. ¿Cómo describiría su experiencia general usando AgeCareDB?
+5. ¿Qué tan fácil fue para usted entender cómo funciona el sistema?
+6. ¿Hubo algo que le resultó confuso o poco intuitivo?
+7. ¿Pudo encontrar fácilmente información importante como el estado de salud, pagos o actividades del residente?
+8. ¿Qué tan útil le resultó el sistema para mantenerse informado o registrar datos?
+9. ¿Considera que la plataforma mejora la comunicación con otros involucrados (familiares, personal, administración)?
+10. ¿Siente que su nivel de preocupación o incertidumbre se ha reducido gracias al uso del sistema?
+11. ¿Qué beneficios principales ha encontrado al usar AgeCareDB?
+12. ¿Hay algo que le gustaría mejorar o cambiar?
+
+**Segmento 2: Personal de salud**
+1. ¿Cuál es su rol actual en el asilo?
+2. ¿Cuántos adultos mayores atiende en promedio diariamente?
+3. ¿Cómo lleva actualmente el registro de información médica o emocional de los residentes?
+4. ¿Qué desafíos enfrenta en esa tarea?
+5. ¿Cómo fue su experiencia al utilizar la plataforma AgeCareDB por primera vez?
+6. ¿Considera que el sistema es fácil de aprender y usar?
+7. ¿Qué tan accesible le parece el sistema durante sus turnos o rutinas de cuidado?
+8. ¿El sistema le permitió registrar de forma rápida el estado de salud y emociones del residente?
+9. ¿Pudo identificar mejoras en la organización o acceso a la información del residente?
+10. ¿Sintió que le ayudó a reducir el uso de papel o registros duplicados?
+11. ¿Le ayudó a detectar signos de alerta o a tomar decisiones más rápidas?
+12. ¿Cómo evaluaría la comunicación que se facilita con los familiares a través del sistema?
+13. ¿Qué aspectos del sistema le parecieron más útiles?
+14. ¿Hubo algo que dificultó su uso o que le gustaría mejorar?
+15. ¿Estaría dispuesto/a a seguir usándolo a largo plazo si se implementa de manera oficial?
+
 ##### 5.3.2. Registro de Entrevistas.
+**Entrevista N°1: Gabriel Torres**
+<p align="center">
+<img src="assets/Gabriel_Torres.jpg" alt="GabrielTorres"/>
+</p>
+Link: [Entrevista Gabriel](https://youtu.be/6W5zOnc9PkY)
+
+
+**Entrevista N°2: Rodrigo Camus**
+<p align="center">
+<img src="assets/Rodrigo_Camus.jpg" alt="RodrigoCamus"/>
+</p>
+Link: [Entrevista Rodrigo](https://youtu.be/BSvZhg22R-U)
+
+
+**Entrevista N°3: Sinaí Girón**
+<p align="center">
+<img src="assets/Sinai_Giron.jpg" alt="SinaiGiron" height = 700/>
+</p>
+Link: [Entrevista Sinai](https://youtu.be/BSvZhg22R-U)
+
 ##### 5.3.3. Evaluaciones según heurísticas.
+
+Para asegurar una experiencia de usuario efectiva, accesible y centrada en las necesidades reales de los distintos perfiles de usuario de AgeCareDB, se llevó a cabo una evaluación heurística basada en las 10 heurísticas de usabilidad de Jakob Nielsen. Este enfoque permite identificar fortalezas y áreas de mejora en la interfaz y funcionalidad del sistema sin necesidad de pruebas con usuarios reales. Cada heurística fue analizada en el contexto de los flujos clave de la plataforma: consulta de información sobre residentes, registro de datos por el personal, visualización de pagos y comunicación entre actores. A continuación, se presentan los resultados de esta evaluación junto con recomendaciones para optimizar la experiencia del usuario final.
+
+| # | Heruística | Evaluación | Recomendaciónes |
+|---|------------|------------|-----------------|
+|1| **Visivilidad  del estado del sistema** | El sistema proporciona información actualizada del estado de salud, pagos y actividades de los residentes. | Asegurar retroalimentación visual inmediata tras acciones como guardar, editar o eliminar datos.|
+|2| **Concordancia entre el sistema y el mundo real** | El lenguaje utilizado es comprensible para familiares y personal médico. | Incluir glosarios o tooltips para términos clínicos menos familiares. |
+|3| **Control y libertad del usuario** | Se evidencia de manera clara opciones para deshacer o cancelar acciones | Incluir más botones de "Cancelar" y confirmaciones al eliminar o modificar registros |
+|4| **Consistencia y estándares** | Uso consistente de Material Design y términos. | Revisar que todos los formularios, botones y flujos mantengan coherencia visual y funcional. |
+|5| **Prevención de errores** | Hay validaciones básicas, pero no se especifica su cobertura. | Implementar validaciones completas (fechas lógicas, número positivo, campos obligatorios). |
+|6| **Reconocimiento antes que recuerdo** | Se muestran listas y detalles relevantes. | Agregar autocompletado en formularios, sugerencias y accesos rápidos. |
+|7| **Flexibilidad y eficiencia de uso** | No hay diferenciación entre usuarios nuevos y frecuentes. | Incluir filtros, atajos, y personalización de vistas para distintos perfiles.. |
+|8| **Estética y diseño minimalista** | Interfaz limpia y organizada. | Mantener una jerarquía visual clara, evitar sobrecarga de información en paneles. |
+|9| **Ayuda con errores** | No se especifica presencia de mensajes de error informativos. | RIncluir mensajes claros con posibles soluciones y lenguaje empático. |
+|10| **Ayuda y documentación** | No hay evidencia de secciones de ayuda o tutoriales. | Incluir una sección de "Ayuda", FAQs o videos introductorios para cada tipo de usuario. |
+
 #### 5.4. Video About-the-Product.
 
 ## Conclusiones
