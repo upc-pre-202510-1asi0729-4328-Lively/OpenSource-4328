@@ -49,6 +49,7 @@
 | TP1     | 10/05/2025  | Jeremy Alexander Quijada Magro        | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Franco Gabriel Huang Liu               | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
+| TB2     | 22/06/2025  | Franco Gabriel Huang Liu               | Realizó las entrevistas de validación y las validaciónes según heurísticas |
 
 
 ---
@@ -2459,15 +2460,23 @@ Este es nuestro link de invitación a nuestro Trello:
 
 ##### 5.3.2. Registro de Entrevistas.
 **Entrevista N°1: Gabriel Torres**
+<p align="center">
 <img src="assets/Gabriel_Torres.jpeg" alt="GabrielTorres"/>
+</p>
 Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/6W5zOnc9PkY)
 
+
 **Entrevista N°2: Rodrigo Camus**
+<p align="center">
 <img src="assets/Rodrigo_Camus.jpeg" alt="RodrigoCamus"/>
+</p>
 Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
 
+
 **Entrevista N°3: Sinaí Girón**
+<p align="center">
 <img src="assets/Sinai_Giron.jpeg" alt="SinaiGiron"/>
+</p>
 Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
 
 ##### 5.3.3. Evaluaciones según heurísticas.
