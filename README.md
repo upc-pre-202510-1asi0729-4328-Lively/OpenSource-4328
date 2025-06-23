@@ -50,6 +50,8 @@
 | TP1     | 10/05/2025  | Franco Gabriel Huang Liu               | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TP1     | 10/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma   | Realizó mejoras con respecto a la TB1 y creó y desplegó su frontend al igual que su jsonserver y colaboró en el sprint 2. |
 | TB2     | 22/06/2025  | Franco Gabriel Huang Liu               | Realizó las entrevistas de validación y las validaciónes según heurísticas |
+| TB2     | 23/06/2025  | Franco Gabriel Huang Liu               | Realizó Services Documentation y Team Collaboration Insights during sprint |
+
 
 
 ---
