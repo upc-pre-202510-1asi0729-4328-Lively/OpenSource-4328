@@ -2441,6 +2441,10 @@ En la siguiente tabla se presentan los commits realizados durante el Sprint 3. E
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+
+
 #### 5.3. Validation Interviews.
 Como parte del proceso de validación del sistema AgeCareDB, se realizaron entrevistas semiestructuradas con distintos tipos de usuarios para evaluar la utilidad, usabilidad y aceptación de la plataforma en contextos reales. Estas entrevistas permitieron recopilar información cualitativa sobre la experiencia de uso desde la perspectiva de familiares, personal de salud y administradores de asilos. A través de preguntas abiertas, se exploraron aspectos como la facilidad de uso, la percepción de valor, la comprensión del sistema, y el impacto percibido en la comunicación y seguimiento del estado de los residentes. Los hallazgos de estas entrevistas sirvieron para confirmar hipótesis de diseño, identificar oportunidades de mejora y validar que el producto responde a las necesidades clave detectadas en etapas previas del proceso de diseño centrado en el usuario.
 
