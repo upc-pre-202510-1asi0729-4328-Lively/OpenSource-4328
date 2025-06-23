@@ -2461,21 +2461,21 @@ Este es nuestro link de invitación a nuestro Trello:
 ##### 5.3.2. Registro de Entrevistas.
 **Entrevista N°1: Gabriel Torres**
 <p align="center">
-<img src="assets/Gabriel_Torres.jpeg" alt="GabrielTorres"/>
+<img src="assets/Gabriel_Torres.jpg" alt="GabrielTorres"/>
 </p>
 Link: [Entrevista Gabriel](https://youtu.be/6W5zOnc9PkY)
 
 
 **Entrevista N°2: Rodrigo Camus**
 <p align="center">
-<img src="assets/Rodrigo_Camus.jpeg" alt="RodrigoCamus"/>
+<img src="assets/Rodrigo_Camus.jpg" alt="RodrigoCamus"/>
 </p>
 Link: [Entrevista Rodrigo](https://youtu.be/BSvZhg22R-U)
 
 
 **Entrevista N°3: Sinaí Girón**
 <p align="center">
-<img src="assets/Sinai_Giron.jpeg" alt="SinaiGiron"/>
+<img src="assets/Sinai_Giron.jpg" alt="SinaiGiron" height = 700/>
 </p>
 Link: [Entrevista Sinai](https://youtu.be/BSvZhg22R-U)
 
