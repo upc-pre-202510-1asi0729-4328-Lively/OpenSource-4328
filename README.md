@@ -2458,7 +2458,35 @@ Este es nuestro link de invitación a nuestro Trello:
 15. ¿Estaría dispuesto/a a seguir usándolo a largo plazo si se implementa de manera oficial?
 
 ##### 5.3.2. Registro de Entrevistas.
+**Entrevista N°1: Gabriel Torres**
+<img src="assets/Gabriel_Torres.jpeg" alt="GabrielTorres"/>
+Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/6W5zOnc9PkY)
+
+**Entrevista N°2: Rodrigo Camus**
+<img src="assets/Rodrigo_Camus.jpeg" alt="RodrigoCamus"/>
+Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
+
+**Entrevista N°3: Sinaí Girón**
+<img src="assets/Sinai_Giron.jpeg" alt="SinaiGiron"/>
+Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
+
 ##### 5.3.3. Evaluaciones según heurísticas.
+
+Para asegurar una experiencia de usuario efectiva, accesible y centrada en las necesidades reales de los distintos perfiles de usuario de AgeCareDB, se llevó a cabo una evaluación heurística basada en las 10 heurísticas de usabilidad de Jakob Nielsen. Este enfoque permite identificar fortalezas y áreas de mejora en la interfaz y funcionalidad del sistema sin necesidad de pruebas con usuarios reales. Cada heurística fue analizada en el contexto de los flujos clave de la plataforma: consulta de información sobre residentes, registro de datos por el personal, visualización de pagos y comunicación entre actores. A continuación, se presentan los resultados de esta evaluación junto con recomendaciones para optimizar la experiencia del usuario final.
+
+| # | Heruística | Evaluación | Recomendaciónes |
+|---|------------|------------|-----------------|
+|1| **Visivilidad  del estado del sistema** | El sistema proporciona información actualizada del estado de salud, pagos y actividades de los residentes. | Asegurar retroalimentación visual inmediata tras acciones como guardar, editar o eliminar datos.|
+|2| **Concordancia entre el sistema y el mundo real** | El lenguaje utilizado es comprensible para familiares y personal médico. | Incluir glosarios o tooltips para términos clínicos menos familiares. |
+|3| **Control y libertad del usuario** | Se evidencia de manera clara opciones para deshacer o cancelar acciones | Incluir más botones de "Cancelar" y confirmaciones al eliminar o modificar registros |
+|4| **Consistencia y estándares** | Uso consistente de Material Design y términos. | Revisar que todos los formularios, botones y flujos mantengan coherencia visual y funcional. |
+|5| **Prevención de errores** | Hay validaciones básicas, pero no se especifica su cobertura. | Implementar validaciones completas (fechas lógicas, número positivo, campos obligatorios). |
+|6| **Reconocimiento antes que recuerdo** | Se muestran listas y detalles relevantes. | Agregar autocompletado en formularios, sugerencias y accesos rápidos. |
+|7| **Flexibilidad y eficiencia de uso** | No hay diferenciación entre usuarios nuevos y frecuentes. | Incluir filtros, atajos, y personalización de vistas para distintos perfiles.. |
+|8| **Estética y diseño minimalista** | Interfaz limpia y organizada. | Mantener una jerarquía visual clara, evitar sobrecarga de información en paneles. |
+|9| **Ayuda con errores** | No se especifica presencia de mensajes de error informativos. | RIncluir mensajes claros con posibles soluciones y lenguaje empático. |
+|10| **Ayuda y documentación** | No hay evidencia de secciones de ayuda o tutoriales. | Incluir una sección de "Ayuda", FAQs o videos introductorios para cada tipo de usuario. |
+
 #### 5.4. Video About-the-Product.
 
 ## Conclusiones
