@@ -2426,6 +2426,37 @@ Este es nuestro link de invitación a nuestro Trello:
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 #### 5.3. Validation Interviews.
 ##### 5.3.1. Diseño de Entrevistas.
+**Segmento 1: Familiar del residente**
+1. ¿Cuál es su rol actual con respecto al cuidado de adultos mayores?
+2. ¿Qué herramientas o métodos utiliza actualmente para informarse o registrar el estado de los residentes?
+3. ¿Con qué frecuencia necesita consultar o registrar información sobre el residente?
+4. ¿Cómo describiría su experiencia general usando AgeCareDB?
+5. ¿Qué tan fácil fue para usted entender cómo funciona el sistema?
+6. ¿Hubo algo que le resultó confuso o poco intuitivo?
+7. ¿Pudo encontrar fácilmente información importante como el estado de salud, pagos o actividades del residente?
+8. ¿Qué tan útil le resultó el sistema para mantenerse informado o registrar datos?
+9. ¿Considera que la plataforma mejora la comunicación con otros involucrados (familiares, personal, administración)?
+10. ¿Siente que su nivel de preocupación o incertidumbre se ha reducido gracias al uso del sistema?
+11. ¿Qué beneficios principales ha encontrado al usar AgeCareDB?
+12. ¿Hay algo que le gustaría mejorar o cambiar?
+
+**Segmento 2: Personal de salud**
+1. ¿Cuál es su rol actual en el asilo?
+2. ¿Cuántos adultos mayores atiende en promedio diariamente?
+3. ¿Cómo lleva actualmente el registro de información médica o emocional de los residentes?
+4. ¿Qué desafíos enfrenta en esa tarea?
+5. ¿Cómo fue su experiencia al utilizar la plataforma AgeCareDB por primera vez?
+6. ¿Considera que el sistema es fácil de aprender y usar?
+7. ¿Qué tan accesible le parece el sistema durante sus turnos o rutinas de cuidado?
+8. ¿El sistema le permitió registrar de forma rápida el estado de salud y emociones del residente?
+9. ¿Pudo identificar mejoras en la organización o acceso a la información del residente?
+10. ¿Sintió que le ayudó a reducir el uso de papel o registros duplicados?
+11. ¿Le ayudó a detectar signos de alerta o a tomar decisiones más rápidas?
+12. ¿Cómo evaluaría la comunicación que se facilita con los familiares a través del sistema?
+13. ¿Qué aspectos del sistema le parecieron más útiles?
+14. ¿Hubo algo que dificultó su uso o que le gustaría mejorar?
+15. ¿Estaría dispuesto/a a seguir usándolo a largo plazo si se implementa de manera oficial?
+
 ##### 5.3.2. Registro de Entrevistas.
 ##### 5.3.3. Evaluaciones según heurísticas.
 #### 5.4. Video About-the-Product.
