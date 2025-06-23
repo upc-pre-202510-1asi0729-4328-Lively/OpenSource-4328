@@ -2401,6 +2401,17 @@ En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los
 | Sum of Story Points            | La suma de Story Points atendidos es de  -. |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Mauricio Muñoz Vilcapoma | MauricioMVilcapoma  | L  | 
+| Fatima Asmad Padilla   |  FatimaAP05    | C         |  
+| Jeremy Quijada Magro   | jhonson2021    | C         | 
+| Franco Huang Liu       | St4rLght05     | C         |  
+| Ramiro Guzman Chavéz   | RamiroGuzmanCh | C         |  
+
 ##### 5.2.3.3.Sprint Backlog 3.
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
