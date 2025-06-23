@@ -2384,6 +2384,22 @@ Landing
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 3.
 
 ##### 5.2.3.1.Sprint Planning 3.
+
+En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los objetivos, entregables y tareas asignadas para el sprint. A continuación, se presenta un cuadro con los detalles acordados.
+
+| Sprint #                             | Sprint 3                                                                                              |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-06-10        |
+| Time           | 10:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Mauricio Muñoz               |
+| Attendees (to planning meeting)| Jeremy Quijada, Franco Huang, Fatima Asmad, Mauricio Muñoz, Ramiro Guzman                    |
+| Sprint 3 - 1 Review Summary    | Se han realizado mejoras en varios aspectos del informe según las sugerencias del profesor, además de haber desarrollado una primera versión de nuestra aplicación Front End, la cual continuará evolucionando en próximas entregas. |
+| Sprint 3 - 1 Retrospective Summary | Se logró un progreso razonable durante el sprint 3: se completo las tareas esperadas además, el equipo mejoró significativamente en comunicación y trabajo colaborativo, lo que permitió alcanzar un avance satisfactorio en el desarrollo de la aplicación. |
+| Sprint 3 Goal                  | En este sprint, nos enfocamos en completar el desarrollo del backend de cada Bounded Context (BC) siguiendo la arquitectura DDD definida, asegurando que cada módulo cuente con sus respectivas operaciones CRUD y lógica de negocio. Además, se implementaron mejoras en el landing page, alineándolas con la estructura y necesidades funcionales derivadas de los BC. Estas mejoras buscan ofrecer una presentación más clara y coherente del propósito de la plataforma y de sus principales beneficios para los usuarios. La validación de este avance se realizará a través de pruebas funcionales y de la evaluación del diseño e integración general del sistema. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta - Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  -. |
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 ##### 5.2.3.3.Sprint Backlog 3.
 ##### 5.2.3.4.Development Evidence for Sprint Review.
