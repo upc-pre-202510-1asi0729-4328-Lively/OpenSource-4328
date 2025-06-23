@@ -2463,21 +2463,21 @@ Este es nuestro link de invitación a nuestro Trello:
 <p align="center">
 <img src="assets/Gabriel_Torres.jpeg" alt="GabrielTorres"/>
 </p>
-Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/6W5zOnc9PkY)
+Link: [Entrevista Gabriel](https://youtu.be/6W5zOnc9PkY)
 
 
 **Entrevista N°2: Rodrigo Camus**
 <p align="center">
 <img src="assets/Rodrigo_Camus.jpeg" alt="RodrigoCamus"/>
 </p>
-Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
+Link: [Entrevista Rodrigo](https://youtu.be/BSvZhg22R-U)
 
 
 **Entrevista N°3: Sinaí Girón**
 <p align="center">
 <img src="assets/Sinai_Giron.jpeg" alt="SinaiGiron"/>
 </p>
-Link: [https://youtu.be/6W5zOnc9PkY](https://youtu.be/BSvZhg22R-U)
+Link: [Entrevista Sinai](https://youtu.be/BSvZhg22R-U)
 
 ##### 5.3.3. Evaluaciones según heurísticas.
 
