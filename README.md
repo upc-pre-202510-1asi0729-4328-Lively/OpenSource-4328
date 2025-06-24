@@ -92,12 +92,41 @@ Aquí se pueden visualizar todos los commits realizados para la TP1, lo cual evi
 <img src="./assets/commitsTPOPEN.png" alt="commitsTPOPEN" />
 
 
-PARA LA TP
-FRONT
-![image](https://github.com/user-attachments/assets/16d467c8-88a9-4c6c-be28-62891e48dec2)
-BACK
-![image](https://github.com/user-attachments/assets/e5c333e0-b948-4da7-8c26-e09fc4b51259)
-![image](https://github.com/user-attachments/assets/85d8c207-6d88-4bd2-bae4-fc4ea496ae69)
+## 📌 **PARA LA TB2**
+
+# 🚀 **Landing Page**
+![Landing Page Commits](./assets/landingCommits.jpeg)
+
+**Actividad registrada:**
+- **Ramiro Guzman:** 2 commits  
+- **Fatima Asmad:** 3 commits  
+
+---
+
+# 💻 **Frontend**
+![Frontend Commits](./assets/frontendCommits.jpeg)
+
+**Actividad registrada:**
+- **Ramiro Guzman:** 23 commits  
+- **Mauricio Muñoz:** 2 commits  
+- **Fatima Asmad:** 22 commits  
+- **Franco Huang:** 1 commit  
+- **Jeremy Quijada:** 3 commits  
+
+---
+
+# 🛠️ **Backend**
+![Backend Commits](./assets/backendCommits.jpeg)
+
+**Actividad registrada:**
+- **Ramiro Guzman:** 46 commits  
+- **Mauricio Muñoz:** 18 commits  
+- **Fatima Asmad:** 16 commits  
+- **Franco Huang:** 8 commits  
+- **Jeremy Quijada:** 6 commits  
+
+
+
 REPORTE
 ![image](https://github.com/user-attachments/assets/098160b8-0467-4ab3-8ff8-e5b22a102b96)
 ![image](https://github.com/user-attachments/assets/23d0bdf1-ee21-4fb1-ba94-8ed47b74bd59)
