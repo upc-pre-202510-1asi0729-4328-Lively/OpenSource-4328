@@ -2439,7 +2439,95 @@ Esta sección ofrece un resumen del objetivo central del sprint, resaltando las 
 Este es nuestro link de invitación a nuestro Trello:
 [https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1](https://trello.com/invite/b/68267bff8d17b7cdedc81fc0/ATTI9b222886c42338db28af15f683f5af1554589F3D/si729-20251-4328-grupo-1)
 
-##### 5.2.3.4.Development Evidence for Sprint Review.
+  ##### 5.2.3.4.Development Evidence for Sprint Review.
+
+  En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: **Landing Page**, **Web Applications (Frontend)** y **Web Services (Backend)**.  
+La sección inicia con una introducción que resume los principales avances en la implementación.
+
+Durante este Sprint se lograron avances importantes en los diferentes componentes del sistema:
+
+- **Web Services (Backend)**: Se implementaron y desplegaron los servicios principales en Azure, con integración a base de datos PostgreSQL. Se agregaron funcionalidades como usuarios, notificaciones, residentes y configuración de la infraestructura para despliegue automático.
+- **Web Applications (Frontend)**: Se avanzó en la implementación de funcionalidades de la interfaz de usuario, incluyendo recomendaciones, cambio de idioma y ajustes en la estructura del proyecto.
+- **Landing Page**: Se desarrollaron y ajustaron secciones informativas, se implementó un conmutador de idiomas y se realizaron mejoras en la navegación y estilo.
+
+A continuación se detallan los **commits** relevantes asociados a cada uno de los repositorios:
+
+ Web Services (Backend) — `upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare`
+ 
+  | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|-------------------|
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | cd9269f | Update application.properties | Update application.properties | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 6c6bb5c | Update application.properties | Update application.properties | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 948cba2 | Update application.properties | Update application.properties | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 65cc0f8 | Update application.properties | Update application.properties | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | c43e985 | Update develop_livelyagecare-opensource.yml | Update develop_livelyagecare-opensource.yml | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 914d8b3 | Update pom.xml | Update pom.xml | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 499653 | Update application.properties | Update application.properties | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 4397de0 | Update develop_livelyagecare-opensource.yml | Update develop_livelyagecare-opensource.yml | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 349a17d | Update pom.xml | Update pom.xml | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 5bdc038 | Add or update the Azure App Service build and deployment workflow config | Add or update the Azure App Service build and deployment workflow config | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 5438e84 | Add or update the Azure App Service build and deployment workflow config | Add or update the Azure App Service build and deployment workflow config | 24/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | develop | 2a8a2fc | feat(notification): add Swagger documentation to NotificationControll | feat(notification): add Swagger documentation to NotificationControll | 23/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/users | 901fe64 | docs(controllers): add Swagger documentation for User, Doctor, Family | docs(controllers): add Swagger documentation for User, Doctor, Family | 23/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/users | 9bfda2e | feat(users): implement CRUD for FamilyMember and Doctor with resource | feat(users): implement CRUD for FamilyMember and Doctor with resource | 23/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/users | 360ab32 | feat(users): implement user features | feat(users): implement user features | 22/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/users | 22b6e40 | feat(users): implement user features | feat(users): implement user features | 22/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/users | 360ab32 | fix: Correct errors for response data in residentresource and residen | fix: Correct errors for response data in residentresource and residen | 22/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/appointment | 498123f | feat: Adding configurations and limitations | feat: Adding configurations and limitations | 22/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/payment | f19f8a7 | Revert 'Feat/payment' | Revert 'Feat/payment' | 21/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/notification | 6efda4d | fix: documentation | fix: documentation | 20/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/appointment | 5045ce3 | add: querys and controllers | add: querys and controllers | 17/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/residents | f065a2d | fix: Delete valueobjects not corresponding in branch feat/residents | fix: Delete valueobjects not corresponding in branch feat/residents | 16/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/appointment | 59c5ba5 | fix/erros | fix/erros | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/appointment | 59d5fe9 | Add/ Commands and Services | Add/ Commands and Services | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/payments | 771598d | Add files via upload | Add files via upload | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/payments | 06d0649 | Create test | Create test | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/residents | 9fa152e | feat: Add ResidentsController | feat: Add ResidentsController | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | feat/residents | 9fa152e | feat: Add package shared | feat: Add package shared | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Backend-AgeCare | main | 46b62c4 | Initial commit | Initial commit | 23/04/2025 |
+
+ Web Applications (Frontend) — `upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare`
+
+
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|-------------------|
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/payments | 0c52088 | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/payments | (sin commit ID visible) | Deleted branch | Deleted branch | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/payments | ab62e6b | Add files via upload | Add files via upload | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/payments | ab62e6b | Primer commit | Primer commit | 15/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/appointment | 0c52088 | add/ valueobjects | add/ valueobjects | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/residents | 69017fa | add/ value Objects | add/ value Objects | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/appointment | 0c52088 | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | develop | f9a152e | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | Merge pull request #1 from upc-pre-202510-1asi0729-4328-Lively/feat/r | 11/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/residents | 3dfe1e7 | Update README.md | Update README.md | 11/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/residents | f9a152e | feat: Add ResidentsController | feat: Add ResidentsController | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | feat/residents | f9a152e | feat: Add package shared | feat: Add package shared | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | develop | ab62e6b | feat: Add package shared | feat: Add package shared | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | develop | ab62e6b | Primer commit | Primer commit | 10/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/Frontend-AgeCare | main | 46b62c4 | Primer commit | Primer commit | 10/06/2025 |
+
+
+Landing Page — `upc-pre-202510-1asi0729-4328-Lively/landing-page`
+
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|-------------------|
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | main | 7cec419 | fix: WHAT DOES AGACARE OFFER? | fix: WHAT DOES AGACARE OFFER? | 21/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | develop | ccae42e | Merge pull request #9 from upc-pre-202510-1asi0729-4328-Lively/seccio... | Merge pull request #9 from upc-pre-202510-1asi0729-4328-Lively/seccio... | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | seccion/Guía-de-la-Aplicación | 406ef6b | fix: navbar how it works? | fix: navbar how it works? | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | revert-8-seccion/Guía-de-la-Aplicación | (sin commit ID visible) | Deleted branch | Deleted branch | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | revert-8-seccion/Guía-de-la-Aplicación | 04e5155 | Revert "feat: agregar sección “¿Cómo funciona AgeCareDB?” en landing ..." | Revert "feat: agregar sección “¿Cómo funciona AgeCareDB?” en landing ..." | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | develop | ccae42e | Merge pull request #8 from upc-pre-202510-1asi0729-4328-Lively/seccio... | Merge pull request #8 from upc-pre-202510-1asi0729-4328-Lively/seccio... | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | seccion/Guía-de-la-Aplicación | 406ef6b | feat: agregar sección “¿Cómo funciona AgeCareDB?” en landing page | feat: agregar sección “¿Cómo funciona AgeCareDB?” en landing page | 14/06/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | main | 5e3d72c | fix: switcher language | fix: switcher language | 15/05/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | main | 50e9881 | feat: language toggle | feat: language toggle | 15/05/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | develop | 9c628a1 | feature/fixing mistakes | feature/fixing mistakes | 25/04/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | develop | fa9c8d8 | Merge pull request #7 from upc-pre-202510-1asi0729-4328-Lively/featur... | Merge pull request #7 from upc-pre-202510-1asi0729-4328-Lively/featur... | 25/04/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | feature/-recomendations | be40acd | java.js | java.js | 25/04/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | feature/-recomendations | 279d15d | style.css | style.css | 25/04/2025 |
+| upc-pre-202510-1asi0729-4328-Lively/landing-page | feature/-recomendations | fa3cd8 | index.html | index.html | 25/04/2025 |
+
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En la siguiente tabla se presentan los commits realizados durante el Sprint 3. En este sprint nos enfocamos en implementar los servicios clave del backend, como la creación, actualización y consulta de datos. Además, se integraron validaciones esenciales para garantizar la integridad de los datos, se mejoró la estructura de los controladores y servicios, y se realizó la documentación técnica de endpoints y entidades. Paralelamente, se avanzó en el desarrollo del frontend. Esta documentación respalda el progreso funcional alcanzado durante el sprint y sienta las bases para las funcionalidades finales de validación y monitoreo.
