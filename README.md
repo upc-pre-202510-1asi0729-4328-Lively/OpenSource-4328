@@ -2529,6 +2529,47 @@ Landing Page — `upc-pre-202510-1asi0729-4328-Lively/landing-page`
 | upc-pre-202510-1asi0729-4328-Lively/landing-page | feature/-recomendations | fa3cd8 | index.html | index.html | 25/04/2025 |
 
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Todas las vistas han sido desplegadas. Ver anexos para los enlaces
+
+![image](https://github.com/user-attachments/assets/3bdcc3d9-c4e2-4422-a5d7-927d23306660)
+![image](https://github.com/user-attachments/assets/c87504e7-5839-4e42-b31c-29310cf1f46b)
+![image](https://github.com/user-attachments/assets/c9c361a1-b5ff-4278-8a67-07493e6ccbdb)
+![image](https://github.com/user-attachments/assets/3d5ebc4a-2484-4eb0-83a9-2d55b936b6b3)
+![image](https://github.com/user-attachments/assets/733e18c7-ecc3-4487-ae1d-4079034f9db4)
+![image](https://github.com/user-attachments/assets/4981ae30-eff1-4932-839a-b78c82c70ac4)
+![image](https://github.com/user-attachments/assets/5accb5ac-78a2-46e8-b9e7-7068de68876c)
+![image](https://github.com/user-attachments/assets/f79287d7-732b-42c0-8ba4-6c361be2c6ab)
+![image](https://github.com/user-attachments/assets/10e4e949-39f6-4a11-afcf-4df9f2ed572c)
+![image](https://github.com/user-attachments/assets/01121f96-8d2f-4a0b-b7d4-ab11cd1cc49f)
+
+![image](https://github.com/user-attachments/assets/6fef2698-5d68-4d32-b3e0-111a11dd8e9f)
+![image](https://github.com/user-attachments/assets/474bf422-35d6-4689-b92f-5e3a3e26c730)
+![image](https://github.com/user-attachments/assets/4797fa32-a283-46be-bfde-4babe8db3231)
+![image](https://github.com/user-attachments/assets/9dc72c62-482d-48d5-8869-ef2bb77f45c7)
+![image](https://github.com/user-attachments/assets/51ec2520-0e88-4810-9315-bb66306f0b4b)
+![image](https://github.com/user-attachments/assets/0967ce37-5c0f-4994-8132-327dc77f9e89)
+![image](https://github.com/user-attachments/assets/6a985019-bdc1-425c-872d-efa3de3ed4b4)
+![image](https://github.com/user-attachments/assets/e4688d10-9278-4a15-a0b2-3b03fa8e0a2c)
+![image](https://github.com/user-attachments/assets/cd93681c-ecbb-45a5-ace0-5de39adea388)
+![image](https://github.com/user-attachments/assets/c729fb00-bf15-44ee-bcb5-ff715240921c)
+![image](https://github.com/user-attachments/assets/be96a45c-9d4f-4640-85fc-dedd8a8908ba)
+![image](https://github.com/user-attachments/assets/e7a5a426-d94a-45d3-91d5-20cca55d4830)
+![image](https://github.com/user-attachments/assets/3cd2f440-f1fd-46e9-b589-d20a7516590b)
+![image](https://github.com/user-attachments/assets/ca2c67e7-b200-4e76-b12e-07d93380cef3)
+![image](https://github.com/user-attachments/assets/1e3e77d1-6ce7-4b57-85cf-5078f46ff867)
+![image](https://github.com/user-attachments/assets/d07a7b37-ae7b-4b28-ba1c-bf2d1f51df09)
+![image](https://github.com/user-attachments/assets/831b588a-c8fe-4982-8fc2-feadace30f81)
+![image](https://github.com/user-attachments/assets/f0e65ccc-840a-4bd7-8583-93cc20590a48)
+![image](https://github.com/user-attachments/assets/dee0719b-ed13-4fdf-ae72-099a870e1a17)
+![image](https://github.com/user-attachments/assets/af3bcaa9-0a33-43ad-9efb-a09cc940c43a)
+
+
+
+Enalce about the product
+
+https://upcedupe-my.sharepoint.com/personal/u202217212_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217212%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4328%2Dlively%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E15aababf%2D8d63%2D43ea%2Daf71%2De122053f15aa&isDarkMode=true
+
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En la siguiente tabla se presentan los commits realizados durante el Sprint 3. En este sprint nos enfocamos en implementar los servicios clave del backend, como la creación, actualización y consulta de datos. Además, se integraron validaciones esenciales para garantizar la integridad de los datos, se mejoró la estructura de los controladores y servicios, y se realizó la documentación técnica de endpoints y entidades. Paralelamente, se avanzó en el desarrollo del frontend. Esta documentación respalda el progreso funcional alcanzado durante el sprint y sienta las bases para las funcionalidades finales de validación y monitoreo.
 
@@ -2635,6 +2676,12 @@ Para asegurar una experiencia de usuario efectiva, accesible y centrada en las n
 |10| **Ayuda y documentación** | No hay evidencia de secciones de ayuda o tutoriales. | Incluir una sección de "Ayuda", FAQs o videos introductorios para cada tipo de usuario. |
 
 #### 5.4. Video About-the-Product.
+Se muestra la secuencia de nuestro video del proyecto cubriendo todas las funcionalidades core.
+
+[Link en Microsoft stream
+](https://upcedupe-my.sharepoint.com/personal/u202217212_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217212%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4328%2Dlively%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E15aababf%2D8d63%2D43ea%2Daf71%2De122053f15aa&isDarkMode=true)
+
+https://upcedupe-my.sharepoint.com/personal/u202217212_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217212%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4328%2Dlively%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E15aababf%2D8d63%2D43ea%2Daf71%2De122053f15aa&isDarkMode=true
 
 ## Conclusiones
 ### Conclusiones y recomendaciones
@@ -2683,5 +2730,8 @@ Romero-Albino, Z., Tenorio-Mucha, J., & Cuba-Fuentes, M. S. (2022). _Telemonitor
 - Deployment JsonServer Asmad: [JsonServer Asmad](https://ca46f759261bd14f42fd.free.beeceptor.com/api/v1/residents)
 - Deployment FrontEnd Liu: [FrotEnd Liu](https://agecare-reports-huang.web.app/learning/students)
 - Deployment JsonServer Liu: [JsonServer Liu](https://cafae7074d3302b3a432.free.beeceptor.com/api/v1/reports/)
-- Deployment TB2 https://agecare-7630e.web.app/home
-
+- Deployment FRONT TB2 https://agecare-7630e.web.app/home
+- Deployment BACK TB2 https://livelyagecare-opensource-bke7czhsgfcdfffk.eastus-01.azurewebsites.net/swagger-ui/index.html#
+- VIDEO ABOUT THE PRODUCT  https://upcedupe-my.sharepoint.com/personal/u202217212_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217212%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4328%2Dlively%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E15aababf%2D8d63%2D43ea%2Daf71%2De122053f15aa&isDarkMode=true
+- VIDEO ABOUT THE TEAM  https://upcedupe-my.sharepoint.com/personal/u202217212_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217212%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0729%2D4328%2Dlively%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8d79a6f9%2D976f%2D497b%2D9f30%2Dbd4a04ff290a&isDarkMode=true&mode=Edit
+- LANDING PAGE DEPLOY https://upc-pre-202510-1asi0729-4328-lively.github.io/landing-page/
