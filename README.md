@@ -2685,7 +2685,7 @@ Link: [Entrevista Rodrigo](https://youtu.be/BSvZhg22R-U)
 <p align="center">
 <img src="assets/Sinai_Giron.jpg" alt="SinaiGiron" height = 700/>
 </p>
-Link: [Entrevista Sinai](https://youtu.be/BSvZhg22R-U)
+Link: [Entrevista Sinai](https://youtu.be/LrLMxtE9tLY)
 
 ##### 5.3.3. Evaluaciones según heurísticas.
 
