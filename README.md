@@ -196,7 +196,7 @@ A continuación, se presentan los avances y reportes obtenidos durante este proc
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-     - [5.2.3. Sprint 3](#523-Sprint-3)Add commentMore actions
+     - [5.2.3. Sprint 3](#523-Sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-Sprint-Planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-Aspect-Leaders-and-Collaborators)
       - [5.2.3.3. Sprint Backlog 3](5233-Sprint-Backlog-3)
