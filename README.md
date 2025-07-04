@@ -69,6 +69,8 @@
 
 Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante del equipo se encargó de redactar y generar gráficos en formato Markdown, según los puntos que le fueron asignados, realizando commits para dejar constancia del progreso en el repositorio.
 
+## TB1:
+
 Aquí se pueden visualizar todos los commits realizados para la TB1, lo cual evidencia el trabajo colaborativo del equipo.
 
 <p align="center">
@@ -92,44 +94,16 @@ Aquí se pueden visualizar todos los commits realizados para la TP1, lo cual evi
 <img src="./assets/commitsTPOPEN.png" alt="commitsTPOPEN" />
 
 
-## 📌 **PARA LA TB2**
+## TB2:
+En este segundo trabajo práctico, continuamos con el desarrollo y perfeccionamiento del proyecto, utilizando una metodología ágil que nos permitió mantener una estructura modular y flexible. Al igual que en el TP1, se crearon distintas ramas para abordar cada sección del proyecto de manera independiente. Esto facilitó la asignación de tareas y permitió un control más eficiente sobre el progreso del equipo. Cada rama fue posteriormente integrada a la rama develop, garantizando una evolución constante del proyecto con revisiones periódicas.
 
-# 🚀 **Landing Page**
-![Landing Page Commits](./assets/landingCommits.jpeg)
+A continuación, se presentan los avances y reportes obtenidos durante este proceso, donde se puede observar el impacto de las tareas realizadas y cómo cada una contribuyó al resultado final.
 
-**Actividad registrada:**
-- **Ramiro Guzman:** 2 commits  
-- **Fatima Asmad:** 3 commits  
+<p align="center">
+<img src="./assets/TB2REPORTE1.png" alt="TB2REPORTE1" />
 
----
-
-# 💻 **Frontend**
-![Frontend Commits](./assets/frontendCommits.jpeg)
-
-**Actividad registrada:**
-- **Ramiro Guzman:** 23 commits  
-- **Mauricio Muñoz:** 2 commits  
-- **Fatima Asmad:** 22 commits  
-- **Franco Huang:** 1 commit  
-- **Jeremy Quijada:** 3 commits  
-
----
-
-# 🛠️ **Backend**
-![Backend Commits](./assets/backendCommits.jpeg)
-
-**Actividad registrada:**
-- **Ramiro Guzman:** 46 commits  
-- **Mauricio Muñoz:** 18 commits  
-- **Fatima Asmad:** 16 commits  
-- **Franco Huang:** 8 commits  
-- **Jeremy Quijada:** 6 commits  
-
-
-
-REPORTE
-![image](https://github.com/user-attachments/assets/098160b8-0467-4ab3-8ff8-e5b22a102b96)
-![image](https://github.com/user-attachments/assets/23d0bdf1-ee21-4fb1-ba94-8ed47b74bd59)
+<p align="center">
+<img src="./assets/TB2REPORTE2.png" alt="TB2REPORTE2" />
 
   
 ---
